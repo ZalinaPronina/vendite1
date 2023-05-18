@@ -1,0 +1,170 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_5.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Piper-Heidsieck",
+            "text": "<p>Inspiriert durch das Terroir der Champagne und ihre jahrhundertealte Tradition produziert Piper-Heidsieck Champagner aus den 3 beliebtesten Rebsorten: Chardonnay, Pinot Meunier sowie Pinot Noir. Alle Trauben für Piper-Heidsieck wachsen in außergewöhnlichen Crus, vorwiegend in der Montagne de Reims und der Côte des Bar.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "5e6e0ede-74e6-4e6b-9330-32160fc7c71c": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--16101713543434__5e6e0ede-74e6-4e6b-9330-32160fc7c71c-1677501842a64ce358-2": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/piper-heidsieck.png",
+            "logo_width": 130
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713543434__5e6e0ede-74e6-4e6b-9330-32160fc7c71c-1677501842a64ce358-2"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "a678209e-15b4-43a6-9b1e-7e6f2bf0770c": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101713543434__a678209e-15b4-43a6-9b1e-7e6f2bf0770c-1677501979ad84474b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/piper-heidsieck.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101713543434__a678209e-15b4-43a6-9b1e-7e6f2bf0770c-1677501979ad84474b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Geschichte von",
+            "title": "Piper-Heidsieck",
+            "text": "<p>Jede große Geschichte beginnt mit einer Begegnung. Agathe Perthois war die Inspiration, der Grund für Florens-Louis Heidsieck, einen \"Wein, der lächelt\" zu kreieren.  Ein unglaubliches Unterfangen für den jungen Mann aus Deutschland, der 1777 zum ersten Mal die Champagne und ihre Weine entdeckte.  Verliebt und von Abenteuerlust getrieben, ließ sich das hartnäckige Genie durch nichts aufhalten. Und warum nicht \"eine Cuvée kreieren, die einer Königin würdig ist\"?  Als er 1785 das Unternehmen \"Heidsieck & Cie\" (heute <a href=\"https:\/\/www.piper-heidsieck.com\/en\/our-house\" target=\"_blank\" title=\"Piper-Heidsieck\">Piper Heidsieck<\/a>) gründete, verfolgte der ehrgeizige Selbstdarsteller einen besonderen Traum: Er wollte Marie Antoinette mit den feinen und fröhlichen Bläschen seines Champagners betören.   Als er der Königin seine erste Cuvée schenkte, war es Liebe auf den ersten Schluck, und sie wurde die erste Botschafterin von \"Heidsieck & Cie\". Und da das Glück demjenigen hold ist, der sich traut, heiratet Florens-Louis Heidsieck im selben Jahr Agathe Perthois, seine große Liebe. Zwei Männer, zunächst Christian Heidsieck (der Neffe von Florens-Louis) und dann Henri-Guillaume Piper, schließen sich dem Unternehmen in Reims an.  Sie wurden schnell unzertrennlich und trugen gemeinsam dazu bei, den Ruf des Champagnerhauses weit über die Grenzen Frankreichs hinaus zu verbreiten. Als Florens-Louis 1828 stirbt, beschließt das legendäre Duo, das Abenteuer Seite an Seite fortzusetzen. Vom Habsburger Prinzen bis zum chinesischen Kaiser gewährten 14 königliche und kaiserliche Höfe dem Champagnerhaus das Privileg eines königlichen Würdenträgers.  Die gesamte High Society begehrte \"Heidsiecks Wein, hergestellt von Piper\".  Doch im Jahr 1835 verstarb Christian Heidsieck plötzlich und beendete damit diese großartige Partnerschaft. Nach einer angemessenen Trauerzeit heiratete seine Witwe erneut - und zwar keinen Geringeren als Henri-Guillaume Piper.  Und so sollte die wahre Liebe erneut ihren Einfluss geltend machen und die Geschicke dieses Champagnerhauses lenken. Sie war der Ursprung der untrennbaren Verbindung zwischen den Namen PIPER und HEIDSIECK.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713543434__a678209e-15b4-43a6-9b1e-7e6f2bf0770c-1677501979ad84474b-0",
+        "template--16101713543434__a678209e-15b4-43a6-9b1e-7e6f2bf0770c-1677501979ad84474b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "5e6e0ede-74e6-4e6b-9330-32160fc7c71c",
+    "hero",
+    "a678209e-15b4-43a6-9b1e-7e6f2bf0770c"
+  ]
+}

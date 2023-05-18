@@ -1,0 +1,323 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design_ohne_Titel_1.png",
+            "bg_position": "center-bottom",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Scotch Whisky & Whiskey",
+            "text": "<p>Ausgewählter Scotch Whisky & Whiskey der bekanntesten & ausgezeichnetsten Brennereien der Welt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "16564892438da86ae0": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Entdecken Sie ausgewählte Scotch Whisky & Whiskey der berühmtesten Destillerien der Welt. Wir bieten Ihnen Produkte von <a href=\"\/collections\/glenmorangie\" target=\"_blank\" title=\"Glenmorangie\">Glenmorangie<\/a>, <a href=\"\/collections\/ardbeg\" target=\"_blank\" title=\"Ardbeg\">Ardbeg<\/a>, <a href=\"\/collections\/lagavulin\" target=\"_blank\" title=\"Lagavulin\">Lagavulin<\/a>, <a href=\"\/collections\/suntory-whisky\" target=\"_blank\" title=\"Suntory Whisky\">Suntory Whisky<\/a>, <a href=\"\/collections\/highland-park\" target=\"_blank\" title=\"Highland Park\">Highland Park<\/a>, <a href=\"\/collections\/the-macallan\" target=\"_blank\" title=\"The Macallan\">The Macallan<\/a>, <a href=\"\/collections\/chivas-regal\" target=\"_blank\" title=\"Chivas Regal\">Chivas Regal<\/a>, <a href=\"\/collections\/tullamore-dew\" target=\"_blank\" title=\"Tullamore Dew\">Tullamore D.E.W.<\/a>, <a href=\"\/collections\/kabumm\" target=\"_blank\" title=\"KABUMM\">Kabumm<\/a> und viele weitere.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1652176269540f885d": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "1652176269e8c3cc57-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Scotch Whisky & Whiskey"
+          }
+        },
+        "1652176269e8c3cc57-1": {
+          "type": "question",
+          "settings": {
+            "title": "Unsere Marken",
+            "content": "<p>Entdecken Sie ausgewählte Scotch Whisky & Whiskey der berühmtesten Destillerien der Welt. Wir bieten Ihnen Produkte von <a href=\"\/collections\/glenmorangie\" target=\"_blank\" title=\"Glenmorangie\">Glenmorangie<\/a>, <a href=\"\/collections\/ardbeg\" target=\"_blank\" title=\"Ardbeg\">Ardbeg<\/a>, <a href=\"\/collections\/lagavulin\" target=\"_blank\" title=\"Lagavulin\">Lagavulin<\/a>, <a href=\"\/collections\/suntory-whisky\" target=\"_blank\" title=\"Suntory Whisky\">Suntory Whisky<\/a>, <a href=\"\/collections\/the-macallan\" target=\"_blank\" title=\"The Macallan\">The Macallan<\/a>, <a href=\"\/collections\/chivas-regal\" target=\"_blank\" title=\"Chivas Regal\">Chivas Regal<\/a>, <a href=\"\/collections\/tullamore-dew\" target=\"_blank\" title=\"Tullamore Dew\">Tullamore D.E.W.<\/a>, <a href=\"\/collections\/kabumm\" target=\"_blank\" title=\"KABUMM\">Kabumm<\/a> und viele weitere.<\/p>"
+          }
+        },
+        "1652176269e8c3cc57-2": {
+          "type": "question",
+          "settings": {
+            "title": "Über Whisky \/ Whiskey",
+            "content": "<p>Whisky oder auch Whiskey wird durch die Destillation von vergorener Getreidemaische hergestellt die anschließend in Holzfässern reift. Die Geschichte des Whisky reicht bis in das 15. Jahrhundert zurück. Bis jetzt ist noch ungeklärt, ob Schottland oder Irland das Ursprungsland ist. Die ersten bekannten Erwähnungen kamen von einem Benediktiner-Mönch aus dem Kloster Lindores in der damaligen schottischen Hauptstadt Dunfermline.<\/p>"
+          }
+        },
+        "1652176269e8c3cc57-3": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Whisky\/Whiskey Sorten gibt es?",
+            "content": "<p>Welche Whisky\/Whiskey Sorten es gibt haben wir Ihnen in <a href=\"\/blogs\/cover\/whisky-whiskey-sorten\" target=\"_blank\" title=\"Whisky & Whiskey Sorten | Bourben, Scotch, Rye... Ihre Unterschiede\">diesem Blog <\/a>ausführlich berichtet. <\/p><p><strong>Malt Whisky: <\/strong><\/p><p>Malt Whisky wird hauptsächlich in Schottland und Irland aus gemälzter Gerste produziert und reift mindestens 3 Jahre im Bourbonfass. <\/p><p><strong>Single Malt Whisky:<\/strong><\/p><p>Meistens schottischer Gerstenmalz-Whisky der aus einer einzelnen Brennerei stammt.<\/p><p><strong>Single- \/ Single Cask oder Single Barrel Malt Whisky:<\/strong><\/p><p>Whisky der nur aus einem einzelnen Fass abgefüllt wird.<\/p><p><strong>Blend \/ Blended Whisky:<\/strong><\/p><p>Eine Mischung aus Grain und Malt Whisky sowie verschiedenen Reifegraden, Fässern und Produkten verschiedener Destillerien.<\/p><p><strong>Grain Whisky:<\/strong><\/p><p>Whisky bzw. Kornbrand der andere Getreidesorten wie bspw. Mais, Weizen oder Gerste als Hauptzutat nutzt. In den USA wird für einen Grain Whisky hauptsächlich Roggen verwendet.<\/p><p><strong>Rye Whiskey<\/strong><\/p><p>Whiskey der aus Roggen hergestellt wird und mindestens 6 Monate in Fässern aus amerikanischer Weißeiche reift.<\/p><p><strong>Corn Whiskey:<\/strong><\/p><p>Mais-Whiskey der mindestens aus 51% Mais hergestellt wird und mindestens 3 Jahre in Fässern aus amerikanischer Weißeiche reift.<\/p><p><strong>Bourbon Whiskey:<\/strong><\/p><p>Mais-Whiskey der mindestens aus 51% Mais hergestellt wird und mindestens 3 Jahre in Fässern aus amerikanischer Weißeiche reift.<\/p><p><\/p>"
+          }
+        },
+        "3ea1cd1c-dbb0-408c-91ee-f014ec94a5e2": {
+          "type": "question",
+          "settings": {
+            "title": "Wie wird Whisky am besten gelagert?",
+            "content": "<p>Whisky sollte man stehend lagern, da der Korken meistens nicht so dicht abschließt wie bspw. bei einer Weinflasche. Der Whisky sollte keinem Sonnenlicht oder UV Licht ausgesetzt sein, da er sonst ausbleichen könnte. Unter diesen Bedingungen ist eine Lagerung bei geschlossener Flasche über 10 Jahre durchaus möglich. Eine geöffnete Flasche Whisky hält sich ungefähr 6 Monate.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652176269e8c3cc57-0",
+        "1652176269e8c3cc57-1",
+        "1652176269e8c3cc57-2",
+        "1652176269e8c3cc57-3",
+        "3ea1cd1c-dbb0-408c-91ee-f014ec94a5e2"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--small",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1656489344484b5bf8": {
+      "type": "section-custom-content",
+      "blocks": {
+        "165648934441511d6d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_1.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 35,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "Whisky",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "165648934441511d6d-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Über Whisky",
+            "text": "<p>Whisky oder auch Whiskey wird durch die Destillation von vergorener Getreidemaische hergestellt die anschließend in Holzfässern reift. Die Geschichte des Whisky reicht bis in das 15. Jahrhundert zurück. Bis jetzt ist noch ungeklärt, ob Schottland oder Irland das Ursprungsland ist. Die ersten bekannten Erwähnungen kamen von einem Benediktiner-Mönch aus dem Kloster Lindores in der damaligen schottischen Hauptstadt Dunfermline.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "165648934441511d6d-0",
+        "165648934441511d6d-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1656489577ad8e42cb": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16564895764dd84a11-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Welche Whisky\/Whiskey Sorten gibt es?",
+            "text": "<p>Welche Whisky\/Whiskey Sorten es gibt haben wir Ihnen in <a href=\"\/blogs\/cover\/whisky-whiskey-sorten\" target=\"_blank\" title=\"Whisky & Whiskey Sorten | Bourben, Scotch, Rye... Ihre Unterschiede\">diesem Blog <\/a>ausführlich berichtet. <\/p><p><strong>Malt Whisky: <\/strong><\/p><p>Malt Whisky wird hauptsächlich in Schottland und Irland aus gemälzter Gerste produziert und reift mindestens 3 Jahre im Bourbonfass. <\/p><p><strong>Single Malt Whisky:<\/strong><\/p><p>Meistens schottischer Gerstenmalz-Whisky der aus einer einzelnen Brennerei stammt.<\/p><p><strong>Single- \/ Single Cask oder Single Barrel Malt Whisky:<\/strong><\/p><p>Whisky der nur aus einem einzelnen Fass abgefüllt wird.<\/p><p><strong>Blend \/ Blended Whisky:<\/strong><\/p><p>Eine Mischung aus Grain und Malt Whisky sowie verschiedenen Reifegraden, Fässern und Produkten verschiedener Destillerien.<\/p><p><strong>Grain Whisky:<\/strong><\/p><p>Whisky bzw. Kornbrand der andere Getreidesorten wie bspw. Mais, Weizen oder Gerste als Hauptzutat nutzt. In den USA wird für einen Grain Whisky hauptsächlich Roggen verwendet.<\/p><p><strong>Rye Whiskey<\/strong><\/p><p>Whiskey der aus Roggen hergestellt wird und mindestens 6 Monate in Fässern aus amerikanischer Weißeiche reift.<\/p><p><strong>Corn Whiskey:<\/strong><\/p><p>Mais-Whiskey der mindestens aus 51% Mais hergestellt wird und mindestens 3 Jahre in Fässern aus amerikanischer Weißeiche reift.<\/p><p><strong>Bourbon Whiskey:<\/strong><\/p><p>Mais-Whiskey der mindestens aus 51% Mais hergestellt wird und mindestens 3 Jahre in Fässern aus amerikanischer Weißeiche reift.<\/p><p><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16564895764dd84a11-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-175945178.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 25,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "Whisky Sorten",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16564895764dd84a11-1",
+        "16564895764dd84a11-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1656489797912107d6": {
+      "type": "section-custom-content",
+      "blocks": {
+        "8b48a4f5-ae04-4c82-a2d1-e6ce805ceb70": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSF3668_fccc857c-3d1b-4acd-abd3-0473aca0cea5.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1656489797da615a93-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Wie wird Whisky am besten gelagert?",
+            "text": "<p>Whisky sollte man stehend lagern, da der Korken meistens nicht so dicht abschließt wie bspw. bei einer Weinflasche. Der Whisky sollte keinem Sonnenlicht oder UV Licht ausgesetzt sein, da er sonst ausbleichen könnte. Unter diesen Bedingungen ist eine Lagerung bei geschlossener Flasche über 10 Jahre durchaus möglich. Eine geöffnete Flasche Whisky hält sich ungefähr 6 Monate.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "8b48a4f5-ae04-4c82-a2d1-e6ce805ceb70",
+        "1656489797da615a93-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "hero",
+    "16564892438da86ae0",
+    "1652176269540f885d",
+    "1656489344484b5bf8",
+    "1656489577ad8e42cb",
+    "1656489797912107d6"
+  ]
+}

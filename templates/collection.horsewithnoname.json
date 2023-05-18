@@ -1,0 +1,221 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/horsewithnoname.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Horse With No Name",
+            "text": "<p>Das Unternehmen The Horses Spirit Company (Horse With No Name) wurde im Jahr 2020 im Schwarzwald gegründet. Ihr Ziel? Das jahrhundertealte Destillations-Know-how ihrer Heimatregion mit der traditionellen Herstellung von amerikanischem Whiskey zu verschmelzen und so das Beste aus beiden Welten auf einem neuen Weg in die Welt der Spirituosen einzufangen. Aufsatteln!<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "b281798e-d497-446d-a9ab-4c2867ab22d6": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--17798535971082__b281798e-d497-446d-a9ab-4c2867ab22d6-168008094652cb26fc-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/horsewithnoname.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "template--17798535971082__b281798e-d497-446d-a9ab-4c2867ab22d6-168008094652cb26fc-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "bc03d520-e3c2-4873-90cd-839540aa342e": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--17798535971082__bc03d520-e3c2-4873-90cd-839540aa342e-16800804574626f655-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/horsewithnoname-history.jpg",
+            "bg_position": "right-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--17798535971082__bc03d520-e3c2-4873-90cd-839540aa342e-16800804574626f655-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Geschichte von",
+            "title": "Horse With No Name",
+            "text": "<p><a href=\"https:\/\/horsewithnoname.com\/sheriffs-office\" target=\"_blank\" title=\"Horse With No Name\">The Horses Spirit Company<\/a> sind durch und durch Destillateure, aber keineswegs Whiskey-Experten. Getreu dem Motto, dass ein Schuster immer bei seinen Leisten bleiben sollte, haben Sie beschlossen, sich mit der Firestone and Robertson Distillery in Texas zusammenzutun, um die firmeneigene \"All Git-Out\"-Maischung zu entwickeln. F&R wurde 2010 von Leonard Firestone und Troy Robertson gegründet und ist eine handwerkliche Whiskey-Destillerie mit Sitz in Fort Worth. Ihr erstes Produkt kam 2012 auf den Markt und wurde prompt mit dem Preis \"Best American Craft Whiskey\" ausgezeichnet. Zu diesem Zeitpunkt war bereits klar, dass die Brennerei expandieren musste, also taten Firestone und Robertson, was jeder Kleinunternehmer tun würde: Sie kauften einen stillgelegten 18-Loch-Golfplatz, renovierten ihn und bauten auf dem Gelände ein 112 Hektar großes Wunderland namens Whiskey Ranch. Firestone and Robertson stellt nun den meistverkauften Craft Whiskey in Texas her und betreibt die größte Whiskey-Destillerie westlich des Mississippi. Vorläufig wird der Bourbon von Pernod Ricard USA geliefert und mittelfristig - Gutes kommt zu denen, die warten - exklusiv von der Firestone and Robertson Distillery hergestellt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--17798535971082__bc03d520-e3c2-4873-90cd-839540aa342e-16800804574626f655-0",
+        "template--17798535971082__bc03d520-e3c2-4873-90cd-839540aa342e-16800804574626f655-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "29e92944-89c7-4230-88ad-fc55d453c77a": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--17798535971082__29e92944-89c7-4230-88ad-fc55d453c77a-16800804574626f655-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Geschichte von der",
+            "title": "Red Savina Pepper",
+            "text": "<p>Für die Herstellung Ihres Destillats verwenden Sie eine Habanero-Art namens Red Savina, eine Züchtung der Habanero-Chili (Capsicum chinense Jacquin). Sie wurde selektiv gezüchtet, um schärfere, schwerere und größere Früchte zu produzieren, die letztlich stärker sind als die klassische Habanero. Frank Garcia von GNS Spices in Walnut, Kalifornien, gilt als Entwickler der Red Savina, aber die genaue Methodik, die er bei der Auswahl der schärfsten Zuchtstämme angewandt hat, ist nicht öffentlich bekannt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--17798535971082__29e92944-89c7-4230-88ad-fc55d453c77a-16800804574626f655-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/habanero.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--17798535971082__29e92944-89c7-4230-88ad-fc55d453c77a-16800804574626f655-1",
+        "template--17798535971082__29e92944-89c7-4230-88ad-fc55d453c77a-16800804574626f655-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "b281798e-d497-446d-a9ab-4c2867ab22d6",
+    "hero",
+    "bc03d520-e3c2-4873-90cd-839540aa342e",
+    "29e92944-89c7-4230-88ad-fc55d453c77a"
+  ]
+}

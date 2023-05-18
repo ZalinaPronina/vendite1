@@ -1,0 +1,170 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/carlos-brandy.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Carlos I",
+            "text": "<p>Carlos I gehört zur Osborne-Gruppe, einem der ältesten und renommiertesten Hersteller von Wein und Spirituosen in Spanien. Das 1772 von Thomas Osborne gegründete Unternehmen produziert, selektiert und verbessert seit mehr als zwei Jahrhunderten ein wirklich renommiertes und authentisches Produkt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "4fde159d-1a92-4907-b8c3-b67482da7c2d": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--17769964536074__4fde159d-1a92-4907-b8c3-b67482da7c2d-1678788587645d1a41-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Carlos-I.png",
+            "logo_width": 120
+          }
+        }
+      },
+      "block_order": [
+        "template--17769964536074__4fde159d-1a92-4907-b8c3-b67482da7c2d-1678788587645d1a41-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "2261b1c8-2384-493a-ac08-bfd387af743c": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--17769964536074__2261b1c8-2384-493a-ac08-bfd387af743c-16787890356321f302-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Carlos_I.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--17769964536074__2261b1c8-2384-493a-ac08-bfd387af743c-16787890356321f302-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Das Handwerk von",
+            "title": "Carlos I",
+            "text": "<p>Der Brandy von Carlos I wird in El Puerto de Santa María, Cádiz, in der Region Jerez hergestellt. Die Weinkeller befinden sich im Herzen der Stadt, einem wahrhaft magischen Ort. Das geografische Gebiet bildet ein Mikroklima, das durch die umliegenden Gewässer - den Atlantik, die Flüsse Guadalete und Guadalquivir - und die vorherrschenden Levante- und Poniente-Ostwinde reguliert wird. Diese Klimabedingungen spielen bei der Herstellung und Reifung der Brände aus dem Gebiet von Jerez eine entscheidende Rolle. Die Herstellung von Carlos I beginnt mit der sorgfältigen Auswahl der besten Trauben, aus denen die zu destillierenden Weine gewonnen werden. Die Destillation erfolgt handwerklich und diskontinuierlich in kupfernen Brennblasen mit einem Fassungsvermögen von 5000 Litern und in Brennblasen mit einem Fassungsvermögen von 2500 Litern, die sich alle in den eigenen Brennerei befinden. Die Tatsache, dass sie aus Kupfer bestehen, führt zu einem langsameren Prozess und einer geringeren Ausbeute. Bei dieser diskontinuierlichen Destillation werden die minderwertigen Fraktionen des Destillats, die so genannten Heads und Tails, abgetrennt und nur der zentrale Teil der Destillation, das Herzstück, die so genannte Holanda, aufbewahrt, die die hochwertigste Komponente darstellt und die Grundlage für <a href=\"https:\/\/carlosbrandy.com\/en\/our-brandy\/\" target=\"_blank\" title=\"https:\/\/carlosbrandy.com\/en\/our-brandy\/\">Carlos I<\/a> bildet. Nur durch die Extraktion der erlesensten Holandas erhält Carlos I das feinste, kostbarste und delikateste Destillat, mit dem perfekten Aroma, um die amerikanischen Eichenfässer in Ihren Criaderas zu füllen, in denen der Brandy langsam reifen wird. Die Weinkeller, die auf eine über 250-jährige Geschichte zurückblicken, sind für Carlos I Ihre Kathedralen. Diese monumentalen Gebäude wurden gebaut, um die Weine zu lagern, bevor sie nach Übersee verschifft wurden, und werden aufgrund ihrer Höhe, ihrer Bögen und der Anordnung ihrer Kirchenschiffe Kathedralen genannt. Die Außenwände bestehen aus Sandstein oder Ziegeln mit einer Dicke von mindestens 60 Zentimetern, um eine optimale Temperatur und Luftfeuchtigkeit zu gewährleisten. Auf diese Weise werden Schwankungen des Mikroklimas in der Kellerei vermieden, die sich negativ auf die Qualität der Brände auswirken würden. Dieses Erbe ist zweifelsohne Ihr größtes Kapital.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--17769964536074__2261b1c8-2384-493a-ac08-bfd387af743c-16787890356321f302-0",
+        "template--17769964536074__2261b1c8-2384-493a-ac08-bfd387af743c-16787890356321f302-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "4fde159d-1a92-4907-b8c3-b67482da7c2d",
+    "hero",
+    "2261b1c8-2384-493a-ac08-bfd387af743c"
+  ]
+}

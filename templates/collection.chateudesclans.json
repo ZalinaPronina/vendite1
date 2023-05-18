@@ -1,0 +1,209 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC06617.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Château d’Esclans",
+            "text": "<p>Das bekannte Weingut Château d’Esclans liegt im Herzen der Provence und überzeugt mit einer langen Geschichte & der alten Grenache-Rebstöcke die überzeugene Rosé Weine erzeugen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "166246848607378a58": {
+      "type": "section-custom-content",
+      "blocks": {
+        "166246848683db0392-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC06617.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "166246848683db0392-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Das Weingut",
+            "text": "<p>Das Château d'Esclans befindet sich an einem außergewöhnlichen Ort, auf einer Anhöhe in der Nähe der Gorges de Pennafort, 25 km nordwestlich der alten römischen Stadt Frejus an der Mittelmeerküste. Die ersten Hinweise auf den Standort des Schlosses gehen auf die Zeit der Gallier zurück, als es als Aussichtspunkt diente, um Eindringlinge zu beobachten, die mit dem Boot in den Golf von Frejus kamen. Die Kellerstruktur bzw. das Fundament des Schlosses (das heute als das älteste in der Region bekannt ist) beherbergte ein ursprüngliches Schloss, das 1201 vom Grafen der Provence an Gérard de Villeneuve übergeben wurde.  Die Hauptrebsorte, die auf dem Weingut angebaut wird, ist Grenache, gefolgt von Vermentino. Weitere Rebsorten sind Cinsault, Merlot, Mourvèdre, Syrah und Tibouren. Das Château ist bekannt für seine alten Grenache-Rebstöcke, die Trauben mit einer höheren Geschmackskonzentration hervorbringen als die jüngeren Rebstöcke. Mit zunehmender Höhe der Parzellen steigt auch das Alter der Rebstöcke. In den höchstgelegenen Parzellen sind die Rebstöcke bis zu 90 Jahre alt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "166246848683db0392-0",
+        "166246848683db0392-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1662468811ab395788": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "Die Herstellung",
+        "title": "Die Weinlese im Château d'Esclans",
+        "text": "<p>Die Weinlese im Château d'Esclans findet jedes Jahr im September von Sonnenaufgang bis Mittag statt, um die Hitze des Tages zu vermeiden. Während der Weinlese werden die reifsten Trauben ausgewählt, geerntet und sorgfältig in kleine Kisten (10 kg) gefüllt. Diese Größe wurde gewählt, um zu vermeiden, dass zu viele Trauben an der Spitze die Trauben am Boden der Kisten zerdrücken. Sobald die Trauben in den Weinkellern ankommen, werden sie manuell sortiert und anschließend einer optischen Sortierung unterzogen. Alle Trauben, die zur Weinbereitung gelangen, werden perfekt entrappt und weisen alle vom Weinhersteller vorgegebenen physischen Merkmale auf, einschließlich Form, Größe, Farbe und allgemeiner Zustand. Die Trauben werden dann durch einen weichen Quetschmechanismus geschickt, der sie durchsticht, damit der Saft im Inneren fließen kann, gefolgt von ihrem Eintritt in ein Wärmeaustauschsystem, das ihre Temperatur von bis zu 29 Grad Celsius auf 7-8 Grad Celsius reduziert. Anschließend werden die Trauben gespresst. Je nachdem, welche Saftqualität die Presse produziert, entscheiden die Winzer anschließend, welche für die Herstellung von fassvergorenem (gealtertem) Wein oder von in Edelstahl vergorenem Wein verwendet wird. Als nächstes wird der Verschnitt der Weine von Chateau d'Esclans und Caves d'Esclans beaufsichtigt. Die Informationen, die das technische Team zusammenstellt, werden vom technischen Direktor und dem Kellermeister geprüft, die gemeinsam eine endgültige Entscheidung treffen.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1651676789f55077db": {
+      "type": "text-promo",
+      "blocks": {
+        "1651676789708162f3-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Führungen"
+          }
+        },
+        "1651676789708162f3-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Weingut CHÂTEAU D’ESCLANS"
+          }
+        },
+        "1651676789708162f3-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Führungen",
+            "button_url": "https:\/\/esclans.com\/contact\/",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "1651676789708162f3-0",
+        "1651676789708162f3-1",
+        "1651676789708162f3-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "hero",
+    "166246848607378a58",
+    "1662468811ab395788",
+    "1651676789f55077db"
+  ]
+}

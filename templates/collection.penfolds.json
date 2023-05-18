@@ -1,0 +1,213 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1214387358.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Penfolds",
+            "text": "<p>Der Erfolg von Penfolds wurde von Generationen von Visionären und Innovatoren vorangetrieben. Von den Anfängen im Jahr 1844 bis heute hat die Verschmelzung von Wissenschaft, Kunst und Innovation Penfolds zu einem der berühmtesten und angesehensten Winzer Australiens werden lassen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/penfolds.png",
+            "logo_width": 160
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "165175960371a9c067": {
+      "type": "text-promo",
+      "disabled": true,
+      "blocks": {
+        "165175960292e89942-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Tastings"
+          }
+        },
+        "165175960292e89942-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Weingut DOMAINES OTT"
+          }
+        },
+        "165175960292e89942-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Tastings",
+            "button_url": "https:\/\/www.domaines-ott.com\/en\/contact",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "165175960292e89942-0",
+        "165175960292e89942-1",
+        "165175960292e89942-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    },
+    "f947a4f6-62ed-420c-b616-02061eddb7c8": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16133881430282__f947a4f6-62ed-420c-b616-02061eddb7c8-166513177718ea944f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/penfolds.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16133881430282__f947a4f6-62ed-420c-b616-02061eddb7c8-166513177718ea944f-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über das Weingut",
+            "title": "Penfolds",
+            "text": "<p>Der Schlüssel zum Erfolg von Penfolds ist eine Reihe von visionären Önologen. Es gab bisher nur vier Weinmacher an der Spitze von Penfolds - Max Schubert, Don Ditter, John Duval und Peter Gago. Jeder von ihnen ist der Hüter einer reichen Weinbautradition, die mehr als 175 Jahre zurückreicht.<br\/><br\/>Unser derzeitiges <a href=\"https:\/\/www.penfolds.com\/en-de\/home\" target=\"_blank\" title=\"Penfolds\">Penfolds<\/a>-Weinmacherteam kann zusammen auf mehr als 150 Jahre Erfahrung als Penfolds-Winzer zurückblicken. Sie sind ständig dabei, ihre Arbeit zu verfeinern und zu verbessern, während sie die Weinherstellungstechniken ihrer Vorgänger in Ehren halten.<\/p><p><\/p><p>Von den Anfängen im Jahr 1844 bis heute hat die Verschmelzung von Wissenschaft, Kunst und Innovation Penfolds zu einem der berühmtesten und angesehensten Winzer Australiens werden lassen.<\/p><p>Nach dem Erfolg der ersten Sherrys und gespriteten Weine pflanzten die Gründer Dr. Christopher und Mary Penfold ihre Rebstöcke, die sie auf ihrer Reise nach Australien mitgenommen hatten. Im Jahr 1844 wurde das junge Weingut offiziell als Penfolds Wine Company in Magill Estate gegründet.<\/p><p><\/p><p>Als Mary Penfold 1884 in den Ruhestand ging (und die Leitung an ihre Tochter Georgina abgab), produzierte Penfolds bereits ein Drittel des gesamten südaustralischen Weins. Sie hatte eine Strategie entwickelt, die bis heute Bestand hat: Sie experimentierte mit neuen Methoden der Weinproduktion. Als Mary 1896 starb, war das Erbe von Penfolds auf dem besten Weg, sich zu verwirklichen. Bis 1907 war Penfolds zum größten Weingut Südaustraliens geworden.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16133881430282__f947a4f6-62ed-420c-b616-02061eddb7c8-166513177718ea944f-0",
+        "template--16133881430282__f947a4f6-62ed-420c-b616-02061eddb7c8-166513177718ea944f-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515824545765535e",
+    "hero",
+    "165175960371a9c067",
+    "f947a4f6-62ed-420c-b616-02061eddb7c8"
+  ]
+}

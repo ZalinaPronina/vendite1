@@ -1,0 +1,212 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marques-de-Murrieta.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Marqués de Murrieta",
+            "text": "<p>Der Ursprung der Weinkellerei Marqués de Murrieta ist auch der Ursprung des Rioja. Don Luciano Murrieta, der die in Bordeaux erlernten Techniken anwandte, stellte 1852 den ersten Rioja-Wein her, mit der Absicht, ihn im Laufe der Zeit zu erhalten.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "0fe04a9e-586f-4617-847d-6b7a7b2c7c2c": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--16101713346826__0fe04a9e-586f-4617-847d-6b7a7b2c7c2c-16651412787eabdbb6-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/logo-marques-de-murrieta.png",
+            "logo_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713346826__0fe04a9e-586f-4617-847d-6b7a7b2c7c2c-16651412787eabdbb6-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "c513214b-4f4f-43e0-8b23-e5dc728c94bc": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101713346826__c513214b-4f4f-43e0-8b23-e5dc728c94bc-166514121830c69a0a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marques-de-Murrieta.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101713346826__c513214b-4f4f-43e0-8b23-e5dc728c94bc-166514121830c69a0a-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Hinter den Kulissen von",
+            "title": "Marqués de Murrieta",
+            "text": "<p>Don Luciano Murrietas Vision war von Anfang an klar: Er wollte einen feinen Rioja-Wein mit einem großen Lagerungspotenzial herstellen und ihn außerhalb Spaniens exportieren. Er verschiffte seinen ersten Jahrgang, den legendären 1852, in Länder wie Mexiko und Kuba und war damit der erste Rioja-Wein, der exportiert wurde.<\/p><p><\/p><p>Im Castillo verschmelzen edle Materialien in perfekter Weise mit den neuesten Technologien und verwandeln eines der ältesten Industriegebäude Europas in einen Maßstab für Modernität und Ausgewogenheit.<br\/><br\/><br\/>Aufgrund seiner historischen Bedeutung für die Welt des Weins, seines Erbes und der Architektur des Gebäudes selbst wurde das Castillo de Ygay und damit der Hauptsitz von Marqués de Murrieta 2019 zum Museum erklärt.<\/p><p><\/p><p>Marqués de Murrieta Weingüter und Weine wird seit 1983 von der Familie Cebrián-Sagarriga geführt, die sich durch ihre Professionalität und ihren täglichen Einsatz auszeichnet. Die Geschwister Cebrián-Sagarriga sind stolz auf ihre galicischen Wurzeln und erinnern sich jeden Tag mit Liebe und Dankbarkeit an ihre Eltern.<\/p><p><\/p><p>Das große Renovierungsprojekt von Marqués de Murrieta wurde mit der Einweihung der neuen Weinbereitungsanlagen im Jahr 2021 abgeschlossen, einem Gebäudekomplex mit mehr als 25.000 Quadratmetern, der neben dem Castillo de Ygay errichtet wurde. Dieses geräumige Gebäude ist mit der neuesten Technologie ausgestattet und gilt als eine der avantgardistischsten Weinkellereien der Welt. Die mehr als 50.000 Quadratmeter großen Gärten bilden einen charmanten und idyllischen Rahmen.<br\/><br\/>Das Weingut ist nun vollständig modernisiert, bleibt aber seinen Wurzeln und seiner Identität treu und ist bereit, weiterhin die bestmöglichen Weine zu erzeugen.<\/p><p><\/p><p>Die Weine entstehen in Ygay, einem 300 Hektar großen Weingut im südlichen Teil der Rioja Alta, das es ermöglicht, eine umfassende Qualitätskontrolle der Weine durchzuführen.  Das Team unter der Leitung von María Vargas ist dank des privilegierten Klimas und der sorgfältigen Pflege Ihrer Weinberge in der Lage, Weine mit einer einzigartigen Persönlichkeit zu erzeugen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713346826__c513214b-4f4f-43e0-8b23-e5dc728c94bc-166514121830c69a0a-0",
+        "template--16101713346826__c513214b-4f4f-43e0-8b23-e5dc728c94bc-166514121830c69a0a-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1651760026185f9c60": {
+      "type": "text-promo",
+      "blocks": {
+        "16517600260446e6d2-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Führungen"
+          }
+        },
+        "16517600260446e6d2-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Weingut MARQUÉS DE MURRIETA"
+          }
+        },
+        "16517600260446e6d2-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Führungen",
+            "button_url": "https:\/\/marquesdemurrieta.com\/en\/pages\/enoturismo",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "16517600260446e6d2-0",
+        "16517600260446e6d2-1",
+        "16517600260446e6d2-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "0fe04a9e-586f-4617-847d-6b7a7b2c7c2c",
+    "hero",
+    "c513214b-4f4f-43e0-8b23-e5dc728c94bc",
+    "1651760026185f9c60"
+  ]
+}

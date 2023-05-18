@@ -1,0 +1,231 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1187205371.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Ardbeg",
+            "text": "<p>In den letzten zehn Jahren haben sechs verschiedene Ardbeg-Ausführungen renommierte Titel gewonnen, darunter World Whisky of the Year, Scotch Whisky of the Year und World's Best Single Malt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16609057461b5e5793": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16609057462fa294d0-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Ardbeg.png",
+            "logo_width": 160
+          }
+        }
+      },
+      "block_order": [
+        "16609057462fa294d0-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1660906113fd0ca2da": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1660906113bd48d8f6-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-893458668.jpg",
+            "bg_position": "center-top",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1660906113bd48d8f6-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Über Ardbeg",
+            "text": "<p>Die kleine, abgelegene schottische Insel Islay (ausgesprochen \"eye-lah\") ist ein uraltes Land. Ein wilder und ungezähmter Ort, an dem keltische Mönche Zuflucht vor plündernden Nordmännern fanden und frühe Destillateure ihre illegalen \"Aquavitae\" in die zerklüftete Felsbucht von Ardbeg schmuggelten.<\/p><p>Das reichlich vorhandene weiche Wasser, der fruchtbare Boden und die vielen wertvollen Torfvorkommen machen diese Insel zu einem Wallfahrtsort für die Liebhaber von Single Malt Whisky. Und zwar zu keinem anderen als zu unserem eigenen Ardbeg, der zweifellos größten Brennerei der Welt.<\/p><p><\/p><p>Ardbeg wurde von Whisky-Kennern als \"so nah an der Perfektion, dass es keinen Unterschied macht\" bezeichnet. Ein Beweis dafür, dass Ardbeg seinen unglaublichen Ruf wirklich verdient hat. Es ist ein Whisky, der auf der ganzen Welt verehrt wird. In den letzten zehn Jahren haben sechs verschiedene Ardbeg-Ausführungen renommierte Titel gewonnen, darunter World Whisky of the Year, Scotch Whisky of the Year und World's Best Single Malt.<br\/><br\/>Auf dem langen Weg zu Ardbeg hat es im Laufe der Jahre viele Höhen und Tiefen gegeben. Die Geschichte von Ardbeg ist die eines unbezähmbaren Geistes, der trotz aller Widrigkeiten überlebt und schließlich als \"unbestreitbar die größte Brennerei der Welt\" hervorgeht.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1660906113bd48d8f6-0",
+        "1660906113bd48d8f6-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16609063837824a987": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "Die Herstellung von",
+        "title": "Ardbeg",
+        "text": "<p>Ardbeg verwendet das phenolreichste Malz der Branche (d.h. das rauchigste). Das Malz wird bis zu einem Gehalt von 50 ppm getorft. Seit 1981 gibt es bei Ardbeg keine Bodenmälzereien mehr, so dass das gesamte Malz, das für die Produktion verwendet wird, aus den Mälzereien im Dorf Port Ellen stammt.<\/p><p>Das geschrotete Malz wird dann zusammen mit dem auf 63,5 °C erhitzten Wasser aus Loch Uigeadail in ein Gefäß namens Maischebottich gegeben. Der Hauptzweck des Maischbottichs besteht darin, die Zuckerextraktion zu maximieren, weshalb das Wasser dreimal bei drei verschiedenen Temperaturen zugegeben wird.<\/p><p>Die flüssige Würze aus dem Maischebottich wird auf 18°C abgekühlt und in die Wash Backs gepumpt. In diesem Stadium wird die Hefe hinzugefügt, um die Gärung einzuleiten.<br\/><br\/>Die Wash Backs bei Ardbeg werden aus Oregon-Kiefer hergestellt. Das Holz trägt dazu bei, dem gärenden Wash einen esterartigen, kohlensäurehaltigen Geschmack zu verleihen. Die Gärung dauert bei Ardbeg wegen des hohen Phenolgehalts des ursprünglichen Malzes länger als bei anderen Brennereien.<\/p><p>Nach der Gärung folgt die Destillation. Ardbeg destilliert zweimal, um die erforderliche Stärke und den gewünschten reinen Geist zu erreichen. Die erste Destillation erfolgt in der Brennblase. Sie wird mit vergorener Maische gefüllt und gekocht, bis die Alkoholdämpfe am Hals der Brennblase aufsteigen, den Lyne-Arm passieren und schließlich den Kondensator erreichen, wo sie wieder in flüssige Form kondensiert werden.<\/p><p>Die Fässer, die bei Ardbeg verwendet werden, stammen aus verschiedenen Quellen. Der größte Teil des Whiskys reift in Ex-Bourbon-Eiche. Es besteht jedoch immer die Möglichkeit, in Zukunft mit anderen Arten von Eichenfässern zu experimentieren.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1660906773fa1dceee": {
+      "type": "text-promo",
+      "blocks": {
+        "16609067732d527256-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Führungen"
+          }
+        },
+        "16609067732d527256-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie die Ardbeg Brennerei"
+          }
+        },
+        "16609067732d527256-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Führungen",
+            "button_url": "https:\/\/www.ardbeg.com\/en-gb\/visit-us\/tours",
+            "button_color": "btn--black",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "16609067732d527256-0",
+        "16609067732d527256-1",
+        "16609067732d527256-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-dark",
+        "width": "wrapper--full",
+        "bg_position": "center-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16609057461b5e5793",
+    "hero",
+    "1660906113fd0ca2da",
+    "16609063837824a987",
+    "1660906773fa1dceee"
+  ]
+}

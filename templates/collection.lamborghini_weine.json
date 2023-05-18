@@ -1,0 +1,160 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ferruccio-e1564776249150-1024x588.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Entdecken Sie",
+            "title": "Lamborghini",
+            "text": "<p>Gegründet 1968 von Ferruccio Lamborghini lebt die Leidenschaft seiner Wurzeln noch heute in den Weinen weiter.<br\/><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "1",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "1651761605a84f2ff4": {
+      "type": "text-promo",
+      "blocks": {
+        "16517616058f61dfdb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Resort"
+          }
+        },
+        "16517616058f61dfdb-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das LAMBORGHINI Weingut-Resort"
+          }
+        },
+        "16517616058f61dfdb-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zum Resort",
+            "button_url": "http:\/\/resort.tenutalamborghini.it\/en\/home\/",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "16517616058f61dfdb-0",
+        "16517616058f61dfdb-1",
+        "16517616058f61dfdb-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "hero",
+    "subcollections",
+    "main",
+    "1651761605a84f2ff4"
+  ]
+}

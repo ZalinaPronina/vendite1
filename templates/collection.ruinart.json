@@ -1,0 +1,284 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1309675454.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Ruinart",
+            "text": "<p>Die einzigartigen Kreationen von Ruinart, das älteste Champagner Haus der Welt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "2017e743-1046-43be-9de2-845e41bfbc13": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--16101713772810__2017e743-1046-43be-9de2-845e41bfbc13-1677493641bd043bf6-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Ruinart.png",
+            "logo_width": 130
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713772810__2017e743-1046-43be-9de2-845e41bfbc13-1677493641bd043bf6-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "21e09dea-2f70-4f9b-9470-7d602bfbaa93": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101713772810__21e09dea-2f70-4f9b-9470-7d602bfbaa93-1677493755b3d93aef-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ruinart.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "overlay_color": "#ffffff",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101713772810__21e09dea-2f70-4f9b-9470-7d602bfbaa93-1677493755b3d93aef-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Geschichte von",
+            "title": "Ruinart",
+            "text": "<p>Das Haus Ruinart ist anders als alle anderen. Es war das erste Champagnerhaus, das 1729 gegründet wurde, inspiriert von der Intuition eines Mönchs, der seiner Zeit weit voraus war. Dom Thierry Ruinart war ein intuitiver, visionärer, fleißiger und bescheidener Benediktinermönch, der von 1657-1709 lebte und ein Zeitgenosse von Ludwig XIV. war. Als brillanter Theologe und Historiker verließ er im Alter von 23 Jahren seine Heimat in der Champagne, um in die Abtei Saint-Germain-des-Prés zu gehen, eines der einflussreichsten Bildungszentren in der Nähe von Paris. Dort lernte er die Stadt und den Hof kennen, wo er ein Bewusstsein für ein weltlicheres Leben entwickelte. Insbesondere lernte er einen neuen Wein mit \"Bläschen\" kennen, der noch nicht als Champagner bekannt war und bei jungen Aristokraten bereits beliebt war.  Am 1. September 1729 verfasste Nicolas <a href=\"https:\/\/www.ruinart.com\/de-de\/maison-ruinart\/maison-ruinart\" target=\"_blank\" title=\"Ruinart Geschichte\">Ruinart<\/a> in Reims, im Herzen der Champagne, die Gründungsurkunde des Maison Ruinart und schuf damit das erste Champagnerunternehmen der Welt. Daraus entstand ein Unternehmen, das auch fast dreihundert Jahre später noch blüht und gedeiht. Die Intuition seines Onkels, des Mönchs, der ihm den Weg gewiesen hatte, inspirierte ihn zu einer Initiative, die Geschichte machen sollte.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713772810__21e09dea-2f70-4f9b-9470-7d602bfbaa93-1677493755b3d93aef-0",
+        "template--16101713772810__21e09dea-2f70-4f9b-9470-7d602bfbaa93-1677493755b3d93aef-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "7a3a4738-5b0d-45b7-9989-6d976e1ab11b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101713772810__7a3a4738-5b0d-45b7-9989-6d976e1ab11b-1677493755b3d93aef-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Vinifikation bei",
+            "title": "Ruinart",
+            "text": "<p>Es gibt spezifische Techniken, die die Geschichte von Maison Ruinart verkörpern und den wesentlichen Charakter offenbaren, der durch das außergewöhnliche Know-how des Hauses geprägt wird. Die Extraktion des Mostes durch ein sanftes und progressives Pressverfahren maximiert das aromatische Potenzial der Trauben. Anschließend wird der Most in thermoregulierte Edelstahltanks umgefüllt, in denen die ganze Frische des Traubensaftes und die Feinheit seiner Aromen erhalten bleiben. Hier beginnt die alkoholische Gärung bei niedrigen Temperaturen. Nach dieser ersten Gärung, die stille, ruhige Weine hervorbringt, reduziert die zweite Gärung, die sogenannte \"malolaktische\" Gärung, den Säuregehalt der Weine und verleiht ihnen mehr Finesse.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101713772810__7a3a4738-5b0d-45b7-9989-6d976e1ab11b-1677493755b3d93aef-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ruinart_vinifikation.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713772810__7a3a4738-5b0d-45b7-9989-6d976e1ab11b-1677493755b3d93aef-1",
+        "template--16101713772810__7a3a4738-5b0d-45b7-9989-6d976e1ab11b-1677493755b3d93aef-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16516695707e715b2d": {
+      "type": "text-promo",
+      "blocks": {
+        "165166957003d101c7-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Führungen"
+          }
+        },
+        "165166957003d101c7-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Champagnerhaus RUINART"
+          }
+        },
+        "165166957003d101c7-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Führungen",
+            "button_url": "https:\/\/www.ruinart.com\/de-de\/erlebnisse",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "165166957003d101c7-0",
+        "165166957003d101c7-1",
+        "165166957003d101c7-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "subcollections",
+    "main",
+    "2017e743-1046-43be-9de2-845e41bfbc13",
+    "hero",
+    "21e09dea-2f70-4f9b-9470-7d602bfbaa93",
+    "7a3a4738-5b0d-45b7-9989-6d976e1ab11b",
+    "16516695707e715b2d"
+  ]
+}

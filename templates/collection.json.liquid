@@ -1,0 +1,11 @@
+{%- layout none -%}
+{
+  "title": {{ collection.title | json }},
+  "description": {{ collection.description | json }},
+  "image": {
+    "src": {{ collection.image.src | json }},
+    "alt": {{ collection.image.alt | json }}
+  },
+  "url": {{ collection.url | json }},
+  "handle": {{ collection.handle | json }}
+}

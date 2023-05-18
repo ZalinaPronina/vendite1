@@ -1,0 +1,221 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/black_stallion.jpg",
+            "bg_position": "center-bottom",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Black Stallion",
+            "text": "<p>Bei Black Stallion bedeutet die Suche nach Größe, dass man das ganze Jahr über im Weinberg steht und das Wachstum der Reben und die Entwicklung der Trauben beobachtet. Der kleine Umfang der Black Stallion Winery bedeutet, dass jede Traubenpartie, die bei der Ernte ankommt, individuell behandelt wird und eine einzigartige Erziehung erfährt, um ihr volles Potenzial für Spitzenleistungen zu entfalten.<br\/><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "abfd8805-f9c4-400a-955d-7d12995c37c8": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--17211957969162__abfd8805-f9c4-400a-955d-7d12995c37c8-16744798804863df90-2": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/black_stallion-800HW.png",
+            "logo_width": 140
+          }
+        }
+      },
+      "block_order": [
+        "template--17211957969162__abfd8805-f9c4-400a-955d-7d12995c37c8-16744798804863df90-2"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "2ed7b4c1-02f5-4a92-bc0a-fc7bd05b6238": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--17211957969162__2ed7b4c1-02f5-4a92-bc0a-fc7bd05b6238-1674479987f07cc8e1-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/black_stallion.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--17211957969162__2ed7b4c1-02f5-4a92-bc0a-fc7bd05b6238-1674479987f07cc8e1-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die Geschichte",
+            "text": "<p>Zwölf Jahre nach seiner Ankunft in Amerika, im Jahr 1924, pflanzte Gaspare Indelicato einen Weinberg in Manteca, Kalifornien. Damit legte er den Grundstein für seinen späteren Erfolg im kalifornischen Weinhandel. Seit dieser erste Weinberg erblühte, haben Gaspares Kinder, Enkel und Urenkel sein Vermächtnis in Ehren gehalten, indem sie sich seinen unerschütterlichen Werten von Familie, harter Arbeit und Integrität verschrieben haben.  Um einen großen Wein zu machen, muss ein Winzer mit jeder Partie frisch gepressten Traubensaftes bestens vertraut sein. Bei Black Stallion bedeutet die Suche nach Größe, dass man das ganze Jahr über im Weinberg steht und das Wachstum der Reben und die Entwicklung der Trauben beobachtet. Es bedeutet, Trauben zu verkosten, anstatt Laborberichte zu studieren, um den perfekten Zeitpunkt für die Lese zu bestimmen. Es bedeutet, die Früchte von Hand zu ernten und zu sortieren. Der kleine Umfang der <a href=\"https:\/\/www.blackstallionwinery.com\/our-story\" title=\"Black Stallion Geschichte\">Black Stallion<\/a> Winery bedeutet, dass jede Traubenpartie, die bei der Ernte ankommt, individuell behandelt wird und eine einzigartige Erziehung erfährt, um ihr volles Potenzial für Spitzenleistungen zu entfalten.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--17211957969162__2ed7b4c1-02f5-4a92-bc0a-fc7bd05b6238-1674479987f07cc8e1-0",
+        "template--17211957969162__2ed7b4c1-02f5-4a92-bc0a-fc7bd05b6238-1674479987f07cc8e1-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "fbcb661a-1f86-4bcb-aee4-8d260fe64027": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--17211957969162__fbcb661a-1f86-4bcb-aee4-8d260fe64027-1674479987f07cc8e1-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die Herstellung",
+            "text": "<p>Nach dem Einmaischen in der Kellerei können die Kleinstpartien in kleinen Tanks aus Holz, Beton oder Stahl vergoren werden. Diese Wahl des Reifebehälters gibt dem Winzer Ralf Holdenried eine außergewöhnliche Flexibilität, um eine Charge von Trauben mit dem Material abzustimmen, das am besten geeignet ist, ihre Größe zur Geltung zu bringen - ein Schlüssel in einer so vielfältigen Region wie Napa Valley.   Nach der Gärung wird der Wein mit Hilfe der Schwerkraft (nicht mit Pumpen) abgezogen und in den besten Eichenfässern ausgebaut. Die schonende Behandlung des Weins verhindert die Extraktion von harten Bestandteilen, die ihm Bitterkeit verleihen könnten. Für eine Black-Stallion-Mischung gibt es kein festes Rezept, sondern nur den geschliffenen Gaumen von Winzer Ralf Holdenried und seinem Team. Es ist nicht ungewöhnlich, dass Holdenried Dutzende von Probemischungen probiert, bevor er sich für eine endgültige Cuvée entscheidet. Das Ziel ist immer dasselbe: einen nahtlosen, harmonischen Wein zu schaffen, der den besten Ausdruck der Rebsorte in diesem Jahrgang im Napa Valley einfängt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--17211957969162__fbcb661a-1f86-4bcb-aee4-8d260fe64027-1674479987f07cc8e1-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chateau_Clinet_4.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--17211957969162__fbcb661a-1f86-4bcb-aee4-8d260fe64027-1674479987f07cc8e1-1",
+        "template--17211957969162__fbcb661a-1f86-4bcb-aee4-8d260fe64027-1674479987f07cc8e1-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "abfd8805-f9c4-400a-955d-7d12995c37c8",
+    "hero",
+    "2ed7b4c1-02f5-4a92-bc0a-fc7bd05b6238",
+    "fbcb661a-1f86-4bcb-aee4-8d260fe64027"
+  ]
+}

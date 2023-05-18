@@ -1,0 +1,162 @@
+{% liquid
+  assign attributes = section.blocks | where: 'type', 'attribute'
+  assign dimensions = section.blocks | where: 'type', 'dimension'
+
+  assign blank_attributes = attributes | map: 'settings' | where: 'text', ''
+  assign blank_dimensions = dimensions | map: 'settings' | where: 'text', ''
+
+  assign has_attributes = false
+  assign has_dimensions = false
+
+  if blank_attributes.size != attributes.size
+    assign has_attributes = true
+  endif
+
+  if blank_dimensions.size != dimensions.size
+    assign has_dimensions = true
+  endif
+%}
+
+{% if has_attributes or has_dimensions %}
+  <div class="product-information" data-component="ProductInformation">
+    <div class="block sm:flex">
+      {% if has_dimensions %}
+        <div class="px-4 py-15 flex flex-col items-center justify-center space-y-5 sm:py-20 sm:w-1/2 md:px-10 md:space-x-7.5 md:space-y-0 md:flex-row md:py-28 lg:w-2/5 lg:px-15 xxl:px-32 xxl:w-[35%]">
+          {% if section.settings.image != blank %}
+            <div class="w-32 shrink-0 lg:w-36 xxl:w-52">
+              {{
+                section.settings.image
+                | image_url: width: 400
+                | image_tag: class: 'block w-full h-auto', loading: 'lazy'
+              }}
+            </div>
+          {% endif %}
+
+          {% if dimensions.size > 0 %}
+            <div class="space-y-5">
+              {% for block in dimensions %}
+                {% if block.settings.text != blank %}
+                  <div class="flex items-center space-x-2.5" {{ block.shopify_attributes }}>
+                    {% if block.settings.image != blank %}
+                      <div>
+                        {{
+                          block.settings.image
+                          | image_url: width: 100
+                          | image_tag: class: 'block w-6 h-auto', loading: 'lazy'
+                        }}
+                      </div>
+                    {% endif %}
+
+                    <div>
+                      {% if block.settings.title != blank %}
+                        <span class="uppercase font-medium">
+                          {{ block.settings.title }}
+                        </span>
+                      {% endif %}
+
+                      <span>{{ block.settings.text }}</span>
+                    </div>
+                  </div>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      {% endif %}
+
+      {% if has_attributes %}
+        <div
+          class="px-4 py-19 sm:py-20 sm:w-1/2 md:py-28 md:px-20 lg:px-28 lg:w-3/5 xxl:px-38 xxl:w-[65%]"
+          style="
+            background-color: {{ section.settings.background_color | default: 'transparent' }};
+            color: {{ section.settings.text_color | default: 'inherit' }};
+          "
+        >
+          <div class="overflow-hidden" data-product-information="slider">
+            <div class="product-information-slider__wrapper">
+              {% for block in attributes %}
+                {% if block.settings.text != blank %}
+                  <div class="product-information-slider__item">
+                    <div class="text-18 [&_p]:m-0 [&_p+p]:mt-5 [&_strong]:font-semibold lg:text-16 xxl:text-18">
+                      {{ block.settings.text | newline_to_br }}
+                    </div>
+                  </div>
+                {% endif %}
+              {% endfor %}
+            </div>
+
+            <div class="product-information-slider__pagination"></div>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+{% endif %}
+
+{% schema %}
+  {
+    "name": "Product information",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Icon"
+      },
+      {
+        "type": "header",
+        "content": "Colors"
+      },
+      {
+        "type": "color",
+        "id": "text_color",
+        "label": "Text color",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "background_color",
+        "label": "Background color",
+        "default": "#AB8A54"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "dimension",
+        "name": "Dimension",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Icon"
+          },
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Title"
+          },
+          {
+            "type": "text",
+            "id": "text",
+            "label": "Text"
+          }
+        ]
+      },
+      {
+        "type": "attribute",
+        "name": "Attributes",
+        "settings": [
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Text"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Product information"
+      }
+    ]
+  }
+{% endschema %}

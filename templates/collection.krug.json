@@ -1,0 +1,232 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Header_2.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Krug",
+            "text": "<p>Das Haus wurde 1843 in Reims von Joseph Krug gegründet, einem visionären Unkonventionellen mit einer kompromisslosen Philosophie. Er verstand, dass die wahre Essenz des Champagners der Genuss selbst ist und träumte davon, jedes Jahr den besten Champagner herzustellen, unabhängig von den jährlichen Klimaschwankungen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "mehr erfahren",
+            "button_url": "shopify:\/\/blogs\/cover\/krug-champagner",
+            "button_color": "btn--primary",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "1660307458c166b96f": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16603074584706307f-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Krug.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "16603074584706307f-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "166030752140108a20": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1660307521f6dabf47-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/krug_grand_cuvee_querformat_cd2a4dce-af0b-43f7-8485-0fed66baa8ad.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1660307521f6dabf47-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die Geschichte",
+            "text": "<p>Das Haus wurde 1843 in Reims von Joseph Krug gegründet, einem visionären Nonkonformisten mit einer kompromisslosen Philosophie. Er verstand, dass die wahre Essenz des Champagners der Genuss selbst ist und träumte davon, jedes Jahr den besten Champagner herzustellen, den er anbieten konnte, unabhängig von den jährlichen Klimaschwankungen. Die genaue Beobachtung des Charakters des Weinbergs, der Respekt vor der Individualität jeder Parzelle und ihres Weins sowie der Aufbau einer umfangreichen Bibliothek von Reserveweinen aus vielen verschiedenen Jahren ermöglichten es Joseph Krug, seinen Traum zu verwirklichen.<br\/><br\/>Mit einer sehr originellen Herangehensweise an die Champagnerherstellung beschloss er, über den Begriff des Jahrgangs hinauszugehen und jedes Jahr den großzügigsten Ausdruck des Champagners zu schaffen. So gründete er ein Haus, in dem alle Champagner das gleiche Niveau haben.<br\/><br\/>Sechs Generationen der Familie Krug haben diesen Traum fortgesetzt und die Vision und das Savoir-faire des Gründers bereichert.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1660307521f6dabf47-0",
+        "1660307521f6dabf47-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "166030810091a24ced": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Das Weingut",
+        "text": "<p>Die erste Neuschöpfung von Krug Grande Cuvée - die erste Édition - wurde  um die Ernte von 1845 herum komponiert. Jedes Jahr wird nur einmal im Jahr eine neue Kreation, eine einzige Mischung, eine einzigartige Abfüllung - also eine neue Édition von Krug Grande Cuvée - geschaffen. Die Nummer der Édition gibt an, wie oft dieser Akt der Kreation bereits stattgefunden hat, was auch der Anzahl der Jahre entspricht, in denen der Traum des Gründers im Hause Krug neu erschaffen wurde. <\/p><p>Nach der Herstellung kommt die Flasche in die Keller von Krug, wo sie etwa sieben Jahre lang ruht.<\/p><p>Joseph Krug glaubte nicht an eine Hierarchie zwischen seinen Champagnern, was er 1848 in seinem persönlichen Notizbuch festhielt. Heute bietet das Haus sieben Champagner an, die alle dieselbe unbestrittene Qualität aufweisen und jeweils einen anderen Ausdruck der Natur darstellen. Der einzige Faktor, der den Preis bestimmt, wäre die Seltenheit. Und so ist es auch heute.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1660308464d931e6db": {
+      "type": "text-promo",
+      "blocks": {
+        "1660308463c8b72bf0-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Virtuelle Führung"
+          }
+        },
+        "1660308463c8b72bf0-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Champagnerhaus Krug virtuell"
+          }
+        },
+        "1660308463c8b72bf0-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zur führung",
+            "button_url": "https:\/\/www.krug.com\/map-experience",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "1660308463c8b72bf0-0",
+        "1660308463c8b72bf0-1",
+        "1660308463c8b72bf0-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 45,
+        "overlay_color": "#000000"
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "1660307458c166b96f",
+    "hero",
+    "166030752140108a20",
+    "166030810091a24ced",
+    "1660308464d931e6db"
+  ]
+}

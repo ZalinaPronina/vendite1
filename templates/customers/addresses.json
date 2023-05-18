@@ -1,0 +1,37 @@
+{
+  "sections": {
+    "main": {
+      "type": "customer-addresses",
+      "blocks": {
+        "account": {
+          "type": "account",
+          "settings": {}
+        },
+        "email": {
+          "type": "email",
+          "disabled": true,
+          "settings": {
+            "title": "Support",
+            "link": "https:\/\/venditevendite-shop.de\/pages\/kontakt"
+          }
+        },
+        "f3e6753f-0449-4c4a-a3d4-2ccff78dc19a": {
+          "type": "link",
+          "settings": {
+            "title": "Kundenservice",
+            "link": "shopify:\/\/pages\/kontakt"
+          }
+        }
+      },
+      "block_order": [
+        "account",
+        "email",
+        "f3e6753f-0449-4c4a-a3d4-2ccff78dc19a"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Roederer-Portrait.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Louis Roederer",
+            "text": "<p>Die Cuvées des Hauses Louis Roederer sind das Ergebnis der geduldigen Arbeit mit den Grundzutaten, der Zusammenarbeit von Experten, der Suche nach dem perfekten Gleichgewicht, den widerstandsfähigsten und edelsten Trauben die auf den Böden der Champagne angebaut werden und einen Wein mit sommerlichem Charakter und kristalliner Eleganz.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "mehr erfahren",
+            "button_url": "https:\/\/venditevendite-shop.de\/blogs\/cover\/louis-roederer-champagner",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 24,
+        "enable_reviews": false
+      }
+    },
+    "1660136117372a60bb": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16601361175c73c800-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/louis_roederer.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "16601361175c73c800-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1660136256660f333c": {
+      "type": "section-custom-content",
+      "blocks": {
+        "166013625541be6ee9-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/champagne-louis-roederer-reims1_86c20902-2bd8-4ba7-b221-c5f0e44f9d97.jpg",
+            "bg_position": "right-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "166013625541be6ee9-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die Geschichte",
+            "text": "<p>Das renommierte Champagnerhaus <a href=\"https:\/\/venditevendite-shop.de\/collections\/louis-roederer\" target=\"_blank\" title=\"Alle Produkte von Louis Roederer\">Louis Roederer<\/a> aus Reims in der Champagne, wurde 1776 gegründet und ist das älteste und eines der letzten Champagnerhäuser das im Privatbesitz ist. Gegründet wurde <a href=\"https:\/\/www.louis-roederer.com\" target=\"_blank\" title=\"Louis Roederer Homepage\">Louis Roederer<\/a> durch die Herren Dubois (Vater & Sohn) die das Haus ca. 1827 an Nicolas Schreider verkauften. Schreider war der Onkel des heutigen <br\/>Namensgeber Louis Roederer. Schreider begann 182 zusammen mit seinem Neffen Louis Roederer gemeinsam die Arbeit im Hause Roederer. Schreider verstarb wenig später und Louis Roederer erbte das Weingut 1833 und gab Ihm damit seinen heutigen weltbekannten Namen.<\/p><p>Louis Roederer begann sogleich damit seine Visionen umzusetzen und das Weingut zu erweitern um alle Schritte der Weinherstellung zu beherrschen. Entgegen der damaligen Gepflogenheiten kaufte Louis Roederer ausgewählte Flächen auf den Böden der Grand Crus der Champagne hinzu wobei er selektiv vorging und der Legende nach nur auf seinen Instinkt vertraute. Während andere Champagnerhäuser der Einfachheit begannen, Trauben  einzukaufen widmete sich Louis Roederer ganz seinen eigenen Weinbergen und machte sich vertraut mit jedem Quadratmeter. Er war überzeugt davon, dass die Qualität und Persönlichkeit eines jeden Weines zu aller erst durch den Boden geprägt wird. Durch diese Visionen und der Traditionsliebe von Louis Roederer erlangte das Champagnerhaus schnell großer Beliebtheit und die Kreationen reisten schon in den früher 1870er Jahren bis in die Vereinigten Staaten und nach Russland auf den Hof des des Zaren Alexander II. für den damals eigens der heute weltbekannte Cristal  Champagner kreiert wurde.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "166013625541be6ee9-0",
+        "166013625541be6ee9-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "166013680509462d47": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Das Weingut",
+        "text": "<p>Auf dem Weingut Louis Roederer werden die 3 traditionellen Rebsorten angebaut: Der Chardonnay wird wegen seiner Mineralität, Finesse und Eleganz geschätzt; der Pinot Noir verleiht den Verschnitten durch seine solide Konstitution Struktur und bereitet sie auf die Reifung vor; der Pinot Meunier ist eine etwas weniger raffinierte süße Rebsorte, deren Anpassungsfähigkeit bestimmten Cuvées Harmonie und Weichheit verleiht.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "1660136117372a60bb",
+    "hero",
+    "1660136256660f333c",
+    "166013680509462d47"
+  ]
+}

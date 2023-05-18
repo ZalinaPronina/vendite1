@@ -1,0 +1,152 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kopie_von_besten_Gins_Header_1000_x_1000_px_2000_x_1000_px_1500_x_1000_px.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Entdecken Sie",
+            "title": "Gin",
+            "text": "<p>Ausgewählter Gin der bekanntesten & ausgezeichnetsten Marken der Welt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1642082655d7810d4a": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "164208265561517e5b-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "subheading": "Introducing",
+            "title": "Text block",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "164208265561517e5b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "collection"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "1642082655d7810d4a",
+    "subcollections",
+    "hero",
+    "main"
+  ]
+}

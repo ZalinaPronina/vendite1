@@ -1,0 +1,232 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1336909062.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Rémy Martin",
+            "text": "<p>Rémy Martin wurde 1724 gegründet und baut auf Familienbeziehungen und einer Mischung aus Tradition und Innovation auf. Die Einzigartigkeit des Cognacs ist in Ihrer Geschichte der Inklusivität und Großzügigkeit verwurzelt. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Remy_Martin.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "16603101632d5aec4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16603101630468286a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-eva-bronzini-7254146.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16603101630468286a-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die Geschichte",
+            "text": "<p>Die Geschichte von Rémy Martin geht züruck auf den Charentaiser Winzer Rémy Martin der das Haus 1724 gegründet hatte. Im nächsten Jahrhundert wuchs das Haus und exportiere seinen Cognac unter der Führung von Paul-Emile Rémy Martin hinaus in die Vereinigten Staaten, nach Asien und in den Pazifik. In dieser Zeit erkannte auch König Ludwig XV. von Frankreich die hervorragende Qualität  des Cognacs und gewärhte dem Hause 1738 das seltene Recht neue Reben zu plfanzen.Um die Entwicklung des Hauses im Ausland zu unterstützen, wählt er den Zentauren als Emblem des Hauses und entwirft zum ersten Mal ein Logo. Als begeisterter Astronom war dies auch sein Sternzeichen, Schütze. Eine Marke war damit geboren. 1927 brachte Rémy Martin den Fine Champagne Cognac VSOP auf den Markt, indem er die Crus Petite Champagne und Grande Champagne vermischt. Er ist ein sofortiger Erfolg, der auf seinem Unterscheidungsmerkmal beruht: höchste Qualität. Nur ein Jahr später wurder der VSOP gesetzlich für seine hohe Qualität anerkannt. 1965 übernahm André Hériard, als Schwiegersohn von André Renaud (Nachfolger von Paul-Emile Rémy Martin), die Leitung des Unternehmens und gründet eine visionäre Partnerschaft mit den Winzern, die heute als Alliance Fine Champagne bekannt ist, um höchste Qualität zu garantieren. Ein weiterer Meilenstein in der Geschichte des Cognac war 2003 als Pierrette Trichet als erste Frau zur Kellermeisterin eines großen Cognachauses ernannt wird. Sie kreiert Centaure und Centaure de Diamant und gibt die Geheimnisse des Erbes von Rémy Martin an Baptiste Loiseau weiter, so wie Georges Clot sie an sie weitergegeben hat.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16603101630468286a-0",
+        "16603101630468286a-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1660728202830c42fe": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "Nachhaltigkeit",
+        "title": "Das Weingut",
+        "text": "<p>Die Weingüter von Rémy Martin sind die ersten Weingüter der Region Charente (die sechste in Frankreich), die die vom Landwirtschaftsministerium anerkannte Zertifizierung \"Hoher Umweltwert\" (HEV) erhalten haben. 100% der Partner von Rémy Martin widmen sich dem nachhaltigen Weinanbau! 50 % der Weinanbauflächen Ihrer Partner sind HEV-zertifiziert.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "165175960371a9c067": {
+      "type": "text-promo",
+      "blocks": {
+        "165175960292e89942-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Führungen"
+          }
+        },
+        "165175960292e89942-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Weingut Rémy Martin"
+          }
+        },
+        "165175960292e89942-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Führungen",
+            "button_url": "https:\/\/www.remymartin.com\/visit-us\/",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "165175960292e89942-0",
+        "165175960292e89942-1",
+        "165175960292e89942-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515824545765535e",
+    "hero",
+    "16603101632d5aec4b",
+    "1660728202830c42fe",
+    "165175960371a9c067"
+  ]
+}

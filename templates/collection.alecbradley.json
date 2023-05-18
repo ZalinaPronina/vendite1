@@ -1,0 +1,221 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BlackMarket.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 25,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Alec Bradley",
+            "text": "<p>1998 war der Zigarrenboom rückläufig und die Branche kämpfte ums Überleben. Alec Bradley tat sich mit Ralph Montero zusammen und kreierten ihre erste gemeinsame Zigarre: Occidental Reserve. Die Resonanz bewies, dass das Ganze größer ist als die Summe seiner Teile.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/alec_bradley.png",
+            "logo_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "622085cb-71ac-40dc-a042-9529c98b40e2": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16121928876298__622085cb-71ac-40dc-a042-9529c98b40e2-1669308767fe3cbc69-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Alec_Bradley_f167aee0-e7aa-408b-a652-909fd5e7d96f.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16121928876298__622085cb-71ac-40dc-a042-9529c98b40e2-1669308767fe3cbc69-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "Alec Bradley",
+            "text": "<p>„Im Jahr 1996 wusste ich nichts über Zigarren, außer, welches Ende ich abschneiden und welches ich anzünden sollte. Es war meine Leidenschaft für Zigarren, die mich ermutigte, mein Leben in etwas zu investieren, das ich liebe: die Gründung der <a href=\"https:\/\/alecbradley.com\/story\/\" title=\"Alec Bradley Geschichte\">Alec Bradley Cigar Company<\/a>“ - Alan Rubin.<br\/><br\/>Das Unternehmen hatte seine Höhen und Tiefen aber die Tatsache, dass viele Menschen die Zigarren von Alec Bradley lieben und genießen, macht das Unternehemen zu einem Synonym für Qualität. Der Teil der Geschichte, der Alec Bradley wirklich zu dem macht, was sie heute sind, geht auf eine Begegnung zurück, die alles verändert hat.<br\/><br\/>Im Jahr 1998 war der Zigarrenboom rückläufig und die Branche kämpfte ums Überleben. Doch Alan Rubin fang an mit seinem, erst kurz bekannten, Kollegen Ralph seine erste Zigarre zu kreieren: Occidental Reserve. Die Resonanz bewies, dass das Ganze größer ist als die Summe seiner Teile, und das spornte die beiden an, weiterhin Zigarren zu entwickeln.<br\/><br\/>„Letzten Endes retten wir keine Leben, wir versuchen nur, sie eine Stunde nach der anderen zu verbessern. Es macht keinen Unterschied, ob Sie ein Ölmagnat oder ein Tankstellenangestellter sind; für die Zeit, in der Sie zusammensitzen und rauchen, sind Sie beide in der Lage, den Moment zu genießen, unabhängig davon, wer Sie sind - das ist die Erfahrung, an der wir teilhaben wollen“ - Alan Rubin.<br\/><br\/>Die Alec Bradley Cigar Company hat ein Ziel: Ihnen, dem Zigarrenraucher, ein unvergessliches Erlebnis zu bieten.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16121928876298__622085cb-71ac-40dc-a042-9529c98b40e2-1669308767fe3cbc69-0",
+        "template--16121928876298__622085cb-71ac-40dc-a042-9529c98b40e2-1669308767fe3cbc69-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "fe81340e-5644-417b-a36f-7c9f1236796a": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16121928876298__fe81340e-5644-417b-a36f-7c9f1236796a-1669734477255f8796-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Zigarre des Jahres",
+            "text": "<p>Die Alec Bradley Prensado wurde 2011 die Nummer 1 im Cigar Aficionado Magazine und katapultierte die Marke des Unternehmens in den Wettbewerb mit anderen weltbekannten Zigarren. Alan Rubin erzählte später, dass dies sowohl ein Segen als auch ein Fluch für das Unternehmen war. Der Erfolg trug dazu bei, dass das Unternehmen in einem Tempo wuchs, auf das es nicht vorbereitet war. Der Ruhm wurde durch die Schädigung des Rufs des Unternehmens während zweier Jahre mit Produktionsproblemen überschattet. Doch selbst davon hat sich das Unternehmen erholt und beweist damit seine Hingabe zur Leidenschaft. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16121928876298__fe81340e-5644-417b-a36f-7c9f1236796a-1669734477255f8796-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Alec_Bradley_1.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16121928876298__fe81340e-5644-417b-a36f-7c9f1236796a-1669734477255f8796-1",
+        "template--16121928876298__fe81340e-5644-417b-a36f-7c9f1236796a-1669734477255f8796-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515824545765535e",
+    "hero",
+    "622085cb-71ac-40dc-a042-9529c98b40e2",
+    "fe81340e-5644-417b-a36f-7c9f1236796a"
+  ]
+}

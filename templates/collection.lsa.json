@@ -1,0 +1,413 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Brand--Gin--Lifestyle-Landscape-jpg-_Medium_28633296-7638-4df3-91f9-5a11fbf92de2.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "LSA International",
+            "text": "<p>LSA International ist ein in London ansässiges Designstudio, das sich auf zeitgenössisches handgefertigtes Glas spezialisiert hat.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515834673f4d5591": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "1651583467a4786298-1": {
+          "type": "question",
+          "settings": {
+            "title": "Über Domaines Ott",
+            "content": "<p>Im Jahr 1896, nach einer Reise durch die vielen Weinberge Frankreichs, fand Marcel Ott, ein junger Diplom-Agraringenieur aus dem Elsass, schließlich ein Weingut, das ihn begeisterte. Marcel Ott kaufte mehrere Weingüter und begann sie zu renovieren, mit dem festen Ziel, große provenzalische Weine aus edlen Rebsorten zu erzeugen. Heute, 120 Jahre später, widmen die Cousins Christian und Jean-François Ott ihr Leben der Liebe ihrer Vorfahren zu dieser Lage. Im Jahr 2004 schlossen sich die Domaines Ott Louis Roederer und seiner fabelhaften Auswahl an Weinhandwerkern an.<\/p><p>Christian und Jean-François betreiben drei Weingüter: Château de Selle, Clos Mireille und Château Romassan. Jedes dieser Güter hat seinen eigenen Charme und seine eigene Persönlichkeit. Jedes von ihnen kann auf seine äußerst eleganten Rosé-, Rot- und Weißweine stolz sein. In ihren Kellern regiert ein einziger souveräner Wein: der berühmte \"Cœur de Grain\".<\/p>"
+          }
+        },
+        "1651583467a4786298-2": {
+          "type": "question",
+          "settings": {
+            "title": "Château de Selle",
+            "content": "<p>Das Château de Selle war das erste Gut, das Marcel Ott 1912 erwarb. Es liegt in Taradeau, in der Nähe von Draguignan, auf einem Boden, auf dem früher nur Oliven, Lavendel und Maulbeerbäume wuchsen. Nicht weit von der Abtei Thoronet entfernt, in der Nähe einer ehemaligen Residenz der Grafen der Provence aus dem 18. Jahrhundert, besteht der Boden aus Gips, rotem Ton, Dolomit und Sandstein, vermischt mit Kies und Stein, aus dem heute sehr edle und elegante Weine entstehen. Das Weingut liegt auf hohen Kalksteinhängen im Landesinneren, wo es vor Winterfrösten geschützt ist, und genießt ein Mikroklima mit milden Wintern, frühem Frühling und warmen, trockenen Sommern, die stets von viel Sonnenschein begleitet werden.<br\/><br\/>Die Reben werden in gleicher Weise auf terrassierten Weinbergen angebaut. Die Produktion ist konstant, umweltschonend und ausgewogen. Das trockene Klima und die Mineralien des Bodens verleihen den Weinen einen außergewöhnlichen Charakter. Das Durchschnittsalter der Rebstöcke auf Château de Selle liegt bei neunzehn Jahren. Die Weine werden aus einer gelungenen Mischung verschiedener Rebsorten hergestellt, mit denen die Hälfte der 140 Hektar des Weinguts bepflanzt ist: Cabernet Sauvignon verleiht den Weinen Komplexität, Eleganz und eine wunderbare Kraft, Grenache sorgt für eine vollmundige Textur, Cinsault verleiht den Weinen eine zarte und runde Note, während Syrah den Verschnitten seine reiche Farbe verleiht. <br\/><\/p>"
+          }
+        },
+        "1651583467a4786298-3": {
+          "type": "question",
+          "settings": {
+            "title": "Clos Mireille",
+            "content": "<p>In den 1930er Jahren verliebte sich Marcel Ott in ein sehr altes Anwesen, das direkt an der Küste am intensiven Blau des Mittelmeers liegt. Clos Mireille überblickt das Meer in La Londe Les Maures, in der Nähe des Forts von Brégançon. Mit der ganzen Geduld eines leidenschaftlichen Amateurs hat Ott die Weinberge, die von der Gischt des Meeres gekühlt und von der trockenen Luft der Hügel erwärmt wurden, auf dem von Maulbeerbäumen, Olivenbäumen und Schirmkiefern zurückgewonnenen Land neu bepflanzt und gefestigt. In der Nähe des von Benediktinermönchen im 18. Jahrhundert errichteten Gebäudes begannen die Reben schon bald, außergewöhnliche, geschmacksintensive Trauben hervorzubringen, die von Meer und Sonne genährt wurden.<br\/><br\/>Das Durchschnittsalter der Rebstöcke in Clos Mireille liegt bei sechzehn Jahren. Der Boden besteht aus Schiefer. Die Lage des Weinbergs an den Ausläufern des Mittelmeers ist ungewöhnlich. Der Charakter der Weine ist umso außergewöhnlicher, als der Lehmboden auf diesem alten Felsvorsprung keinen Kalkstein enthält. Die breite Ausrichtung zum Meer hin verleiht den Weinen von Clos Mireille ihren unnachahmlichen Charakter. Das Mikroklima und die Gischt des Meeres schaffen perfekte Bedingungen für die Erzeugung subtiler und unverwechselbarer Weine. <br\/><\/p>"
+          }
+        },
+        "196005ba-c48f-416c-8541-9328f100daa4": {
+          "type": "question",
+          "settings": {
+            "title": "Château Romassan",
+            "content": "<p>Das alte Château Romassan, das 1956 von der Familie Ott erworben wurde, brauchte dreißig Jahre harter Arbeit und Erfahrung, um große, für die Appellation Bandol AOC typische Weine zu erzeugen. Es wurde vollständig mit edlen Rebsorten neu bepflanzt, seine kleinen Parzellen wurden neu geordnet und eingeebnet, um terrassenförmige Weinberge zu schaffen. Das prächtige Gebäude aus dem 18. Jahrhundert, das den Weinberg überragt, wurde ebenfalls vollständig renoviert.<br\/><br\/>Das Weingut befindet sich im Westen des Departements Var, im Herzen des berühmten Weinbaugebiets Bandol. Mourvèdre ist die Hauptrebsorte des Weinguts. Sie ist in der Region heimisch und eignet sich besonders gut für das trockene Klima und die kargen Böden. Ihr ruhiges Temperament zeigt sich in der Kraft ihrer Harmonien, ihrer robusten Struktur und ihrer Langlebigkeit am Gaumen und im Keller.<br\/><br\/>In geringeren Mengen werden auch Grenache, Cinsault und Syrah angebaut. Das Durchschnittsalter der Rebstöcke auf den 74 Hektar des Weinguts beträgt 25 Jahre. Die Reben erhalten ihre Persönlichkeit durch die einzigartigen und besonderen Böden des Weinbergs. Dieser einzigartige Boden aus Kreide, Sandstein und Mergel, der mit Kies unterlegt ist, bringt mit seinem sonnenverwöhnten und besonders trockenen Mikroklima anspruchsvolle und sehr kraftvolle Weine hervor. <br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1651583467a4786298-1",
+        "1651583467a4786298-2",
+        "1651583467a4786298-3",
+        "196005ba-c48f-416c-8541-9328f100daa4"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--small",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "165175960371a9c067": {
+      "type": "text-promo",
+      "disabled": true,
+      "blocks": {
+        "165175960292e89942-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Tastings"
+          }
+        },
+        "165175960292e89942-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Weingut DOMAINES OTT"
+          }
+        },
+        "165175960292e89942-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Tastings",
+            "button_url": "https:\/\/www.domaines-ott.com\/en\/contact",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "165175960292e89942-0",
+        "165175960292e89942-1",
+        "165175960292e89942-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/LSA_Logo.png",
+            "logo_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "d0e1e1fc-34b3-4c74-bb2f-ad355eb8696c": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16150078750986__d0e1e1fc-34b3-4c74-bb2f-ad355eb8696c-1673981837653fdd5a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LSA_International.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16150078750986__d0e1e1fc-34b3-4c74-bb2f-ad355eb8696c-1673981837653fdd5a-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "LSA International",
+            "text": "<p>Janusz Lubkowski war Mitbegründer von <a href=\"https:\/\/www.lsa-international.com\/about\" title=\"Über LSA International\">LSA International<\/a> in den 1960er Jahren in London, in einer Zeit des kulturellen und sozialen Wandels. Sein Glaube an die Vielfalt der Ideen und seine Leidenschaft für zeitgenössisches Design sorgten für das Gedeihen des Unternehmens.<br\/><br\/><\/p><p>Ein Familienunternehmen<br\/>Die Tochter des Mitbegründers Janusz, Monika Lubkowska-Jonas, ist die Designerin und Kreativdirektorin von LSA. Durch gemeinsame Erfahrungen und Werte entwickelt Monika die Vision ihres Vaters und eine Kultur des Verständnisses weiter, die die Vergangenheit, Gegenwart und Zukunft des Unternehmens bestimmt.<br\/><br\/>Ursprünge<br\/>Eine klassische emaillierte Kaffeekanne war das erste LSA-Produkt, das 1966 im Habitat von Terence Conran verkauft wurde. Die Kollektion hat sich weiterentwickelt und wird es auch weiterhin tun, wobei das Engagement für originelles Design, hochwertige Materialien und handwerkliches Können unverändert bleibt.<br\/><br\/>Traditionelles Handwerk<br\/>Das Erbe spiegelt sich in der Herkunft der Produkte wider: Geschickte Handwerker arbeiten mit den ursprünglichen Materialien, die immer in der Kollektion geblieben sind.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16150078750986__d0e1e1fc-34b3-4c74-bb2f-ad355eb8696c-1673981837653fdd5a-0",
+        "template--16150078750986__d0e1e1fc-34b3-4c74-bb2f-ad355eb8696c-1673981837653fdd5a-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "fccfd6d1-2b5e-4488-a13f-f8f901a93ef1": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16150078750986__fccfd6d1-2b5e-4488-a13f-f8f901a93ef1-1673981837653fdd5a-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Design",
+            "text": "<p>Der Designprozess ist von der Art und Weise inspiriert, wie Menschen leben. Ein nachhaltiger Ansatz, der über Form und Funktion hinausgeht, um etwas Überlegtes zu schaffen, etwas von immanentem Wert.<br\/><br\/>LSA entwirft für Menschen mit dem Ziel, den Zweck und die Umgebung, in der die Produkte verwendet werden, zu verstehen. Durchdachtes, überlegtes Design.<br\/><br\/>Kreativer Direktorin: <\/p><p>Monika Lubkowska-Jonas lässt sich vom Potenzial der Materialien inspirieren und ist sich der Herkunft und des Handwerks bewusst. Sie arbeitet mit dem LSA Designerteam zusammen und sorgt mit ihrer Vision für Klarheit in der Ästhetik der Produkte..<br\/><br\/>Konzepte<br\/>Der Prozess beginnt mit dem Verständnis für Menschen, Zweck und Umwelt. Deshalb versucht LSA International, Produkte zu schaffen, die die einfachen Rituale des täglichen Lebens verbessern..<br\/><br\/>Umsetzung von Ideen<br\/>Designer und Hersteller arbeiten zusammen, um Ideen in die Realität umzusetzen. Es werden Prototypen hergestellt, um verschiedene Konzepte und Techniken zu testen..<br\/><br\/>Fertige Produkte<br\/>Formen werden verfeinert, Proportionen ausgeglichen und Farben mit viel Liebe zum Detail ausgewählt, um das fertige Produkt zu schaffen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16150078750986__fccfd6d1-2b5e-4488-a13f-f8f901a93ef1-1673981837653fdd5a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LSA_International_2.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16150078750986__fccfd6d1-2b5e-4488-a13f-f8f901a93ef1-1673981837653fdd5a-1",
+        "template--16150078750986__fccfd6d1-2b5e-4488-a13f-f8f901a93ef1-1673981837653fdd5a-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "afb15447-e65f-46d9-b3eb-f420b32aa79d": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16150078750986__afb15447-e65f-46d9-b3eb-f420b32aa79d-1673981837653fdd5a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LSA_International_3.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16150078750986__afb15447-e65f-46d9-b3eb-f420b32aa79d-1673981837653fdd5a-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Handwerk",
+            "text": "<p>Das Wissen um den Wert des Handwerks in der heutigen Zeit ist viel Wert. Es braucht Zeit und Sorgfalt, um jedes Produkt von Hand herzustellen. Der Respekt vor der Kunst und der Geschicklichkeit des Handwerks gewährleistet, dass LSA Produkte mit Integrität herstellen.<br\/><br\/>Die Philosophie ist der Glauben an die Verwendung traditioneller Methoden, um originelle Designs zu realisieren. DIe über fünfzigjährige Zusammenarbeit mit Handwerkern ermöglicht es, die Stärken eines jeden Materials fast intuitiv zu nutzen.<br\/><br\/>Glas<\/p><p>Mundgeblasenes Glas bietet nahezu unendliche Möglichkeiten der Verwandlung. Die Erfahrung ermöglicht es, mit verschiedenen Techniken zu experimentieren und die Grenzen der handwerklichen Herstellung zu erweitern.<br\/><br\/>Die Rohstoffe Sand, Asche und Kalk werden im Ofen erhitzt, bis sie schmelzen. Die Glasbläser arbeiten in Teams, wobei jeder für ein anderes Element des Prozesses verantwortlich ist. Sie trainieren jahrelang, um ihr Handwerk zu perfektionieren. Sobald die Grundform geblasen ist, wird das Stück von Hand fertiggestellt, während das Glas noch heiß ist.<br\/><br\/>Eine der geschicktesten Endbearbeitungstechniken ist der Scherenschnitt, während das Glas noch heiß ist, um einen dicken, abgerundeten Rand zu erzeugen.<br\/><br\/>Holz<br\/>Das gesamtes Holz ist FSC®-zertifiziert - das unabhängige, international anerkannte Zeichen für verantwortungsvolle und nachhaltige Forstwirtschaft. LSA arbeitet mit Nussbaum, europäischer Esche, Eiche und Buche, da jedes Holz seine eigenen einzigartigen Eigenschaften besitzt.<br\/><br\/>Das Rohholz wird gelagert, um den Wassergehalt zu reduzieren, bevor es verwendet wird. Durch das Aushärten wird die Textur und Haltbarkeit des Holzes verbessert und die natürliche Maserung hervorgehoben.<br\/>Nach dem Aushärten werden die Bohlen auf die richtige Größe zugeschnitten. Die Ecken und Kanten werden in mehreren Schritten von Hand geschliffen, um eine glatte Oberfläche zu erhalten.<br\/><br\/>Porzellan<br\/>Porzellan wird seit Jahrhunderten wegen seiner im Vergleich zu anderen Keramiken ausgewogenen Haltbarkeit und Zartheit geschätzt. Der komplexe Herstellungsprozess umfasst mehrere Stufen, von der Formgebung und dem Brennen bis hin zum Glasieren und Dekorieren.<br\/><br\/>Der rohe Porzellan-Ton wird in maßgeschneiderten Formen geformt, um den Körper jedes Stücks zu schaffen. Geschick, Präzision und Geduld sind erforderlich, um die Zutaten zu einer optimalen Konsistenz und Textur zu mischen.<br\/><br\/>Henkel für Tassen und Teekannen werden von Hand positioniert und angebracht. Durch mehrfaches Brennen und Glasieren werden die rein weiße Farbe und die Haltbarkeit der fertigen Produkte sichergestellt. Ausgewählte Stücke werden individuell handbemalt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16150078750986__afb15447-e65f-46d9-b3eb-f420b32aa79d-1673981837653fdd5a-0",
+        "template--16150078750986__afb15447-e65f-46d9-b3eb-f420b32aa79d-1673981837653fdd5a-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "4972a90f-1c34-4171-a9ed-b131ce9433ad": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16150078750986__4972a90f-1c34-4171-a9ed-b131ce9433ad-1673981837653fdd5a-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Nachhaltigkeit",
+            "text": "<p>LSA International ist sich seiner Verantwortung bewusst, die Auswirkungen der Tätigkeit auf die Umwelt zu verringern. Das Ziel ist es, nützliche, relevante Produkte zu schaffen, die in Qualität und Stil beständig sind. Der Schwerpunkt liegt auf Investitionen in Lösungen, die sich mit Umweltfragen befassen, auf dem Bewusstsein, was und wie herhestellt wird.<br\/><br\/>Ein nachhaltiger Ansatz<br\/>LSA arbeitet auf ethische und transparente Weise mit dem Team und den Partnern zusammen, um gemeinsam nachhaltigere Praktiken zu erforschen. Fortschritt statt Perfektion: Nachhaltigkeit ist ein komplexes Thema mit vielen Herausforderungen, aber die Manufaktur ist bestrebt, die ökologischen, sozialen und wirtschaftlichen Auswirkungen zu minimieren.<br\/><br\/>Design-Philosophie<br\/>Durch die Gestaltung langlebiger, durchdachter Produkte werden Menschen ermutigt, nachhaltige Entscheidungen zu treffen: weniger zu kaufen und länger zu besitzen. Ein verantwortungsvoller Designansatz, der darauf abzielt, etwas von Wert zu schaffen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16150078750986__4972a90f-1c34-4171-a9ed-b131ce9433ad-1673981837653fdd5a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LSA_International_4.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16150078750986__4972a90f-1c34-4171-a9ed-b131ce9433ad-1673981837653fdd5a-1",
+        "template--16150078750986__4972a90f-1c34-4171-a9ed-b131ce9433ad-1673981837653fdd5a-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515834673f4d5591",
+    "165175960371a9c067",
+    "16515824545765535e",
+    "hero",
+    "d0e1e1fc-34b3-4c74-bb2f-ad355eb8696c",
+    "fccfd6d1-2b5e-4488-a13f-f8f901a93ef1",
+    "afb15447-e65f-46d9-b3eb-f420b32aa79d",
+    "4972a90f-1c34-4171-a9ed-b131ce9433ad"
+  ]
+}

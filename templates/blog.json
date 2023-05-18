@@ -1,0 +1,66 @@
+{
+  "sections": {
+    "1631191917e425bcea": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Unser Blog",
+        "text": "<p>Entdecken Sie neue Rezepte, lernen Sie interessantes über die rennomiertesten Weingüter dieser Welt oder erfahren Wissenwertes rundum die Welt von Wein & Spirituosen.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "featured": {
+      "type": "featured-posts",
+      "disabled": true,
+      "blocks": {
+        "feat": {
+          "type": "featured_post",
+          "settings": {
+            "featured_post": "",
+            "subheading": "Featured post",
+            "bg_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "feat"
+      ],
+      "settings": {
+        "show_author": false,
+        "show_date": false,
+        "show_button": true
+      }
+    },
+    "main": {
+      "type": "blog",
+      "settings": {
+        "show_title": false,
+        "show_rss": false,
+        "show_tag_nav": true,
+        "grid": 4,
+        "rows": 4,
+        "aspect_ratio": 1,
+        "show_tags": false,
+        "show_author": false,
+        "show_date": false,
+        "show_button": true,
+        "show_comments": false
+      }
+    }
+  },
+  "order": [
+    "1631191917e425bcea",
+    "featured",
+    "main"
+  ]
+}

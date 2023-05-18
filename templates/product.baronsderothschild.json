@@ -1,0 +1,315 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "price_and_title": {
+          "type": "price_and_title",
+          "settings": {
+            "subheading_option": "collection",
+            "enable_reviews": true
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": false,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "subscriptions_enable_selectors": true
+          }
+        },
+        "tabs": {
+          "type": "tab_richtext",
+          "settings": {
+            "style": "accordions",
+            "title_1": "Blend",
+            "raw_content_1": "<p>{{ product.metafields.my_fields.blend | metafield_tag }}<\/p>",
+            "title_2": "",
+            "raw_content_2": "",
+            "title_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": ""
+          }
+        },
+        "c235118c-9531-45b4-a9b4-89028847f220": {
+          "type": "sharing",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price_and_title",
+        "form",
+        "tabs",
+        "c235118c-9531-45b4-a9b4-89028847f220"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "thumbnails",
+        "image_size": "small",
+        "show_cart_bar": true,
+        "enable_zoom": false,
+        "enable_video_looping": false
+      }
+    },
+    "6599f3b3-208f-4a52-82ed-81fea3e9bc07": {
+      "type": "section-product-features",
+      "settings": {
+        "top_spacing": true,
+        "bottom_spacing": true,
+        "background_color": "#fafafa"
+      }
+    },
+    "0e403e8d-89f2-49ab-8f7b-ab58ecdf705f": {
+      "type": "section-accordion",
+      "blocks": {
+        "template--17823666340106__0e403e8d-89f2-49ab-8f7b-ab58ecdf705f-1681371458a6398b44-0": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>{{ product.metafields.my_fields.produktinformationen | metafield_tag }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17823666340106__0e403e8d-89f2-49ab-8f7b-ab58ecdf705f-1681371458a6398b44-0"
+      ],
+      "settings": {
+        "title": "Produktinformationen"
+      }
+    },
+    "164544721876482fa8": {
+      "type": "section-logo-list",
+      "blocks": {
+        "1645447218cf2d0490-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Barons_de_Rothschild.png",
+            "logo_width": 160
+          }
+        }
+      },
+      "block_order": [
+        "1645447218cf2d0490-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "1645446937f89eba33": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1645446937c5d7029f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/champagne_barons_de_rothschild.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1645446937c5d7029f-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "reviews": {
+      "type": "reviews",
+      "disabled": true,
+      "settings": {
+        "enable_accordion": true
+      }
+    },
+    "imgtxt": {
+      "type": "section-custom-content",
+      "blocks": {
+        "imgtxt-0": {
+          "type": "text",
+          "settings": {
+            "subheading": "Champagne Barons de Rothschild",
+            "title": "Der Champagner der Familie Rothschild",
+            "text": "<p>Die drei Zweige der Familie Rothschild - heute vertreten durch Baron Philippe Sereys de Rothschild (Château Mouton Rothschild), Baron Benjamin und seine Frau Ariane (Château Clarke - Edmond de Rothschild Group) und Baron Eric und seine Tochter Saskia (Château Lafite Rothschild) - haben sich zum ersten Mal in ihrer Geschichte zusammengeschlossen, um ein gemeinsames Weingut zu gründen, das sich mit den besten Terroirs Frankreichs und der Welt beschäftigt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "imgtxt-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1648213079a40ac067": {
+      "type": "text-promo",
+      "blocks": {
+        "16482130794f707ea5-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Cocktail Empfehlung"
+          }
+        }
+      },
+      "block_order": [
+        "16482130794f707ea5-0"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#ffffff",
+        "text_color": "text-dark",
+        "width": "",
+        "bg_position": "center-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "custom": {
+      "type": "section-custom-content",
+      "blocks": {
+        "custom-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Header_8.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "custom-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Kir Royal",
+            "text": "<p>• 10 cl Trockener (Brut) Champagner<\/p><p> <br\/>• 1 cl Crème de Cassis Likör<\/p><p><br\/>• Himbeeren oder Johannisbeeren<\/p><p>---<\/p><p>Den Champagner und den Crème de Cassis Likör in ein Sektglas geben. Mit Himbeeren oder Johannisbeeren garnieren.<br\/><br\/><br\/><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "custom-0",
+        "custom-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "shipping": {
+      "type": "section-accordion",
+      "blocks": {
+        "shipping-0": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shipment",
+            "icon_color": "#ab8c52",
+            "title": "Schneller Versand",
+            "text": "<p>Alle Bestellungen vor 14 Uhr werden noch am selben Tag versandt. In der Regel sind alle Bestellungen inerhalb von 1-3 Tagen bei Ihnen.<\/p>"
+          }
+        },
+        "shipping-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-lock-card",
+            "icon_color": "#ab8c52",
+            "title": "Sichere Bezahlung",
+            "text": "<p>Durch 256-Bit Verschlüsselung und 3D Secure Checkouts.<br\/><br\/><\/p>"
+          }
+        },
+        "shipping-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_color": "#ab8c52",
+            "title": "Du hast Fragen?",
+            "text": "<p>Solltest du Fragen haben, so zöger nicht mit uns in Kontakt zu treten. Wir helfen dir gerne!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "shipping-0",
+        "shipping-1",
+        "shipping-2"
+      ],
+      "settings": {
+        "title": "Versand & Zahlung"
+      }
+    },
+    "related": {
+      "type": "related",
+      "settings": {
+        "related_products_enable": true,
+        "limit": 4,
+        "product_recommendations_heading": "Ähnliche Produkte",
+        "show_recently_viewed": false,
+        "product_recently_limit": 4,
+        "product_recently_heading": "Zuletzt angesehen"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6599f3b3-208f-4a52-82ed-81fea3e9bc07",
+    "0e403e8d-89f2-49ab-8f7b-ab58ecdf705f",
+    "164544721876482fa8",
+    "1645446937f89eba33",
+    "reviews",
+    "imgtxt",
+    "1648213079a40ac067",
+    "custom",
+    "shipping",
+    "related"
+  ]
+}

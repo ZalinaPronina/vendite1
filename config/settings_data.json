@@ -1,0 +1,796 @@
+{
+  "current": {
+    "text_color": "#212121",
+    "bg_color": "#ffffff",
+    "secondary_bg_color": "#F7F7F7",
+    "accent_bright": "#ab8c52",
+    "accent_secondary": "#ffffff",
+    "site_border_color": "#f0f0f0",
+    "link_color": "#212121",
+    "link_hover_color": "#bcb2a8",
+    "header_bg": "#ffffff",
+    "header_link": "#212121",
+    "header_link_hover": "#AB8C52",
+    "show_logo_bg": false,
+    "menu_bg_color": "#ffffff",
+    "menu_border_color": "#ffffff",
+    "menu_link_color": "#212121",
+    "menu_link_hover_color": "#AB8C52",
+    "submenu_bg_color": "#ffffff",
+    "submenu_link_color": "#212121",
+    "submenu_link_hover_color": "#AB8C52",
+    "menu_transparent_color": "#ffffff",
+    "footer_bg": "#f4f4f4",
+    "footer_border": "#212121",
+    "footer_text": "#212121",
+    "footer_link": "#212121",
+    "footer_link_hover": "#ab8c52",
+    "type_heading_font": "montserrat_n4",
+    "type_heading_size": 90,
+    "type_base_font": "montserrat_n4",
+    "type_body_size": 90,
+    "type_nav_size": 90,
+    "type_nav_caps": true,
+    "parallax_enable": false,
+    "product_grid_outline": true,
+    "button_radius_style": "square",
+    "show_scroll_top_button": false,
+    "enable_product_reviews": false,
+    "instagram_link": "https:\/\/www.instagram.com\/venditevendite_\/?hl=de",
+    "facebook_link": "https:\/\/www.facebook.com\/venditevenditegmbh\/",
+    "linkedin_link": "",
+    "stock_indicator_tier_1": 5,
+    "stock_indicator_tier_2": 5,
+    "deposit_product": "deposit",
+    "product_grid_center": true,
+    "image_hover_enable": false,
+    "product_grid_aspect_ratio": 1,
+    "sale_bg_color": "#f0f0f0",
+    "sale_text_color": "#212121",
+    "badge_bg_color": "#f0f0f0",
+    "badge_text_color": "#212121",
+    "favicon": "shopify:\/\/shop_images\/LOGO_656e655c-7fa5-46e7-9c8c-97931573e2cf.png",
+    "enable_cart_dropdown": false,
+    "enable_estimate_shipping": false,
+    "enable_additional_buttons": true,
+    "show_free_shipping_message": true,
+    "message": "Noch ||amount|| für kostenfreien Versand.",
+    "free_shipping_limit": "150",
+    "k_valid_msg_color": "#ff0000",
+    "k_success_msg": "<p>Vielen Dank - wir werden Sie per E-Mail benachrichtigen, sobald dieses Produkt verfügbar ist.<\/p>",
+    "k_success_msg_color": "#008000",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Logo_Website_1adbc21b-5c6a-4d95-9b13-251ef166f7d3.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Oswald",
+    "checkout_body_font": "Abel",
+    "checkout_accent_color": "#c5aa76",
+    "checkout_button_color": "#000000",
+    "checkout_error_color": "#c85c42",
+    "enable_free_shipping_message": true,
+    "announcement_bg": "#ffffff",
+    "announcement_text": "#ab8c52",
+    "sale_background_color": "#be563f",
+    "sections": {
+      "announcement": {
+        "type": "announcement",
+        "blocks": {
+          "27e5c594-2a2a-4076-87e0-a5391c232a3f": {
+            "type": "custom",
+            "disabled": true,
+            "settings": {
+              "text": "<p> 5€ Gutschein bei Anmeldung zum <a href=\"#contact-newsletter-footer\"> Newsletter <\/a><\/p>",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "mobile"
+            }
+          },
+          "7ac78dbb-259c-454f-b77b-254df52c7fc4": {
+            "type": "text",
+            "settings": {
+              "text": "<p><strong>Schneller Versand<\/strong> | <strong>Versandkostenfrei ab 150€ <\/strong>|<strong> Viele Zahlungsmöglichkeiten <\/strong>|<\/p>",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": true,
+              "target_device": "desktop"
+            }
+          },
+          "8cafbae6-800b-4bd5-a574-8e0430530c70": {
+            "type": "text",
+            "settings": {
+              "text": "<p><strong>Schneller Versand<\/strong> |  <strong>Versandkostenfrei ab 150€ <\/strong>|<\/p>",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": true,
+              "target_device": "mobile"
+            }
+          },
+          "63f36948-1731-442e-bf65-86ccee36bfbd": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "text": "<p>Bestellungen bis zum <strong>21.12 um 7:00 Uhr<\/strong> werden i.d.R. noch rechtzeitig vor Weihnachten ausgeliefert.<\/p>",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "mobile"
+            }
+          }
+        },
+        "block_order": [
+          "27e5c594-2a2a-4076-87e0-a5391c232a3f",
+          "7ac78dbb-259c-454f-b77b-254df52c7fc4",
+          "8cafbae6-800b-4bd5-a574-8e0430530c70",
+          "63f36948-1731-442e-bf65-86ccee36bfbd"
+        ],
+        "settings": {
+          "bg_color": "#f7f7f7",
+          "color": "#545454",
+          "layout": "slider",
+          "speed": 7
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "5b60e319-7947-4e42-b4f9-48d9c53d7684": {
+            "type": "linklist",
+            "settings": {
+              "linklist": "agb-und-rechtliches",
+              "title": ""
+            }
+          },
+          "24a16269-0d21-47e6-915a-34f204cd66e8": {
+            "type": "linklist",
+            "settings": {
+              "linklist": "bleiben-sie-in-kontakt",
+              "title": ""
+            }
+          },
+          "8e80e2d0-19a5-4289-987b-95b5b993bb94": {
+            "type": "newsletter",
+            "settings": {
+              "richtext": "<p>Melden Sie sich bei unserem Newsletter an und erhalten Sie exklusive Angebote zu Champagner, Weinen und Spirituosen. <\/p><p><em>Wir schenken Ihnen 5€ auf Bestellungen ab 50€. <\/em><\/p>",
+              "enable_name": false
+            }
+          },
+          "64a32d80-4aef-42a1-b68d-3e7dad1a714c": {
+            "type": "social",
+            "settings": {
+              "title": "Social",
+              "richtext": ""
+            }
+          }
+        },
+        "block_order": [
+          "5b60e319-7947-4e42-b4f9-48d9c53d7684",
+          "24a16269-0d21-47e6-915a-34f204cd66e8",
+          "8e80e2d0-19a5-4289-987b-95b5b993bb94",
+          "64a32d80-4aef-42a1-b68d-3e7dad1a714c"
+        ],
+        "settings": {
+          "logo_image_width": 150,
+          "bg_position": "center-center",
+          "overlay_opacity": 75,
+          "overlay_color": "#ffffff",
+          "footer_secondary_linklist": "",
+          "footer_payment_enable": true,
+          "show_locale_selector": false,
+          "show_currency_selector": true,
+          "type": "currency"
+        }
+      },
+      "popups": {
+        "type": "popups",
+        "blocks": {
+          "5a7c3e0a-f6db-4394-ad90-54b7e49606f0": {
+            "type": "newsletter",
+            "disabled": true,
+            "settings": {
+              "heading": "<p>Sign up and get 10% off your first order<\/p>",
+              "success": "",
+              "bg_color": "#b79352",
+              "text": "#ffffff",
+              "position": "newsletter--right",
+              "trigger": "always",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "mobile"
+            }
+          },
+          "400c736c-6954-4207-bffc-072ce6acdacd": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "title": "Versandinformationen für den 4.- 5. August",
+              "text": "<p>Aufgrund von Systemumstellungen können zwischen dem 4. August bis einschließlich 5. August keine Bestellungen versendet werden. Wir werden Ihre Bestellung anschließend schnellstmöglich bearbeiten. Wir bedanken uns für Ihr Verständnis.<\/p>",
+              "text_color": "text-dark",
+              "bg_color": "#ffffff",
+              "button_text": "",
+              "button_url": "",
+              "button_color": "btn--neutral",
+              "button_style": "hero__btn btn btn--input btn--outline caps",
+              "position": "popup-cookies--center",
+              "trigger": "always",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "mobile"
+            }
+          }
+        },
+        "block_order": [
+          "5a7c3e0a-f6db-4394-ad90-54b7e49606f0",
+          "400c736c-6954-4207-bffc-072ce6acdacd"
+        ],
+        "settings": {}
+      },
+      "gift-card": {
+        "type": "gift-card",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/LOGO_656e655c-7fa5-46e7-9c8c-97931573e2cf.png",
+          "logo_max_limit": 80
+        }
+      },
+      "custom-header": {
+        "type": "custom-header",
+        "blocks": {
+          "ac095125-aeb4-48b2-9246-d940635f44ed": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Whisky",
+              "menu_item_color": "",
+              "image": "shopify:\/\/shop_images\/Group_1.jpg",
+              "title": "Whisky",
+              "link_text": "Jetzt entdecken",
+              "link": "shopify:\/\/collections\/whisky"
+            }
+          },
+          "d5ab20e8-815b-4293-8f2d-044c8809bb74": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Champagner & Co.",
+              "menu_item_color": "",
+              "image": "shopify:\/\/shop_images\/DSF3641.jpg",
+              "title": "Vintagechampagner",
+              "link_text": "Jetzt entdecken",
+              "link": "shopify:\/\/collections\/champagner-prosecco-co"
+            }
+          },
+          "28142b5d-d955-4c67-901b-cc1f979d65b9": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Wein",
+              "menu_item_color": "",
+              "image": "shopify:\/\/shop_images\/DSF3625.jpg",
+              "title": "Domaines Ott",
+              "link_text": "Jetzt entdecken",
+              "link": "shopify:\/\/collections\/domaines-ott"
+            }
+          },
+          "41492208-4a4f-4ae4-93e1-fd959c98c1b9": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Edelbrände",
+              "menu_item_color": "",
+              "image": "shopify:\/\/shop_images\/iStock-1047762788.jpg",
+              "title": "",
+              "link_text": "Jetzt entdecken",
+              "link": "shopify:\/\/collections\/edelbrande"
+            }
+          },
+          "204f0065-e008-447f-aa41-44c8c2a88d4b": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Rum",
+              "menu_item_color": "",
+              "image": "shopify:\/\/shop_images\/DSF3707.jpg",
+              "title": "Emimente Rum",
+              "link_text": "Jetzt entdecken",
+              "link": "shopify:\/\/collections\/eminente"
+            }
+          },
+          "0934992d-b84f-448d-b29e-3350a2b514ec": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Tequila",
+              "menu_item_color": "",
+              "image": "shopify:\/\/shop_images\/DSF3613.jpg",
+              "title": "Clase Azul Tequila",
+              "link_text": "Jetzt entdecken",
+              "link": "shopify:\/\/collections\/clase-azul"
+            }
+          },
+          "e78d49b6-3960-4f6e-b067-a5d65442e963": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Glaswaren",
+              "menu_item_color": "",
+              "image": "shopify:\/\/shop_images\/30011893_3_7f072446-1e98-4ec5-960b-a28f3584cbe6.jpg",
+              "title": "Eisch Moscow Mule",
+              "link_text": "Jetzt entdecken",
+              "link": "shopify:\/\/products\/eisch-moscow-mule-glaserset-in-geschenkbox"
+            }
+          },
+          "0b6de4a8-d341-4a7b-821a-2b91823dca03": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Gin",
+              "menu_item_color": "",
+              "image": "shopify:\/\/shop_images\/Gin_6ec8e0eb-67f0-442b-ab10-9cf73d427d57.png",
+              "title": "Gin Mare Capri",
+              "link_text": "Jetzt entdecken",
+              "link": "shopify:\/\/products\/gin-mare-capri"
+            }
+          },
+          "f859d9a6-9c11-4102-acef-8e3e9bf8dd94": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Cognac & Brandy",
+              "menu_item_color": "",
+              "image": "shopify:\/\/shop_images\/hennessy.png",
+              "title": "Hennessy X.O Year of the Tiger Limited Edition",
+              "link_text": "Jetzt entdecken",
+              "link": "shopify:\/\/products\/hennessy-x-o-year-of-the-tiger-limited-edition-in-geschenkbox"
+            }
+          },
+          "afabda44-bd4d-45ba-bdf6-af318bbc1e59": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Vodka",
+              "menu_item_color": "",
+              "image": "shopify:\/\/shop_images\/belvedere_dc867f14-335f-4e66-81ed-5e2b46c8619f.png",
+              "title": "Belvedere Smogóry Forest",
+              "link_text": "jetzt entdecken",
+              "link": "shopify:\/\/products\/belvedere-smogory-forest"
+            }
+          },
+          "ede04064-01fc-44a0-a3a2-c720977e1540": {
+            "type": "image",
+            "settings": {
+              "menu_item_name": "Zigarren",
+              "menu_item_color": "#7e5d3b",
+              "image": "shopify:\/\/shop_images\/Oliva_V_2.jpg",
+              "title": "Oliva Serie V",
+              "link_text": "Entdecken",
+              "link": "shopify:\/\/collections\/oliva"
+            }
+          }
+        },
+        "block_order": [
+          "ac095125-aeb4-48b2-9246-d940635f44ed",
+          "d5ab20e8-815b-4293-8f2d-044c8809bb74",
+          "28142b5d-d955-4c67-901b-cc1f979d65b9",
+          "41492208-4a4f-4ae4-93e1-fd959c98c1b9",
+          "204f0065-e008-447f-aa41-44c8c2a88d4b",
+          "0934992d-b84f-448d-b29e-3350a2b514ec",
+          "e78d49b6-3960-4f6e-b067-a5d65442e963",
+          "0b6de4a8-d341-4a7b-821a-2b91823dca03",
+          "f859d9a6-9c11-4102-acef-8e3e9bf8dd94",
+          "afabda44-bd4d-45ba-bdf6-af318bbc1e59",
+          "ede04064-01fc-44a0-a3a2-c720977e1540"
+        ],
+        "settings": {
+          "header_style": "logo_above",
+          "logo": "shopify:\/\/shop_images\/social-sharing.png",
+          "logo_max_limit": 90,
+          "main_menu_linklist": "new-menu",
+          "enable_search": true,
+          "enable_account": true,
+          "header_sticky": "sticky",
+          "transparent_home": false,
+          "transparent_collection": false,
+          "transparent_article": false,
+          "transparent_logo": "shopify:\/\/shop_images\/leer.png",
+          "secondary_menu_linklist": "ueber-uns",
+          "show_featured_image_in_mobile_menu": false
+        }
+      }
+    },
+    "content_for_index": [],
+    "blocks": {
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
+      }
+    }
+  },
+  "presets": {
+    "Clean": {
+      "text_color": "#212121",
+      "bg_color": "#ffffff",
+      "secondary_bg_color": "#F7F7F7",
+      "accent_bright": "#ab8c52",
+      "accent_secondary": "#8191a4",
+      "site_border_color": "#f0f0f0",
+      "link_color": "#212121",
+      "link_hover_color": "#bcb2a8",
+      "header_bg": "#ffffff",
+      "header_link": "#212121",
+      "header_link_hover": "#AB8C52",
+      "show_logo_bg": false,
+      "menu_bg_color": "#ffffff",
+      "menu_border_color": "#ffffff",
+      "menu_link_color": "#212121",
+      "menu_link_hover_color": "#AB8C52",
+      "submenu_bg_color": "#ffffff",
+      "submenu_link_color": "#212121",
+      "submenu_link_hover_color": "#AB8C52",
+      "menu_transparent_color": "#ffffff",
+      "footer_bg": "#ffffff",
+      "footer_border": "#212121",
+      "footer_text": "#212121",
+      "footer_link": "#212121",
+      "footer_link_hover": "#212121",
+      "type_heading_font": "neuzeit_office_n7",
+      "type_heading_size": 100,
+      "type_base_font": "neuzeit_office_n4",
+      "type_body_size": 100,
+      "product_grid_outline": false,
+      "show_scroll_top_button": true,
+      "enable_product_reviews": true,
+      "product_grid_aspect_ratio": 0.9,
+      "sale_bg_color": "#f9dee5",
+      "sale_text_color": "#af7b88",
+      "badge_bg_color": "#ffffff",
+      "badge_text_color": "#212121",
+      "show_free_shipping_message": true,
+      "message": "Spend ||amount|| for free shipping",
+      "free_shipping_limit": "200",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Open Sans",
+      "checkout_body_font": "Open Sans",
+      "checkout_accent_color": "#c5aa76",
+      "checkout_button_color": "#c5aa76",
+      "checkout_error_color": "#c85c42",
+      "enable_free_shipping_message": true,
+      "announcement_bg": "#ffffff",
+      "announcement_text": "#ab8c52",
+      "sale_background_color": "#be563f",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "header_style": "logo_beside"
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "bg_color": "#f7f7f7",
+            "color": "#545454",
+            "layout": "slider",
+            "speed": 7
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "linklist",
+              "settings": {
+                "linklist": "main-menu",
+                "title": ""
+              }
+            },
+            "footer-1": {
+              "type": "social",
+              "settings": {
+                "title": "Social",
+                "richtext": "<p>Stay current with updates from our social channels.<\/p>"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "enable_name": false
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "logo_image_width": 150,
+            "bg_position": "center-center",
+            "overlay_opacity": 75,
+            "overlay_color": "#ffffff",
+            "footer_secondary_linklist": "",
+            "footer_payment_enable": false,
+            "show_locale_selector": true,
+            "show_currency_selector": true,
+            "type": "currency"
+          }
+        },
+        "popups": {
+          "type": "popups",
+          "blocks": {
+            "popups-0": {
+              "type": "cookie",
+              "settings": {
+                "position": "popup-cookies--left",
+                "show_cookies_popup": true
+              }
+            }
+          },
+          "block_order": [
+            "popups-0"
+          ],
+          "settings": {}
+        }
+      }
+    },
+    "Bold": {
+      "text_color": "#000000",
+      "bg_color": "#ffffff",
+      "secondary_bg_color": "#ffffff",
+      "accent_bright": "#449fc9",
+      "accent_secondary": "#9653b9",
+      "site_border_color": "#f0f0f0",
+      "link_color": "#449fc9",
+      "link_hover_color": "#17678c",
+      "header_bg": "#ffffff",
+      "header_link": "#2e2e2e",
+      "header_link_hover": "#449fc9",
+      "menu_bg_color": "#ffffff",
+      "menu_border_color": "#ffffff",
+      "menu_link_color": "#2e2e2e",
+      "menu_link_hover_color": "#449fc9",
+      "submenu_bg_color": "#ffffff",
+      "submenu_link_color": "#2e2e2e",
+      "submenu_link_hover_color": "#449fc9",
+      "menu_transparent_color": "#ffffff",
+      "footer_bg": "#fffee1",
+      "footer_border": "#2e2e2e",
+      "footer_text": "#2e2e2e",
+      "footer_link": "#2e2e2e",
+      "footer_link_hover": "#449fc9",
+      "type_heading_font": "cooper_bt_n7",
+      "type_heading_size": 100,
+      "type_base_font": "avenir_next_rounded_n5",
+      "type_body_size": 100,
+      "parallax_strength": 50,
+      "product_grid_outline": false,
+      "button_radius_style": "pill",
+      "enable_product_reviews": true,
+      "product_grid_aspect_ratio": 1.2,
+      "sale_bg_color": "#f18080",
+      "sale_text_color": "#ffffff",
+      "show_free_shipping_message": true,
+      "free_shipping_limit": "90",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Open Sans",
+      "checkout_body_font": "Open Sans",
+      "checkout_accent_color": "#c5aa76",
+      "checkout_button_color": "#c5aa76",
+      "checkout_error_color": "#c85c42",
+      "enable_free_shipping_message": true,
+      "announcement_bg": "#fff980",
+      "announcement_text": "#2e2e2e",
+      "sale_background_color": "#be563f",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "header_style": "logo_beside"
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "bg_color": "#f7f7f7",
+            "color": "#545454",
+            "layout": "slider",
+            "speed": 7
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "linklist",
+              "settings": {
+                "linklist": "main-menu",
+                "title": ""
+              }
+            },
+            "footer-1": {
+              "type": "social",
+              "settings": {
+                "title": "Social",
+                "richtext": "<p>Stay current with updates from our social channels.<\/p>"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "enable_name": false
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "logo_image_width": 150,
+            "bg_position": "center-center",
+            "overlay_opacity": 75,
+            "overlay_color": "#ffffff",
+            "footer_secondary_linklist": "",
+            "footer_payment_enable": false,
+            "show_locale_selector": true,
+            "show_currency_selector": true,
+            "type": "currency"
+          }
+        },
+        "popups": {
+          "type": "popups",
+          "blocks": {
+            "popups-0": {
+              "type": "cookie",
+              "settings": {
+                "position": "popup-cookies--left",
+                "show_cookies_popup": true
+              }
+            }
+          },
+          "block_order": [
+            "popups-0"
+          ],
+          "settings": {}
+        }
+      }
+    },
+    "Modern": {
+      "text_color": "#2b2b2b",
+      "bg_color": "#ffffff",
+      "secondary_bg_color": "#f7f9fa",
+      "accent_bright": "#007efc",
+      "accent_secondary": "#2B2B2B",
+      "site_border_color": "#f3f3f3",
+      "link_color": "#2b333b",
+      "link_hover_color": "#007efc",
+      "header_bg": "#ffffff",
+      "header_link": "#3b434b",
+      "header_link_hover": "#007efc",
+      "menu_bg_color": "#2b2b2b",
+      "menu_border_color": "#2b2b2b",
+      "menu_link_color": "#ffffff",
+      "menu_link_hover_color": "#c8e4f2",
+      "submenu_bg_color": "#2b2b2b",
+      "submenu_link_color": "#ffffff",
+      "submenu_link_hover_color": "#c8e4f2",
+      "menu_transparent_color": "#ffffff",
+      "footer_bg": "#1f1f1f",
+      "footer_text": "#fafafa",
+      "footer_link": "#e1e1e1",
+      "footer_link_hover": "#808080",
+      "type_heading_font": "monotype_news_gothic_n4",
+      "type_heading_size": 100,
+      "type_base_font": "monotype_news_gothic_n4",
+      "type_body_size": 95,
+      "animations_enable": false,
+      "image_hover_enable": false,
+      "sale_tags_enable": true,
+      "sale_background_color": "#ed6161",
+      "sale_text_color": "#ffffff",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Open Sans",
+      "checkout_body_font": "Open Sans",
+      "checkout_accent_color": "#007efc",
+      "checkout_button_color": "#007efc",
+      "checkout_error_color": "#ed6161",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "header_style": "logo_beside"
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "bg_color": "#f7f7f7",
+            "color": "#545454",
+            "layout": "slider",
+            "speed": 7
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "linklist",
+              "settings": {
+                "linklist": "main-menu",
+                "title": ""
+              }
+            },
+            "footer-1": {
+              "type": "social",
+              "settings": {
+                "title": "Social",
+                "richtext": "<p>Stay current with updates from our social channels.<\/p>"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "enable_name": false
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "logo_image_width": 150,
+            "bg_position": "center-center",
+            "overlay_opacity": 75,
+            "overlay_color": "#ffffff",
+            "footer_secondary_linklist": "",
+            "footer_payment_enable": false,
+            "show_locale_selector": true,
+            "show_currency_selector": true,
+            "type": "currency"
+          }
+        },
+        "popups": {
+          "type": "popups",
+          "blocks": {
+            "popups-0": {
+              "type": "cookie",
+              "settings": {
+                "position": "popup-cookies--left",
+                "show_cookies_popup": true
+              }
+            }
+          },
+          "block_order": [
+            "popups-0"
+          ],
+          "settings": {}
+        }
+      }
+    }
+  }
+}

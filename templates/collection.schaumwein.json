@@ -1,0 +1,496 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1085758976.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Champagner, Prosecco & Co.",
+            "text": "<p>Ausgewählte Champagner, Prosecco & Co. der bekanntesten & ausgezeichnetsten Häuser der Welt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1642082655d7810d4a": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "164208265561517e5b-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "subheading": "Introducing",
+            "title": "Text block",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "164208265561517e5b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "collection"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "165165080479d809ed": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "165165080370e318b2-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Champagner, Prosecco & Co."
+          }
+        },
+        "165165080370e318b2-1": {
+          "type": "question",
+          "settings": {
+            "title": "Unsere Marken",
+            "content": "<p>Entdecken Sie ausgewählte Champagner, Prosecco & Co. der berühmtesten Häusern der Welt. Wir bieten Ihnen Produkte von <a href=\"\/collections\/moet-chandon\" target=\"_blank\" title=\"Moët & Chandon\">Moët & Chandon<\/a>, <a href=\"\/collections\/veuve-clicquot\" target=\"_blank\" title=\"Veuve Clicquot\">Veuve Clicquot, <\/a><a href=\"\/collections\/dom-perignon\" target=\"_blank\" title=\"Dom Pérignon\">Dom Pérignon<\/a>, <a href=\"\/collections\/armand-de-brignac\" target=\"_blank\" title=\"Armand de Brignac\">Armand de Brignac, <\/a><a href=\"\/collections\/perrier-jouet\" target=\"_blank\" title=\"Perrier-Jouët\">Perrier-Jouët, <\/a><a href=\"\/collections\/taittinger\" target=\"_blank\" title=\"Taittinger\">Taittinger, <\/a><a href=\"\/collections\/bollinger\" target=\"_blank\" title=\"Bollinger\">Bollinger, <\/a><a href=\"\/collections\/louis-roederer\" target=\"_blank\" title=\"Louis Roederer\">Louis Roederer, <\/a><a href=\"\/collections\/laurent-perrier\" target=\"_blank\" title=\"Laurent-Perrier\">Laurent-Perrier, <\/a><a href=\"\/collections\/ruinart\" target=\"_blank\" title=\"Ruinart\">Ruinart<\/a>, <a href=\"\/collections\/piper-heidsieck\" target=\"_blank\" title=\"Piper-Heidsieck\">Piper-Heidsieck<\/a>, <a href=\"\/collections\/krug\" target=\"_blank\" title=\"Krug\">Krug<\/a> & <a href=\"\/collections\/lamborghini\" target=\"_blank\" title=\"Lamborghini\">Lamborghini<\/a><\/p>"
+          }
+        },
+        "165165080370e318b2-2": {
+          "type": "question",
+          "settings": {
+            "title": "Über Champagner",
+            "content": "<p>Champagner ist ein Schaumwein, der aus Trauben hergestellt wird, die nur in dem französischen Weinbaugebiet <em>Champagne<\/em> gelesen werden dürfen. Champagner gilt als der hochwertigste Schaumwein der Welt. Das Gebiet, in dem die Trauben für den Champagner angebaut werden dürfen, umfasst rund 33.500 Hektar und ist nahezu vollständig bestockt. <\/p><p>Dadurch ist die weltweite Herstellung von Champagner jährlich begrenzt. Die Entstehung des Champagners fand im 17. Jahrhundert statt, als die französischen Winzer angefangen haben, den Wein schon im Anbaugebiet in Flaschen zu füllen, um seine Frische zu erhalten. Durch das frühe Abfüllen des Weines fing dieser jedoch an, unbeabsichtigt in der Flasche weiter zu gären und Kohlensäure zu produzieren. Das älteste heute noch bestehende Champagnerhaus ist <a href=\"https:\/\/www.ruinart.com\" target=\"_blank\" title=\"Ruinart Offizielle Homepage\">Ruinart<\/a>. Durch die bekannten Handelshäuser (heute Hersteller) wie beispielsweise <a href=\"https:\/\/www.moet.com\/de-de\" target=\"_blank\" title=\"Moët & Chandon Homepage\">Moët & Chandon<\/a>, <a href=\"https:\/\/www.piper-heidsieck.com\/de\" target=\"_blank\" title=\"Piper-Heidsieck Homepage\">Piper-Heidsieck<\/a> & <a href=\"https:\/\/www.champagne-bollinger.com\/\" target=\"_blank\" title=\"Bollinger Homepage\">Bollinger<\/a> kam es zu einer internationalen Vermarktung des neu geschaffenen Schaumweines. <\/p><p>Dieser war bis in 19. Jahrhundert, durch die verbliebene Hefe aber noch trübe. Erst als Madame Clicquot (prägende Eigentümerin von \"<a href=\"\/blogs\/cover\/das-weingut-veuve-clicquot-ponsardin\" target=\"_blank\" title=\"Das Weingut Veuve Clicquot Ponsardin | Die Geschichte\">Veuve Clicquot<\/a>\") gemeinsam mit Ihrem deutschen Kellermeister das Rütteln und Degorgieren erfand, wurde der Champagner zu dem, wie wir ihn heute kennen. 1804 brachte Veuve Clicquot außerdem den ersten <a href=\"\/products\/veuve-clicquot-rose\" target=\"_blank\" title=\"Veuve Clicquot Rosé\">Rosé-Champagner<\/a> heraus.<\/p>"
+          }
+        },
+        "f3f0cbe6-a929-4b12-8afd-26411a1e47a8": {
+          "type": "question",
+          "settings": {
+            "title": "Wie wird Champagner am besten gelagert?",
+            "content": "<p>Die meisten großen Champagnerhäuser empfehlen für die Lagerung Ihrer Champagner einen Ort mit gleichmäßig kühler Temperatur. Die Temperatur sollte zwischen 7-18°C liegen. Große Temperaturschwankungen und Temperaturschocks sollten unbedingt vermieden werden. <strong>Zu hohe Temperaturen<\/strong> können den Alterungsprozess des Champagner beschleunigen und die Qualität des Weines mindern. <strong>Zu kühle Temperaturen<\/strong> verlangsamen den Reifungsprozess des Weines und verhindern die Entwicklung des Weines. Außerdem sollte Champagner stets dunkel gelagert werden. Lichteinflüsse können den Wein schädigen. Insbesondere Flaschen aus transparentem Glas müssen vor Lichteinwirkung geschützt werden. Besonders empfindlich reagiert Champagner genau wie andere Schaumweine auf Lichteinfluss durch Leuchtstofflampen.<\/p>"
+          }
+        },
+        "6d23fa7e-faef-4588-bb61-adb53fbd4f53": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange lässt sich Champagner lagern?",
+            "content": "<p>Über die Lagerdauer lässt sich wohl unter Kennerkreisen streiten. Denn der Champagner lebt und entwickelt sich mit der <br\/>Reifezeit. Außer von den Lagerbedingungen wird der Reifungsprozess und die Qualität des Champagners maßgeblich durch die Assemblage (bei <br\/>Jahrgangschampagner) und die Flaschengröße beeinflusst. <\/p><p>Jahrgangschampagner halten sich in der Regel länger. Einen Vintage Champagner könnte man auch noch sieben bis zehn Jahre nach dem Kauf trinken. Allerdings ist es nicht nötig einen Champagner länger als empfohlen aufzubewahren, da die Champagnerhäuser ihren Champagner so produzieren und Reifen das er zum Zeitpunkt des Kaufes durch den Kunden den optimalen Zeitpunkt erreicht hat.<\/p>"
+          }
+        },
+        "165165080370e318b2-3": {
+          "type": "question",
+          "settings": {
+            "title": "Welches Glas ist das beste für Champagner?",
+            "content": "<p>Als perfektes Champagnerglas sollte eine<a href=\"\/products\/eisch-sektglaser-set-ravi-platin-in-geschenkbox\" target=\"_blank\" title=\"Eisch Sektgläser Set Ravi &quot;Platin&quot; in Geschenkbox\"> Champagnertulpe mit Moussierpunkt<\/a> verwendet werden. Durch die einzigartige Form kann sich das Bouquet des Champagners optimal entfalten. Durch den Moussierpunkt können die Perlen des Champagners gleichmäßig aufsteigen.<\/p>"
+          }
+        },
+        "4f1dcc16-de78-4f57-810f-a273664b5637": {
+          "type": "question",
+          "settings": {
+            "title": "Was passt zu Champagner?",
+            "content": "<p>Champagner passt genau wie ein stiller Wein zu einer Vielzahl von Gerichten. Die Kohlensäure eines Champagners überträgt sich beim gemeinsamen Verzehr auf das Gericht und verleiht ihm Frische & Leichtigkeit. Deshalb eignet sich Champagner natürlich hervorragend für leichte Vorspeisen, Meeresfrüchte & Fisch. Generell empfehlen sich Gerichte, die sich auf das Wesentliche konzentrieren und sich eher auf den Eigengeschmack des Hauptproduktes konzentrieren. <\/p><p>Auf Gerichte mit vielen Kräutern, viel Knoblauch, scharfen oder sauren Zutaten sollte verzichtet werden. Diese zerstören die Finesse des Champagners.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165165080370e318b2-0",
+        "165165080370e318b2-1",
+        "165165080370e318b2-2",
+        "f3f0cbe6-a929-4b12-8afd-26411a1e47a8",
+        "6d23fa7e-faef-4588-bb61-adb53fbd4f53",
+        "165165080370e318b2-3",
+        "4f1dcc16-de78-4f57-810f-a273664b5637"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--small",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1653044826b258451d": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Entdecken Sie ausgewählte Champagner, Prosecco & Co. der berühmtesten Häusern der Welt. Wir bieten Ihnen Produkte von <a href=\"\/collections\/moet-chandon\" target=\"_blank\" title=\"Moët & Chandon\">Moët & Chandon<\/a>, <a href=\"\/collections\/veuve-clicquot\" target=\"_blank\" title=\"Veuve Clicquot\">Veuve Clicquot, <\/a><a href=\"\/collections\/dom-perignon\" target=\"_blank\" title=\"Dom Pérignon\">Dom Pérignon<\/a>, <a href=\"\/collections\/armand-de-brignac\" target=\"_blank\" title=\"Armand de Brignac\">Armand de Brignac, <\/a><a href=\"\/collections\/perrier-jouet\" target=\"_blank\" title=\"Perrier-Jouët\">Perrier-Jouët, <\/a><a href=\"\/collections\/taittinger\" target=\"_blank\" title=\"Taittinger\">Taittinger, <\/a><a href=\"\/collections\/bollinger\" target=\"_blank\" title=\"Bollinger\">Bollinger, <\/a><a href=\"\/collections\/louis-roederer\" target=\"_blank\" title=\"Louis Roederer\">Louis Roederer, <\/a><a href=\"\/collections\/laurent-perrier\" target=\"_blank\" title=\"Laurent-Perrier\">Laurent-Perrier, <\/a><a href=\"\/collections\/ruinart\" target=\"_blank\" title=\"Ruinart\">Ruinart<\/a>, <a href=\"\/collections\/piper-heidsieck\" target=\"_blank\" title=\"Piper-Heidsieck\">Piper-Heidsieck<\/a>, <a href=\"\/collections\/krug\" target=\"_blank\" title=\"Krug\">Krug<\/a> & <a href=\"\/collections\/lamborghini\" target=\"_blank\" title=\"Lamborghini\">Lamborghini<\/a><\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1653039184976fa32c": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16530391840780f14a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design_ohne_Titel_18.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "Champagner",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16530391840780f14a-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Über Champagner",
+            "text": "<p>Champagner ist ein Schaumwein, der aus Trauben hergestellt wird, die nur in dem französischen Weinbaugebiet <em>Champagne<\/em> gelesen werden dürfen. Champagner gilt als der hochwertigste Schaumwein der Welt. Das Gebiet, in dem die Trauben für den Champagner angebaut <br\/>werden dürfen, umfasst rund 33.500 Hektar und ist nahezu vollständig bestockt. <\/p><p>Dadurch ist die weltweite Herstellung von Champagner <br\/>jährlich begrenzt. Die Entstehung des Champagners fand im 17.  Jahrhundert statt, als die französischen Winzer angefangen haben, den <br\/>Wein schon im Anbaugebiet in Flaschen zu füllen, um seine Frische zu erhalten. Durch das frühe Abfüllen des Weines fing dieser jedoch an, unbeabsichtigt in der Flasche weiter zu gären und Kohlensäure zu produzieren. <\/p><p>Das älteste heute noch bestehende Champagnerhaus ist <a href=\"https:\/\/www.ruinart.com\" target=\"_blank\" title=\"Ruinart Offizielle Homepage\">Ruinart<\/a>. Durch die bekannten Handelshäuser (heute Hersteller) wie beispielsweise <a href=\"https:\/\/www.moet.com\/de-de\" target=\"_blank\" title=\"Moët & Chandon Homepage\">Moët & Chandon<\/a>, <a href=\"https:\/\/www.piper-heidsieck.com\/de\" target=\"_blank\" title=\"Piper-Heidsieck Homepage\">Piper-Heidsieck<\/a> & <a href=\"https:\/\/www.champagne-bollinger.com\/\" target=\"_blank\" title=\"Bollinger Homepage\">Bollinger<\/a> kam es zu einer internationalen Vermarktung des neu geschaffenen Schaumweines. <\/p><p>Dieser war bis in 19. Jahrhundert, durch die verbliebene Hefe aber noch trübe.<br\/>Erst als Madame Clicquot (prägende Eigentümerin von \"<a href=\"https:\/\/vendite-e-vendite.myshopify.com\/blogs\/cover\/das-weingut-veuve-clicquot-ponsardin\" target=\"_blank\" title=\"Das Weingut Veuve Clicquot Ponsardin | Die Geschichte\">Veuve Clicquot<\/a>\")<br\/> gemeinsam mit Ihrem deutschen Kellermeister das Rütteln und Degorgieren<br\/> erfand, wurde der Champagner zu dem, wie wir ihn heute kennen. 1804 <br\/>brachte Veuve Clicquot außerdem den ersten <a href=\"https:\/\/vendite-e-vendite.myshopify.com\/products\/veuve-clicquot-rose\" target=\"_blank\" title=\"Veuve Clicquot Rosé\">Rosé-Champagner<\/a> heraus.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16530391840780f14a-0",
+        "16530391840780f14a-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1653044832bf2a3d89": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16530448320736248e-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Wie wird Champagner am besten gelagert?",
+            "text": "<p>Die meisten großen Champagnerhäuser empfehlen für die Lagerung Ihrer Champagner einen Ort mit gleichmäßig kühler Temperatur. Die Temperatur <br\/>sollte zwischen 7-18°C liegen. GroßeTemperaturschwankungn und Temperaturschocks sollten unbedingt vermieden werden. <strong>Zu hohe Temperaturen<\/strong> können den Alterungsprozess des Champagner beschleunigen und die Qualität des Weines mindern. <strong>Zu kühle Temperaturen<\/strong> verlangsamen den Reifungsprozess des Weines und verhindern die <br\/>Entwicklung des Weines. Außerdem sollte Champagner stets dunkel gelagert werden. Lichteinflüsse können den Wein schädigen. Insbesondere Flaschen aus transparentem Glas müssen vor Lichteinwirkung geschützt werden. Besonders empfindlich reagiert Champagner genau wie andere Schaumweine auf Lichteinfluss durch Leuchtstofflampen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "fdb3da6f-80e0-4399-a469-84ffa537800a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1316737143.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 50,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "Lagerung von Champagner",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16530448320736248e-1",
+        "fdb3da6f-80e0-4399-a469-84ffa537800a"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "165304562444272d79": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1653045624f8ce64c4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1220381846.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "Haltbarkeit von Champagner",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1653045624f8ce64c4-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Wie lange lässt sich Champagner lagern?",
+            "text": "<p>Über die Lagerdauer lässt sich wohl unter Kennerkreisen streiten. Denn der Champagner lebt und entwickelt sich mit der <br\/>Reifezeit. Außer von den Lagerbedingungen wird der Reifungsprozess und die Qualität des Champagners maßgeblich durch die Assemblage (bei <br\/>Jahrgangschampagner) und die Flaschengröße beeinflusst. <\/p><p>Jahrgangschampagner halten sich in der Regel länger. Einen Vintage Champagner könnte man auch noch sieben bis zehn Jahre nach dem Kauf trinken. Allerdings ist es nicht nötig einen Champagner länger als empfohlen aufzubewahren, da die Champagnerhäuser ihren Champagner so produzieren und Reifen das er zum Zeitpunkt des Kaufes durch den Kunden den optimalen Zeitpunkt erreicht hat.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1653045624f8ce64c4-0",
+        "1653045624f8ce64c4-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "165304618266d8fc1c": {
+      "type": "section-custom-content",
+      "blocks": {
+        "165304618212a2a305-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Welches Glas ist das beste für Champagner?",
+            "text": "<p>Als perfektes Champagnerglas sollte eine<a href=\"\/products\/eisch-sektglaser-set-ravi-platin-in-geschenkbox\" target=\"_blank\" title=\"Eisch Sektgläser Set Ravi &quot;Platin&quot; in Geschenkbox\"> Champagnertulpe mit Moussierpunkt<\/a> verwendet werden. Durch die einzigartige Form kann sich das Bouquet des Champagners optimal entfalten. Durch den Moussierpunkt können die Perlen des Champagners gleichmäßig aufsteigen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "165304618212a2a305-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1287653316.jpg",
+            "bg_position": "right-center",
+            "overlay_opacity": 40,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "Gläser für Champagner",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "165304618212a2a305-1",
+        "165304618212a2a305-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16530465986ed4cffd": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1653046598f38ae3b6-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1208880520.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 30,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "Champagner Pairing",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1653046598f38ae3b6-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Was passt zu Champagner?",
+            "text": "<p>Champagner passt genau wie ein stiller Wein zu einer Vielzahl von Gerichten. Die Kohlensäure eines Champagners überträgt sich beim gemeinsamen Verzehr auf das Gericht und verleiht ihm Frische & Leichtigkeit. Deshalb eignet sich Champagner natürlich hervorragend für leichte Vorspeisen, Meeresfrüchte & Fisch. Generell empfehlen sich Gerichte, die sich auf das Wesentliche konzentrieren und sich eher auf den Eigengeschmack des Hauptproduktes konzentrieren. <\/p><p>Auf Gerichte mit vielen Kräutern, viel Knoblauch, scharfen oder sauren Zutaten sollte verzichtet werden. Diese zerstören die Finesse des Champagners.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1653046598f38ae3b6-0",
+        "1653046598f38ae3b6-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "1642082655d7810d4a",
+    "subcollections",
+    "main",
+    "165165080479d809ed",
+    "hero",
+    "1653044826b258451d",
+    "1653039184976fa32c",
+    "1653044832bf2a3d89",
+    "165304562444272d79",
+    "165304618266d8fc1c",
+    "16530465986ed4cffd"
+  ]
+}

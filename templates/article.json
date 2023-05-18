@@ -1,0 +1,45 @@
+{
+  "sections": {
+    "main": {
+      "type": "article",
+      "blocks": {
+        "related-products": {
+          "type": "related",
+          "settings": {
+            "title": "Zugehörige Produkte"
+          }
+        },
+        "recent-articles": {
+          "type": "recent",
+          "settings": {
+            "title": "Neuste Beiträge"
+          }
+        },
+        "3f7fa314-fef5-428c-a9d9-5537332165c5": {
+          "type": "links",
+          "settings": {
+            "title": "Kategorien",
+            "blog_linklist": ""
+          }
+        }
+      },
+      "block_order": [
+        "related-products",
+        "recent-articles",
+        "3f7fa314-fef5-428c-a9d9-5537332165c5"
+      ],
+      "settings": {
+        "bg_position": "center-center",
+        "image_height": "screen-height-one-third",
+        "show_date": true,
+        "show_author": false,
+        "tags": false,
+        "social": true,
+        "arrows": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

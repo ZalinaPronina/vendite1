@@ -1,0 +1,157 @@
+{
+  "sections": {
+    "main": {
+      "type": "list-collections",
+      "blocks": {
+        "93559fde-9327-43fa-a09f-9ca530d888b3": {
+          "type": "collection",
+          "settings": {
+            "collection": "dom-perignon",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "d87c3c8f-e77a-44e1-ba64-473389f445b0": {
+          "type": "collection",
+          "settings": {
+            "collection": "hennessy",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "3b587f0e-7f2a-46d8-9ed5-89b2116e3832": {
+          "type": "collection",
+          "settings": {
+            "collection": "moet-chandon",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "0fed1f3b-03dd-4162-bd6a-c3ad0de43730": {
+          "type": "collection",
+          "settings": {
+            "collection": "veuve-clicquot",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "e8bad322-6fbb-4f9f-97b9-5f4c990761d8": {
+          "type": "collection",
+          "settings": {
+            "collection": "clase-azul",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "b8f98650-d34b-48fd-826e-7d76ba8a7b2d": {
+          "type": "collection",
+          "settings": {
+            "collection": "bollinger",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "56c9ad3e-3bbd-4058-b411-493921cd49a1": {
+          "type": "collection",
+          "settings": {
+            "collection": "perrier-jouet",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "37a0fbab-ccd9-4fbf-ad0f-1d5055f288e5": {
+          "type": "collection",
+          "settings": {
+            "collection": "ruinart",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "3a2df9f6-87e0-41e6-84aa-ec8934367764": {
+          "type": "collection",
+          "settings": {
+            "collection": "miraval",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "d0e209f8-d1cd-4367-92f6-96ed574d173a": {
+          "type": "collection",
+          "settings": {
+            "collection": "don-julio",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "4807699b-e195-4fdb-b9c3-eb4361bb1b1a": {
+          "type": "collection",
+          "settings": {
+            "collection": "krug",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "639550f8-81a8-4ab9-93d3-9f1aa9edbb44": {
+          "type": "collection",
+          "settings": {
+            "collection": "volcan",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "e6a106ed-c876-4fda-a6a3-17aba6a9d7b9": {
+          "type": "collection",
+          "settings": {
+            "collection": "louis-roederer",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "cd023410-af55-4df5-a32d-817e5698b9b5": {
+          "type": "collection",
+          "settings": {
+            "collection": "roberto-cavalli",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        },
+        "8439cf91-7e9b-4217-a03a-c59c7362d6fe": {
+          "type": "collection",
+          "settings": {
+            "collection": "lamborghini",
+            "collection_name": "",
+            "bg_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "93559fde-9327-43fa-a09f-9ca530d888b3",
+        "d87c3c8f-e77a-44e1-ba64-473389f445b0",
+        "3b587f0e-7f2a-46d8-9ed5-89b2116e3832",
+        "0fed1f3b-03dd-4162-bd6a-c3ad0de43730",
+        "e8bad322-6fbb-4f9f-97b9-5f4c990761d8",
+        "b8f98650-d34b-48fd-826e-7d76ba8a7b2d",
+        "56c9ad3e-3bbd-4058-b411-493921cd49a1",
+        "37a0fbab-ccd9-4fbf-ad0f-1d5055f288e5",
+        "3a2df9f6-87e0-41e6-84aa-ec8934367764",
+        "d0e209f8-d1cd-4367-92f6-96ed574d173a",
+        "4807699b-e195-4fdb-b9c3-eb4361bb1b1a",
+        "639550f8-81a8-4ab9-93d3-9f1aa9edbb44",
+        "e6a106ed-c876-4fda-a6a3-17aba6a9d7b9",
+        "cd023410-af55-4df5-a32d-817e5698b9b5",
+        "8439cf91-7e9b-4217-a03a-c59c7362d6fe"
+      ],
+      "settings": {
+        "display_type": "selected",
+        "title": "",
+        "grid": 5,
+        "rows": 4,
+        "enable_reviews": false,
+        "layout_mobile": "carousel"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

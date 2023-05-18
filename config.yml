@@ -1,0 +1,18 @@
+development:
+  password: shptka_9a5e365fff0d60d68aae5240f7514922
+  theme_id: "136277688586"
+  store: vendite-e-vendite.myshopify.com
+
+testtheme:
+  password: shptka_9a5e365fff0d60d68aae5240f7514922
+  theme_id: "1142842364170"
+  store: vendite-e-vendite.myshopify.com
+  ignore_files:
+  - templates/
+  - config/
+  - assets/loy_49043898520.js
+  - snippets/shogun-products.liquid
+  - snippets/icon-ruler.liquid
+  - snippets/booster-apps-common.liquid
+  - sections/customer-order.liquid
+

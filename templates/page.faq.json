@@ -1,0 +1,156 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "show_content": false,
+        "text_size": 2,
+        "align_text": "text-center",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#f7f7f7"
+      }
+    },
+    "faq-first": {
+      "type": "page-faq",
+      "blocks": {
+        "faq-heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Lieferung"
+          }
+        },
+        "faq-0": {
+          "type": "question",
+          "settings": {
+            "title": "Wohin wird geliefert?",
+            "content": "<p>Bestellungen können momentan in folgende Länder zu den angezeigten Lieferpauschalen geliefert werden:<\/p><ul><li>Deutschland: 5,90€ inkl. MwSt.<\/li><li>Österreich:    14,99€ inkl. MwSt.<\/li><\/ul><p>Ab einem Bestellwert von 150€ entfallen die Versandkosten für Lieferungen<strong> innerhalb von Deutschland.<\/strong><\/p><p><\/p><p>Sollten Sie eine Lieferung außerhalb unseres Liefergebietes wünschen, sprechen Sie uns gerne an und wir werden Ihnen ein individuelles Angebot zusammenstellen.<\/p>"
+          }
+        },
+        "faq-1": {
+          "type": "question",
+          "settings": {
+            "title": "Wie schnell werden Bestellungen geliefert?",
+            "content": "<p>Alle Bestellungen, die bis 15 Uhr (Mo.–Fr.) bei uns eingehen, werden noch am selben Tag bearbeitet und versandt. In der Regel ist Ihre Bestellung innerhalb von 1–3 Werktagen bei Ihnen.<\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "question",
+          "settings": {
+            "title": "Wie kann ich meine Bestellung verfolgen?",
+            "content": "<p>Sobald Ihre Bestellung versandt wird, erhalten Sie per E-Mail einen Link zur Sendungsverfolgung. <\/p>"
+          }
+        },
+        "9241a5a6-ae05-4740-a475-d8a6983bd6a2": {
+          "type": "question",
+          "settings": {
+            "title": "Wie wird meine Bestellung geliefert?",
+            "content": "<p>Alle unsere Bestellungen werden sorgfältig und sicher in speziellen und zertifizierten Versandkartons versendet.<\/p>"
+          }
+        },
+        "581f58b3-74bb-46e9-93c7-6091ac7e98ab": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist wenn etwas aus meiner Bestellung beschädigt ist?",
+            "content": "<p>Wir ersetzten selbstverständlich alle Schäden, die durch den Transport <br\/>Ihrer Bestellung entstanden sind. Bitte wenden Sie sich dazu umgehend <br\/>an unseren Kundendienst.<\/p>"
+          }
+        },
+        "6c69f859-744d-4c39-bab3-254e45a93470": {
+          "type": "heading",
+          "settings": {
+            "title": "Bezahlung"
+          }
+        },
+        "a81a4aff-6a9b-4ccb-8def-800d0c5ea4b2": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Zahlungsmöglichkeiten habe ich?",
+            "content": "<p>Sie können Ihre Online-Bestellung mit den folgenden Methoden bezahlen:<\/p><ul><li>Kreditkarten: American Express, Visa, & Mastercard<\/li><li>PayPal & PayPal Express<\/li><li>Apple Pay<\/li><li>Klarna<\/li><li>Giropay<\/li><li>Google Pay<\/li><li>Banküberweisung<\/li><li>BitPay (BTC,ETH uvm.)<\/li><\/ul>"
+          }
+        },
+        "e73bc0ea-e655-40f9-89fa-1e618be718e4": {
+          "type": "question",
+          "settings": {
+            "title": "Ist meine Zahlung sicher?",
+            "content": "<p>Alle über www.venditevendite-shop.de<br\/>abgewickelten Transaktionen werden durch eine HTTPS-Verbindung gesichert und zum Schutz Ihrer Daten verschlüsselt. Die Sicherheit von Kreditkartenzahlungen wird zusätzlich über das Verfahren 3-D Secure gewährleistet.<\/p>"
+          }
+        },
+        "36d03ebd-2a6e-431d-9aa1-ee1034e7d5cc": {
+          "type": "heading",
+          "settings": {
+            "title": "Rückgabe"
+          }
+        },
+        "5f316367-53c8-42a6-8e90-bb3e229fb60a": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Bedingungen gelten für die Rückgabe?",
+            "content": "<p>Bestellungen können innerhalb von 14 Tagen ab dem Lieferdatum zur Erstattung oder zum Umtausch zurückgegeben werden. Beachten Sie aber bitte, dass wir nur ungeöffnete und einwandfreie Artikel zurücknehmen können.<\/p>"
+          }
+        },
+        "f5b409e7-72f4-4c36-9c61-fabe98a1b49f": {
+          "type": "question",
+          "settings": {
+            "title": "Wie kann ich eine Bestellung zurückgeben?",
+            "content": "<p>Um Ihre Sendung zurückzusenden, melden Sie sich bitte unter Angabe Ihrer Bestellnummer über unser <a href=\"\/pages\/kontakt\" title=\"Schreibe uns eine Nachricht\">Kontaktformular<\/a>.<\/p><p><\/p><p>Für die Retoure wird der original Versandkarton inklusive Einlagen benötigt. Sollten Sie diesen nicht mehr besitzen bitten wir Sie uns darüber zu informieren.<\/p>"
+          }
+        },
+        "8db337c5-735f-4025-9dfc-3c430558f8ca": {
+          "type": "question",
+          "settings": {
+            "title": "Wann erhalte ich meine Rückerstattung?",
+            "content": "<p>Sobald wir Ihre Rücksendung erhalten, bearbeiten wir Ihre Erstattungsanfrage. Die Artikel werden dann einer Qualitätsprüfung unterzogen. Wenn die Prüfung bestanden wurde, erhalten Sie Ihre Rückerstattung normalerweise innerhalb von 10 Werktagen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-heading",
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "9241a5a6-ae05-4740-a475-d8a6983bd6a2",
+        "581f58b3-74bb-46e9-93c7-6091ac7e98ab",
+        "6c69f859-744d-4c39-bab3-254e45a93470",
+        "a81a4aff-6a9b-4ccb-8def-800d0c5ea4b2",
+        "e73bc0ea-e655-40f9-89fa-1e618be718e4",
+        "36d03ebd-2a6e-431d-9aa1-ee1034e7d5cc",
+        "5f316367-53c8-42a6-8e90-bb3e229fb60a",
+        "f5b409e7-72f4-4c36-9c61-fabe98a1b49f",
+        "8db337c5-735f-4025-9dfc-3c430558f8ca"
+      ],
+      "settings": {
+        "width": "wrapper--narrow",
+        "height": "margin--small",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "8ab82873-eac2-4817-840b-1d6c1daf05bf": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "Kontaktformular",
+        "button_url": "shopify:\/\/pages\/kontakt",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--large btn--outline caps",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq-first",
+    "8ab82873-eac2-4817-840b-1d6c1daf05bf"
+  ]
+}

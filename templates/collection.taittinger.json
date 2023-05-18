@@ -1,0 +1,293 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-cottonbro-3403505.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Taittinger",
+            "text": "<p>Verspüren Sie die besondere Geschichte des familiengeführten Champagner Hauses Taittinger.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16514969243c224794": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16514969248376e166-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/logo-taittinger2.png",
+            "logo_width": 110
+          }
+        }
+      },
+      "block_order": [
+        "16514969248376e166-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1651497202b13d1525": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "1651497202a8febf92-1": {
+          "type": "question",
+          "settings": {
+            "title": "Über Taittinger",
+            "content": "<p>Die Geschichte von Taittinger lässt sich bis ins Jahr 1734 zurückverfolgen, als das Unternehmen ursprünglich unter dem Namen Forest-Fourneaux bekannt war und von Jacques Fourneaux gegründet wurde, der eng mit den örtlichen Benediktinermönchen zusammenarbeitete, um die Weinherstellung zu erlernen. Damit ist das Haus der drittälteste Champagnerhersteller der Geschichte.<br\/><br\/>Das Weingut wurde 1932 von der Familie Taittinger, einer Weinhändlerfamilie, gekauft. Dank der großen Depression und den darauf folgenden niedrigen Grundstückspreise erwarb die Familie auch große Teile der Weinberge. Von 1945 bis 1960 richtete Francois Taittinger die Kellerei in der Abtei von Saint-Nicaise ein. Nach seinem Tod 1960 übernahm sein Bruder Claude die Leitung und machte das Weingut zu einem Champagnerhaus von Weltruf. Der Status der Marke war so groß, dass die Familie Taittinger ihr Geschäft bald auf andere Luxusgüter ausdehnte. Dies führte jedoch schließlich zu finanziellen Schwierigkeiten und 2005 wurde die Marke Taittinger - einschließlich des Champagnerhauses - an die amerikanische Starwood Hotel Group verkauft. Der Verkauf wurde in der Champagnerbranche schlecht aufgenommen, da viele befürchteten, die neuen Eigentümer - die mit der Kultur der Champagne nicht vertraut waren - würden den Profit über die Qualität stellen.<br\/><br\/>Nur ein Jahr später handelte Claudes Neffe Pierre-Emmanuel Taittinger, der sich stets gegen den Verkauf ausgesprochen hatte, mit der Starwood-Gruppe einen Deal aus und die Familie Taittinger wurde wieder Eigentümer des Unternehmens. Taittinger ist somit eines der wenigen Champagnerhäuser, die noch in unabhängigem Besitz sind.<\/p>"
+          }
+        },
+        "1651497202a8febf92-2": {
+          "type": "question",
+          "settings": {
+            "title": "Wie wird Taittinger ausgesprochen ?",
+            "content": "<p>Taittinger wird „Tettongschääh“ ausgesprochen, mit sanften „sch“.<\/p>"
+          }
+        },
+        "1651497202a8febf92-3": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Führungen",
+            "content": "<p><a href=\"https:\/\/www.taittinger.com\/de\/fuehrungen#degustations\" target=\"_blank\" title=\"Führungen Taittinger\">Führungen<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1651497202a8febf92-1",
+        "1651497202a8febf92-2",
+        "1651497202a8febf92-3"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--small",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "16601312439767a1a4": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16601312432e1ca763-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-seb-360013_ce435bdd-8e73-4a9b-93f9-44b2403b8241.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16601312432e1ca763-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Über Taittinger",
+            "text": "<p>Die Geschichte von Taittinger lässt sich bis ins Jahr 1734 zurückverfolgen, als das Unternehmen ursprünglich unter dem Namen Forest-Fourneaux bekannt war und von Jacques Fourneaux gegründet wurde, der eng mit den örtlichen Benediktinermönchen zusammenarbeitete, um die Weinherstellung zu erlernen. Damit ist das Haus der drittälteste Champagnerhersteller der Geschichte.<br\/><br\/>Das Weingut wurde 1932 von der Familie Taittinger, einer Weinhändlerfamilie, gekauft. Dank der großen Depression und den darauf folgenden niedrigen Grundstückspreise erwarb die Familie auch große Teile der Weinberge. Von 1945 bis 1960 richtete Francois Taittinger die Kellerei in der Abtei von Saint-Nicaise ein. Nach seinem Tod 1960 übernahm sein Bruder Claude die Leitung und machte das Weingut zu einem Champagnerhaus von Weltruf. Der Status der Marke war so groß, dass die Familie Taittinger ihr Geschäft bald auf andere Luxusgüter ausdehnte. Dies führte jedoch schließlich zu finanziellen Schwierigkeiten und 2005 wurde die Marke Taittinger - einschließlich des Champagnerhauses - an die amerikanische Starwood Hotel Group verkauft. Der Verkauf wurde in der Champagnerbranche schlecht aufgenommen, da viele befürchteten, die neuen Eigentümer - die mit der Kultur der Champagne nicht vertraut waren - würden den Profit über die Qualität stellen.<br\/><br\/>Nur ein Jahr später handelte Claudes Neffe Pierre-Emmanuel Taittinger, der sich stets gegen den Verkauf ausgesprochen hatte, mit der Starwood-Gruppe einen Deal aus und die Familie Taittinger wurde wieder Eigentümer des Unternehmens. Taittinger ist somit eines der wenigen Champagnerhäuser, die noch in unabhängigem Besitz sind.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16601312432e1ca763-0",
+        "16601312432e1ca763-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1660131564407da774": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Das Weingut",
+        "text": "<p>Heute umfasst das Weingut Taittinger 288 Hektar, die zwischen der Côte des Blancs, dem Vallée de la Marne und der Montagne de Reims liegen. Es besteht aus 37% Chardonnay-, 48% Pinot Noir- und 15% Pinot Meunier-Reben, die sich gleichmäßig auf 37 verschiedene Weinberge verteilen, die zu den besten der Champagne gehören. Taittinger verfügt auch über Chardonnay-Reben, die im Herzen der Côte des Blancs auf 5 Terroirs gepflanzt sind, die Grands Crus aus dieser hervorragenden Rebsorte hervorbringen.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1651585395119e76c6": {
+      "type": "text-promo",
+      "blocks": {
+        "16515853951970c8f8-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Führungen"
+          }
+        },
+        "16515853951970c8f8-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Champagnerhaus TAITTINGER"
+          }
+        },
+        "2d9bff89-9c2a-493d-bb6d-c9db746537c7": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Führungen",
+            "button_url": "https:\/\/www.taittinger.com\/de\/fuehrungen",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "16515853951970c8f8-0",
+        "16515853951970c8f8-1",
+        "2d9bff89-9c2a-493d-bb6d-c9db746537c7"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "subcollections",
+    "main",
+    "16514969243c224794",
+    "hero",
+    "1651497202b13d1525",
+    "16601312439767a1a4",
+    "1660131564407da774",
+    "1651585395119e76c6"
+  ]
+}

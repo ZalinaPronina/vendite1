@@ -1,0 +1,242 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design_ohne_Titel_10.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Bollinger",
+            "text": "<p>Es erwartet Sie die besondere Geschichte des familiengeführten Champagner Hauses Bollinger.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "165839482878b94229": {
+      "type": "section-logo-list",
+      "blocks": {
+        "1658394828e34d3e31-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Bollinger.png",
+            "logo_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "1658394828e34d3e31-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "16583953528d337178": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1658395351698fb5ef-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die Geschichte",
+            "text": "<p>Die Geschichte beginnt mit Athanase de Villermont, dem jüngsten Sohn einer Adelsfamilie mit einem glänzenden Schicksal. Als großer Soldat, der im amerikanischen Unabhängigkeitskrieg glänzte, erbte er von seiner Familie ein großes Anwesen in der Gegend von Aÿ. Er erkannte sofort das außergewöhnliche Potenzial der Weine der Champagne, aber als Aristokrat war es ihm verboten, sich am Handel zu beteiligen. Er lernte Joseph Bollinger kennen, einen weitgereisten Deutschen, der seine Heimat verlassen hatte, um den Weinhandel in der Champagne kennenzulernen, und Paul Renaudin, einen Einheimischen, der von der Welt des Weins fasziniert war. Das Unternehmen Renaudin-Bollinger & Cie wurde am 6. Februar 1829 gegründet. Joseph kümmerte sich um den Verkauf und Paul um den Keller. Athanase hatte ein Champagnerhaus gegründet, das die Jahrhunderte überdauern sollte.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1658395351698fb5ef-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-pixabay-60611.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1658395351698fb5ef-1",
+        "1658395351698fb5ef-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1658394927beffd34c": {
+      "type": "section-custom-content",
+      "blocks": {
+        "165839492674c452f5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-seb-360013.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "165839492674c452f5-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Das Weingut",
+            "text": "<p>Die 179 Hektar des Hauses sind zu 85% mit Grand Cru- und Premier Cru-Reben bepflanzt, die sich auf sieben Hauptrebflächen verteilen: Aÿ, Avenay, Tauxières, Louvois und Verzenay sind mit Pinot Noir bepflanzt, Cuis mit Chardonnay und Champvoisy mit Pinot Meunier. <a href=\"https:\/\/www.champagne-bollinger.com\" target=\"_blank\" title=\"Bollinger Champagner\">Bollinger<\/a> ist eines der wenigen Champagnerhäuser, die den Großteil ihrer Trauben für die Verschnitte selbst erzeugen. Der Pinot Noir macht 60% der Weinberge des Hauses aus, was genau dem Anteil dieser anspruchsvollen Rebsorte in der Spezial-Cuvée entspricht. Sie ist komplex und kraftvoll und verleiht den Bollinger-Weinen ihre bemerkenswerte Struktur. Eine weitere Besonderheit von Bollinger sind zwei Parzellen, Clos Saint-Jacques und Chaudes Terres, die nie von der Reblaus befallen wurden, der Krankheit, die Anfang des 20. Diese unveredelten Rebstöcke werden vollständig von Hand gepflegt und durch eine Form der Lagenbildung, die sogenannte Provignage, vermehrt. Auf diese Weise wird dieses außergewöhnliche Erbe bewahrt, aus dem die sehr exklusive Cuvée Vieilles Vignes Françaises hergestellt wird. Die Bollinger-Reben sind ein fester Bestandteil der Geografie der Champagne. Ihre geraden Reihen, die zu den am dichtesten bepflanzten der Welt zählen, bilden eine Landschaft mit hohem Wiedererkennungswert. Um diese Harmonie zu bewahren, verbessert das Haus seinen Weinberg ständig, indem es Eisenpfähle durch Kiefernpfähle ersetzt, Blumen pflanzt und unverfälschte Grenzmarkierungen anbringt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "165839492674c452f5-0",
+        "165839492674c452f5-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "subcollections",
+    "main",
+    "165839482878b94229",
+    "hero",
+    "16583953528d337178",
+    "1658394927beffd34c"
+  ]
+}

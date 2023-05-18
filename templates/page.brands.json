@@ -1,0 +1,31 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "subheading": "Entdecken Sie unsere",
+        "image": "shopify:\/\/shop_images\/Cordero_di_Montezemolo.jpg",
+        "show_title": true,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-center",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-light",
+        "bg_color": "#ffffff"
+      }
+    },
+    "brands": {
+      "type": "brands",
+      "settings": {
+        "top_margin": false,
+        "width": "wrapper",
+        "menu": "weing-ter"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "brands"
+  ]
+}

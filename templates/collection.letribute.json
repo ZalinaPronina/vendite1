@@ -1,0 +1,276 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/le_tribute.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Le Tribute",
+            "text": "<p>Le Tribute ist eine Anerkennung der Pioniere, der Prozesse und des Erbes; und sein Geist, sein Design und seine Produktqualität machen LE TRIBUTE zu einer einzigartigen zeitgenössischen Marke voller Charakter und Seele.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "disabled": true,
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Chateau_Clinet.webp",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": false,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "65f3add1-702f-4109-a763-2dbe5d63b0a6": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "template--16133106041098__65f3add1-702f-4109-a763-2dbe5d63b0a6-1668442722ed5427bf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chateau_Clinet_2.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16133106041098__65f3add1-702f-4109-a763-2dbe5d63b0a6-1668442722ed5427bf-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "Château Clinet",
+            "text": "<p>Pomerol hat eine einzigartige Atmosphäre des Geheimnisses, der Stille und des Vertrauens. Keine Türmchen oder Alleen, sondern einfach nur eine kleine Ansammlung von Anwesen rund um einen ikonischen Kirchturm ist alles, was an der Oberfläche für ein Land mit so viel Prestige und Bedeutung zu sehen ist.<br\/><br\/>Das bescheidene aber selbstbewusste Clinet liegt auf einem der höchsten Punkte des berühmten Plateaus im Herzen von Pomerol und ist sofort an seinen roten Fensterläden und den schönen Rosen zu erkennen. Es beherbergt einen der ältesten Weinberge der Appellation, dessen Spuren bis ins Jahr 1595 zurückreichen. Dieses Weingut ist ebenfalls berühmt für seine Weine von unvergleichlichem Charakter und Qualität.<br\/><br\/>Mit so viel Prestige geht auch eine große Verantwortung einher: die jahrhundertelange Arbeit der Vorgänger zu respektieren und auf die bestmögliche Art und Weise weiterzuführen. Die Philosophie von <a href=\"https:\/\/www.chateauclinet.com\/en\/story.html\" title=\"Château Clinet Geschichte\">Château Clinet<\/a> ist darauf ausgerichtet, den Geist von Clinet zu bewahren: die Beziehung zwischen Mensch und Natur zu zelebrieren und die Freude, ein so wunderbares Geschenk von Mutter Erde zu erhalten.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16133106041098__65f3add1-702f-4109-a763-2dbe5d63b0a6-1668442722ed5427bf-0",
+        "template--16133106041098__65f3add1-702f-4109-a763-2dbe5d63b0a6-1668442722ed5427bf-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "e248903f-bcc3-4129-b762-7c645c1beba1": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "template--16133106041098__e248903f-bcc3-4129-b762-7c645c1beba1-1668442722ed5427bf-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Eine Sammlung von Reizen",
+            "text": "<p>Der Clinet-Weinberg beherbergt einige faszinierende Schätze. Eine wertvolle Merlot-Parzelle „La Grand Vigne“ an der Seite der Kirche von Pomerol beherbergt 85 Jahre alte Rebstöcke, die über Generationen hinweg Reife und Tiefe bieten. Die Böden mit einer ausgewogenen Mischung aus Sand, Lehm und Kies haben jahrhundertelang Sonne und Niederschläge abbekommen und enthalten Nährstoffe und Mineralien, die eine fast magische Vielfalt an Überraschungen hervorbringen. Die individuellen Charaktere der verschiedenen Parzellen ergeben einen komplexen Flickenteppich aus miteinander verwobenen Aromen und Geschmacksrichtungen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16133106041098__e248903f-bcc3-4129-b762-7c645c1beba1-1668442722ed5427bf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chateau_Clinet_3.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16133106041098__e248903f-bcc3-4129-b762-7c645c1beba1-1668442722ed5427bf-1",
+        "template--16133106041098__e248903f-bcc3-4129-b762-7c645c1beba1-1668442722ed5427bf-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "250b364f-12a2-463b-a261-ddf7b2ba4cf1": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "template--16177603313930__250b364f-12a2-463b-a261-ddf7b2ba4cf1-16687016468e8ea566-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chateau_Clinet_4.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16177603313930__250b364f-12a2-463b-a261-ddf7b2ba4cf1-16687016468e8ea566-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Auswahl ist der Schlüssel zur Exzellenz",
+            "text": "<p>Jede Traube, die in die Kellerei kommt, durchläuft ein strenges Auswahlverfahren, bevor sie ihren Weg in den nächsten Clinet-Jahrgang finden darf. Nach der ersten Selektion bei der Ankunft sorgen eine Hochgeschwindigkeits-Präzisionssortiermaschine und eine weitere Stufe der sorgfältigen Sortierung von Hand dafür, dass nur die besten Trauben in die Fässer gelangen.<br\/><br\/>Die Liebe zum Detail geht bei Clinet weit über die Auswahl der besten Trauben hinaus. Mit der gleichen Sorgfalt werden die besten Werkzeuge, die besten Materialien und die besten Mitarbeiter ausgewählt, die an der Umwandlung dieser kostbaren Trauben in eine exquisite und köstliche Flasche Wein beteiligt sind.<br\/><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16177603313930__250b364f-12a2-463b-a261-ddf7b2ba4cf1-16687016468e8ea566-0",
+        "template--16177603313930__250b364f-12a2-463b-a261-ddf7b2ba4cf1-16687016468e8ea566-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515824545765535e",
+    "hero",
+    "65f3add1-702f-4109-a763-2dbe5d63b0a6",
+    "e248903f-bcc3-4129-b762-7c645c1beba1",
+    "250b364f-12a2-463b-a261-ddf7b2ba4cf1"
+  ]
+}

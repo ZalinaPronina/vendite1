@@ -1,0 +1,112 @@
+<div id="modal-background-first"></div>
+<div id="modal-content-first">
+    <div style="padding: 0px 10px 0px 10px;margin-top: 0px;margin-bottom: 0px;">
+        <h2 style="margin-bottom: 15px;">
+            <center>Altersprüfung</center>
+        </h2>
+        <p>
+            Lieber Kunde, als verantwortungsbewusster Händler halten wir gesetzliche Regelungen zum Jugendschutz ein. Da Sie
+            Produkte im Warenkorb haben, bei welcher wir eine Altersprüfung durchführen müßen, bitten wir Sie das folgende Formular
+            auszufüllen. Nach dem Ihr Alter verifiziert wurde, können Sie die Bestellung durchführen.
+        </p>
+
+        <div class="alert alert-success verifySuccess" id="verifySuccess"
+             style="margin-top:12px;background: #44c767;color: white;border:none;padding:12px;text-align: left;display:none"></div>
+
+        <div style="text-align: center;width:100%;margin-top:12px;clear:both">
+            <div class="form-vertical text-left">
+                <form id="create_customer">
+                    <input type="hidden" name="mode" value="schufa">
+                    <input type="hidden" name="customer[email]" id="fraspyVerifyKey" value="">
+                
+                    <select name="customer[note][Anrede]" required="required" id="salutation">
+                        <option value="">Anrede</option>
+                        <option value="Herr">Herr</option>
+                        <option value="Frau">Frau</option>
+                    </select>
+
+                    <div style="display: flex;">
+                        <div style="width: 50%;">
+                            <input type="text" name="customer[first_name]" required="required" id="FirstName"
+                                   placeholder="{{ 'customer.register.first_name' | t }}" style="width:100%">
+                        </div>
+                        <div style="margin-left:10px;width: 50%;">
+                            <input type="text" name="customer[last_name]" required="required" id="LastName"
+                                   placeholder="{{ 'customer.register.last_name' | t }}" style="width:100%">
+                        </div>
+                    </div>
+                    <input type="text" name="customer[note][Strasse]" required="required" id="address1"
+                           placeholder="Straße" style="width:100%">
+
+                    <div style="display: flex;">
+                        <div style="width: 30%;">
+                            <input type="text" name="customer[note][Postleitzahl]" required="required" id="zip"
+                                   placeholder="Postleitzahl" style="width:100%">
+                        </div>
+                        <div style="margin-left:10px;width: 70%;">
+                            <input type="text" name="customer[note][Ort]" required="required" id="city"
+                                   placeholder="Ort" style="width:100%">
+                        </div>
+                    </div>
+                    <label for="Birthday" class="label--hidden">Geburtsdatum</label><br>
+                    <input type="date" name="customer[note][Birthday]" id="Birthday" required="required"
+                           placeholder="{{ 'customer.register.birthday' | t }}" autocorrect="off" autocapitalize="off">
+
+                    <div style="display: flex;margin-bottom:16px;">
+                        <div style="width: 5%;">
+                            <input type="checkbox" name="schufa_terms" value="yes" id="schufa_terms" required="required">
+                        </div>
+                        <div style="width: 95%;">
+                            <p style="text-align:left;font-size:10px;height: 120px;overflow: auto;" id="schufaTermsText">
+                                Ich willige ein, dass
+                                meine pers&ouml;nlichen Daten zum Zwecke der Identit&auml;tspr&uuml;fung an die SCHUFA (SCHUFA
+                                Holding AG, Kormoranweg 5, 65201 Wiesbaden) &uuml;bermittelt werden und die SCHUFA daraufhin den
+                                Grad der &uuml;bereinstimmung der bei ihr gespeicherten Personalien mit den von mir angegebenen
+                                Personalien in Prozentwerten sowie ggf. einen Hinweis auf eine zur&uuml;ckliegend bei der SCHUFA
+                                oder einem anderen Gesch&auml;ftspartner durchgef&uuml;hrte ausweisgest&uuml;tzte
+                                Legitimationspr&uuml;fung an Vendite e Vendite Markenvertriebsgesellschaft GmbH zur&uuml;ck &uuml;bermittelt. 
+                                Vendite e Vendite Markenvertriebsgesellschaft GmbH kann somit anhand
+                                der &uuml;bermittelten &uuml;bereinstimmungsraten erkennen, ob eine Person unter der von mir
+                                angegebenen Anschrift im Datenbestand der SCHUFA gespeichert ist. <strong>Ein weiterer
+                                Datenaustausch oder eine &uuml;bermittlung abweichender Anschriften sowie eine Speicherung
+                                meiner Daten im SCHUFA Datenbestand findet nicht statt.</strong> Es wird aus Nachweisgr&uuml;nden
+                                allein die Tatsache der &uuml;berpr&uuml;fung der Adresse bei der SCHUFA gespeichert.
+                            </p>
+                        </div>
+                    </div>            
+                    
+					<div class="alert alert-danger verifyError" id="verifyError"
+                         style="margin-bottom:12px;margin-top:12px;background: #e4685d;color: white;border:none;padding:12px;text-align: left;display:none">
+                        <span class="verifyErrorText"></span>
+                    </div>
+
+                    <div style="display: flex;text-align:center">
+                      <div style="width:50%">
+                        <input type="button" value="Abbrechen" class="btn btn--outline" id="tlpxx_modal_window_button_cancel">                      
+                      </div>
+                      <div style="width:50%">
+                        <input type="button" value="Alter bestätigen" class="btn cart__checkout" id="tlpxx_modal_window_button_verify">
+                      </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+  
+<link href="https://venditevendite.alterspruefung365.de/fraspy.css" rel="stylesheet" type="text/css" media="all" />
+<script>
+    var $customerTags = [];
+    {% for tag in customer.tags %}
+        $customerTags['{{ tag }}'] = '{{ tag }}';
+    {% endfor %}
+
+    var $cartSkuList = [];
+    var $cartTagList = [];
+    {% for item in cart.items %}
+        {% for tag in item.product.tags %}
+            $cartTagList['{{ tag }}'] = '{{ tag }}';
+        {% endfor %}
+        $cartSkuList['{{ item.sku }}'] = '{{ item.sku }}';
+    {% endfor %}
+</script>

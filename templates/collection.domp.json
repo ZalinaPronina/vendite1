@@ -1,0 +1,239 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1125612483.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Dom Pérignon",
+            "text": "<p>Exzellente Jahrgangschampagner des berühmten Champagnerhauses Dom Pérignon.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "mehr erfahren",
+            "button_url": "https:\/\/venditevendite-shop.de\/blogs\/cover\/das-champagnerhaus-dom-perignon",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "collection"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "1646313179738e0edd": {
+      "type": "section-logo-list",
+      "blocks": {
+        "164631317972ecadd0-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/domp.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "164631317972ecadd0-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--top-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "164603775071bbccd2": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "7359fe57-3271-4e9e-9c20-5c31e90a70ea": {
+          "type": "question",
+          "settings": {
+            "title": "Über Dom Pérignon",
+            "content": "<p>Dom Pérignon ist die berühmteste und exklusivste Marke des Champagnerhauses Moët & Chandon. Jean-Remy Moët, der Enkel des Gründers von Moët & Chandon legte im Jahre 1823 den Grundstein für die renommierte Champagnermarke in dem er <br\/>das Kloster Abtei Hautvillers gekaufte hatte, in dem der Mönch Dom Pérignon gelebt hatte. Dom Pérignon hatte in seinem Kloster die Verfahren zur Champagnerherstellung verfeinert, die von Jean-Remy Moët übernommen wurden. Seitdem steht die Marke Dom Pérignon für ausgezichnete Cuvées und Jahrgangschampagner.<\/p>"
+          }
+        },
+        "16460377509f18ed8c-1": {
+          "type": "question",
+          "settings": {
+            "title": "Wo wird Dom Pérignon hergestellt?",
+            "content": "<p>Dom Pérignon wird in der Champagne, einem Gebiet in Frankreich, hergestellt. <\/p>"
+          }
+        },
+        "16460377509f18ed8c-2": {
+          "type": "question",
+          "settings": {
+            "title": "Wer war \"Dom Pérignon\"?",
+            "content": "<p>Pierre Pérignon, der von seinem Orden Dom Pérignon genannt wurde, war ein französischer Mönch des Benediktinerordens. In seinem Kloster war er für die Weinproduktion zuständig. Dom Pérignon gilt als Erfinder zahlreicher Verfahren zur Weinherstellung und soll diese bis heute maßgeblich geprägt haben. <\/p>"
+          }
+        },
+        "16460377509f18ed8c-3": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "7359fe57-3271-4e9e-9c20-5c31e90a70ea",
+        "16460377509f18ed8c-1",
+        "16460377509f18ed8c-2",
+        "16460377509f18ed8c-3"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--zero",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1656937531d5bf5b4d": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1656937531ec8ed09b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design_ohne_Titel_12.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 30,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1656937531ec8ed09b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die Geschichte",
+            "text": "<p>Dom Pérignon ist die berühmteste und exklusivste Marke des Champagnerhauses Moët & Chandon. Jean-Remy Moët, der Enkel des Gründers von Moët & Chandon legte im Jahre 1823 den Grundstein für die renommierte Champagnermarke in dem er das Kloster Abtei Hautvillers gekaufte hatte, in dem der Mönch Dom Pérignon gelebt hatte. Dom Pérignon hatte in seinem Kloster die Verfahren zur Champagnerherstellung verfeinert, die von Jean-Remy Moët übernommen wurden. Seitdem steht die Marke Dom Pérignon für ausgezichnete Cuvées und Jahrgangschampagner.<\/p><p>Das Abtei Hautvillers hatte schon vor dem Besitz durch Jean-Remy Moët, eine ausgezeichneten Ruf als Weinproduzent, der durch die Versetzung des Mönches Pierre Pérignon in das Abtei, genannt Dom Pérignon, gefestigt wurde. Dort war Dom Pérignon bis zu seinem Tod 1715 Cellarer und Kellermeister. Der Legende nach war er auch maßgeblich an der Entwicklung der \"Méthode champenoise\", ein Verfahren der Flaschengärung zur Herstellung von Schaumwein, beteiligt. Dieses Verfahren legte den Grundstein für die besondere Qualität und Güte von Champagner und ist für die Benennung und Herstellung von Champagner zwingend erforderlich. Auf den Mönch Dom Pérignon geht auch die Kunst des Weißkelterns roter Traubensorten zurück.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "Mehr erfahren",
+            "button_url": "shopify:\/\/blogs\/cover\/das-champagnerhaus-dom-perignon",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1656937531ec8ed09b-0",
+        "1656937531ec8ed09b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "subcollections",
+    "main",
+    "1646313179738e0edd",
+    "hero",
+    "164603775071bbccd2",
+    "1656937531d5bf5b4d"
+  ]
+}

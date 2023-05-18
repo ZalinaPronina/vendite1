@@ -1,0 +1,465 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-dmitry-zvolskiy-1721939.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Moët & Chandon",
+            "text": "<p>Das wohl bekannteste Champagner Haus der Welt. Moët & Chandon überzeugt seit gut 275 Jahren mit höchster Champagner Kunst.<br\/><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 12,
+        "enable_reviews": false
+      }
+    },
+    "16451071375f6b73d1": {
+      "type": "text-promo",
+      "disabled": true,
+      "blocks": {
+        "1645107137196f00bb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Wissenswertes über Moet & Chandon"
+          }
+        }
+      },
+      "block_order": [
+        "1645107137196f00bb-0"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#ffffff",
+        "text_color": "text-dark",
+        "width": "",
+        "bg_position": "center-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1646310887b390388b": {
+      "type": "section-logo-list",
+      "blocks": {
+        "1646310887b5561ffe-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/logo_9f9936c7-734f-4f7f-970e-9e2be2db8d84.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "1646310887b5561ffe-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-dark",
+        "flex_align": "align--top-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "inline",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "16457877017e129ddc": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "7848c28b-618c-4be6-a89c-784a45ed128a": {
+          "type": "question",
+          "settings": {
+            "title": "Über Moët & Chandon",
+            "content": "<p>Das renommierte Champagnerhaus Moet & Chandon, gegründet 1743 von Claude Moët, ist seit über 270 <br\/>Jahren Marktführer im Bereich des Champagners. Bekannt durch seinen Brut Imperial überzeugt das Hause heute durch eine Vielfalt von verschiedensten & ausgezeichneten Champagnerprodukten.<\/p><p>Der Stil von Moët & Chandon ist unverwechselbar: eine strahlende <br\/>Fruchtigkeit, ein verführerischer Geschmack und eine elegante Reife, die das Ergebnis eines langsamen, schrittweisen Prozesses von der Rebe bis <br\/>zum Keller ist. Jede Phase des Prozesses beruht auf dem sich ergänzenden Know-how von Winzern, Kellermeistern, Önologen und anderen Fachleuten, die alle durch die starken Prinzipien vereint sind, die die Grundwerte, von Moët & Chandon Wein-Credo, darstellen.<br\/><\/p><p>Die Reben von Moët & Chandon wachsen auf Weinbergen im Herzen der Champagne, die sich durch ihre einzigartige Geologie und ihr Klima auszeichnen. Drei Hauptrebsorten werden für die Herstellung aller unserer Champagner verwendet: Pinot Noir, Meunier und Chardonnay.<\/p>"
+          }
+        },
+        "1645787701c77fe8a6-1": {
+          "type": "question",
+          "settings": {
+            "title": "Woher kommt Moët & Chandon?",
+            "content": "<p>Moët & Chandon hat seinen Sitz in Épernay, einer Stadt im Gebiet der Champagne in Frankreich.<\/p>"
+          }
+        },
+        "1645787701c77fe8a6-2": {
+          "type": "question",
+          "settings": {
+            "title": "Wem gehört Moët & Chandon?",
+            "content": "<p>Moët & Chandon gehört zum Luxusgüterkonzern LVMH (<strong>Moët Hennessy – Louis Vuitton)<\/strong><\/p>"
+          }
+        },
+        "1645787701c77fe8a6-3": {
+          "type": "question",
+          "settings": {
+            "title": "Wie spricht man Moët & Chandon aus?",
+            "content": "<p>Um Moët & Chandon [<a href=\"https:\/\/de.wikipedia.org\/wiki\/Liste_der_IPA-Zeichen\" title=\"Liste der IPA-Zeichen\">moˌɛt‿e ʃɑ̃ˈdɔ̃<\/a>] richtig auszusprechen sollte das \"T\" von Moët deutlich ausgeprochen werden und bei Chandon ein kurzes wegfallendes \"N\" am Ende benutzt werden: <em><strong>\" MO-ÈTT e Schandon\"<\/strong><\/em><\/p>"
+          }
+        },
+        "dcb2d9cb-f792-43fa-b0bf-75c56926c00a": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange ist ein Champagner von Moët & Chandon haltbar?",
+            "content": "<p>Generell gibt es bei Champagner kein Haltbarkeitsdatum. Ein Cuvée von Moët & Chandon behält bei sachgerechter Lagerung sein volles Potential innerhalb von 2-3 Jahren. Danach könnte sich der Geschmack verändern. Bei Jahrgangschampagner von Moët & Chandon ist das Alterungspotential meistens noch länger.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "7848c28b-618c-4be6-a89c-784a45ed128a",
+        "1645787701c77fe8a6-1",
+        "1645787701c77fe8a6-2",
+        "1645787701c77fe8a6-3",
+        "dcb2d9cb-f792-43fa-b0bf-75c56926c00a"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--zero",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "16539151509a0ac392": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1653915149222fcad5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design_ohne_Titel_11.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 40,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1653915149222fcad5-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "",
+            "text": "<p>Das renommierte Champagnerhaus Moët & Chandon, gegründet 1743 von Claude Moët, ist seit über 270 Jahren Marktführer im Bereich des Champagners. Bekannt durch seinen Brut Imperial überzeugt das Hause heute durch eine Vielfalt von verschiedensten & ausgezeichneten Champagnerprodukten.<\/p><p>Der Stil von Moët & Chandon ist unverwechselbar: eine strahlende Fruchtigkeit, ein verführerischer Geschmack und eine elegante Reife, die das Ergebnis eines langsamen, schrittweisen Prozesses von der Rebe bis zum Keller ist. Jede Phase des Prozesses beruht auf dem sich ergänzenden Know-how von Winzern, Kellermeistern, Önologen und anderen Fachleuten, die alle durch die starken Prinzipien vereint sind, die die Grundwerte, von Moët & Chandon Wein-Credo, darstellen.<br\/>Die Reben von Moët & Chandon wachsen auf Weinbergen im Herzen der Champagne, die sich durch ihre einzigartige Geologie und ihr Klima auszeichnen. Drei Hauptrebsorten werden für die Herstellung aller unserer Champagner verwendet: Pinot Noir, Meunier und Chardonnay.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1653915149222fcad5-0",
+        "1653915149222fcad5-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1653915215fa4b0ef0": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1653915215482c2268-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Der Ursprung",
+            "title": "Woher kommt Moët & Chandon?",
+            "text": "<p>Moët & Chandon hat seinen Sitz in Épernay, einer Stadt im Gebiet der Champagne in Frankreich. Dort hat das Weingut seit seiner Gründung im Jahre 1743 seinen Sitz.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "e63edea9-e696-4da1-96bb-89d2322e7781": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Marke",
+            "title": "Wem gehört Moët & Chandon?",
+            "text": "<p>Moët & Chandon gehört zum Luxusgüterkonzern LVMH (<strong>Moët Hennessy – Louis Vuitton)<\/strong><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1653915215482c2268-1",
+        "e63edea9-e696-4da1-96bb-89d2322e7781"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1653915570bd4db14f": {
+      "type": "section-custom-content",
+      "blocks": {
+        "165391557023403734-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Aussprache",
+            "title": "Wie spricht man Moët & Chandon aus?",
+            "text": "<p>Um Moët & Chandon [<a href=\"https:\/\/de.wikipedia.org\/wiki\/Liste_der_IPA-Zeichen\" title=\"Liste der IPA-Zeichen\">moˌɛt‿e ʃɑ̃ˈdɔ̃<\/a>] richtig auszusprechen sollte das \"T\" von Moët deutlich ausgeprochen werden und bei Chandon ein kurzes wegfallendes \"N\" am Ende benutzt werden: <em><strong>\" MO-ÈTT e Schandon\"<\/strong><\/em><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "165391557023403734-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mo_t_e_d_1.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "165391557023403734-1",
+        "165391557023403734-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16539181949461960c": {
+      "type": "section-custom-content",
+      "blocks": {
+        "165391819416d25bb0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1316737143.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 45,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "165391819416d25bb0-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Das Alterungspotenzial",
+            "title": "Wie lange ist ein Champagner von Moët & Chandon haltbar?",
+            "text": "<p>Generell gibt es bei Champagner kein Haltbarkeitsdatum. Ein Cuvée von Moët & Chandon behält bei sachgerechter Lagerung sein volles Potential innerhalb von 2-3 Jahren. Danach könnte sich der Geschmack verändern. Bei Jahrgangschampagner von Moët & Chandon ist das Alterungspotential meistens noch länger.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "165391819416d25bb0-0",
+        "165391819416d25bb0-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "165158777492f6ed36": {
+      "type": "text-promo",
+      "blocks": {
+        "16515877746f215ead-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Führungen"
+          }
+        },
+        "16515877746f215ead-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Champagnerhaus MOËT & CHANDON"
+          }
+        },
+        "16515877746f215ead-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Führungen",
+            "button_url": "https:\/\/www.moet.com\/de-de\/visit-us",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "16515877746f215ead-0",
+        "16515877746f215ead-1",
+        "16515877746f215ead-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "subcollections",
+    "main",
+    "16451071375f6b73d1",
+    "1646310887b390388b",
+    "hero",
+    "16457877017e129ddc",
+    "16539151509a0ac392",
+    "1653915215fa4b0ef0",
+    "1653915570bd4db14f",
+    "16539181949461960c",
+    "165158777492f6ed36"
+  ]
+}

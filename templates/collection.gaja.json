@@ -1,0 +1,203 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Belvedere_4.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Angelo Gaja",
+            "text": "<p>Bekannt für seine eleganten, opulenten und herkunftsgetreuen Weine. Angelo Gaja ist Pionier in der Herstellung von Weinen aus Einzellagen in Piemont.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "f1c6a5f3-7664-42f5-a81a-f91db28630f0": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--16101712429322__f1c6a5f3-7664-42f5-a81a-f91db28630f0-16681766930339347a-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Gaja_Logo_Kopie.png",
+            "logo_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--16101712429322__f1c6a5f3-7664-42f5-a81a-f91db28630f0-16681766930339347a-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "d769582e-b295-4eaa-bf0a-64c4d6c5546a": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101712429322__d769582e-b295-4eaa-bf0a-64c4d6c5546a-1668176804a9d85d9d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Angelo_Gaja_5e526750-d3bb-4360-80db-ab0273b01d6d.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101712429322__d769582e-b295-4eaa-bf0a-64c4d6c5546a-1668176804a9d85d9d-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "Angelo Gaja",
+            "text": "<p>Die Geschichte von Gaja begann im Jahr 1859, als Giovanni Gaja das Weingut mit nur zwei Hektar Weinbergen in Barbaresco gründete. Ende des 19. Jahrhunderts wurden Gaja-Weine an die italienische Armee in Abessinien geliefert. Seitdem hat jede Generation zur Expansion des Weinguts beigetragen, aber erst 1937 brachte der Enkel des Gründers, der ebenfalls Giovanni hieß, den Namen Gaja in roten Buchstaben auf die Etiketten seiner Flaschen. 1961 war ein weiteres bemerkenswertes Jahr, in dem Angelo Gaja im Alter von nur 21 Jahren seine Karriere im Unternehmen begann. Angelo übernahm 1970 das Familienunternehmen und führte viele der Veränderungen ein, die Gaja zu Weltruhm verhalfen.<br\/><br\/>Angelo Gaja brach mit den Konventionen und innovierte den piemontesischen Weinbau, indem er eine dichtere Bepflanzung, die grüne Ernte, geringere Erträge, die Verwendung von Barriques (225-Liter-Fässer aus französischer Eiche) und längere Korken einführte. Seine Bestrebungen wurden oft nur als kontrovers angesehen. Er begann nicht nur mit der Veröffentlichung von Barbarescos aus Einzellagen und trug damit zur „Kreuzung des Piemont“ bei, sondern pflanzte auch Cabernet Sauvignon, Sauvignon Blanc und Chardonnay auf den besten Barbaresco-Lagen. Sein Vater Giovanni war gegen einige seiner Entscheidungen, insbesondere gegen die Anpflanzung französischer Rebsorten. Der Name von Gajas Cabernet-Sauvignon-Rotwein Darmagi, der erstmals 1985 auf den Markt kam, bedeutet im piemontesischen Dialekt „wie schade“ und soll Giovannis Reaktion auf die Ankunft der Bordeaux-Sorten in Barbaresco sein.<br\/><br\/><\/p><p>Angelo Gaja hat seine Weinherstellung als „handwerklich“ bezeichnet. Dennoch liegt die Gesamtproduktion von Gaja bei fast einer Million Flaschen. Auch die Preisgestaltung der Marke ist ehrgeizig, was sich auf ihre Marktleistung auswirkt. In der Vergangenheit hat die aggressive Preisgestaltung von Gaja, nachdem sie an Popularität gewonnen hatte, die Käufer in Regionen wie Bordeaux zurückgedrängt. Aber das Bild ändert sich jetzt. Mit der Diversifizierung und Ausweitung des Marktes und dem wachsenden Interesse an italienischen Weinen erlebt Gaja ein Comeback und scheint sich zu behaupten.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101712429322__d769582e-b295-4eaa-bf0a-64c4d6c5546a-1668176804a9d85d9d-0",
+        "template--16101712429322__d769582e-b295-4eaa-bf0a-64c4d6c5546a-1668176804a9d85d9d-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "b83a2f5a-dbd3-4d24-aa78-6a8f06fa5c59": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "template--16101712429322__b83a2f5a-dbd3-4d24-aa78-6a8f06fa5c59-1668176804a9d85d9d-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "",
+            "text": "<p>Angelo Gaja hat seine Weinherstellung als „handwerklich“ bezeichnet. Dennoch liegt die Gesamtproduktion von Gaja bei fast einer Million Flaschen. Auch die Preisgestaltung der Marke ist ehrgeizig, was sich auf ihre Marktleistung auswirkt. In der Vergangenheit hat die aggressive Preisgestaltung von Gaja, nachdem sie an Popularität gewonnen hatte, die Käufer in Regionen wie Bordeaux zurückgedrängt. Aber das Bild ändert sich jetzt. Mit der Diversifizierung und Ausweitung des Marktes und dem wachsenden Interesse an italienischen Weinen erlebt Gaja ein Comeback und scheint sich zu behaupten.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101712429322__b83a2f5a-dbd3-4d24-aa78-6a8f06fa5c59-1668176804a9d85d9d-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "f1c6a5f3-7664-42f5-a81a-f91db28630f0",
+    "hero",
+    "d769582e-b295-4eaa-bf0a-64c4d6c5546a",
+    "b83a2f5a-dbd3-4d24-aa78-6a8f06fa5c59"
+  ]
+}

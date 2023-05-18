@@ -1,0 +1,273 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Brad-Pitt-und-Marc-Perrin.jpg",
+            "bg_position": "center-top",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Miraval",
+            "text": "<p>Das Savoir-faire der Familie Perrin vereint sich mit der künstlerischen Sensibilität von Brad Pitt und Angelina Jolie. Gemeinsam erweckten diese beiden gewaltigen Kräfte die Marke Miraval.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "133e519b-7d70-4123-8b73-96ec4e282ef1": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--16101713412362__133e519b-7d70-4123-8b73-96ec4e282ef1-166748812161a5f403-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Miraval.webp",
+            "logo_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713412362__133e519b-7d70-4123-8b73-96ec4e282ef1-166748812161a5f403-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "a6a8090f-2553-4f84-914c-0963ade8664a": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101713412362__a6a8090f-2553-4f84-914c-0963ade8664a-166757444742b63f61-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Miraval.png",
+            "bg_position": "right-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101713412362__a6a8090f-2553-4f84-914c-0963ade8664a-166757444742b63f61-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "Miraval",
+            "text": "<p>Das Landgut <a href=\"https:\/\/www.miraval.com\/en\/a-land\/\" title=\"Miraval \">Miraval<\/a> befindet sich an einem antiken Ort in der Provence, in der Nähe der Via Aurelia, die im 3. Jahrhundert v. Chr. für die Ausbreitung des Römischen Reiches von entscheidender Bedeutung war. Seitdem hat dieses Land eine jahrhundertelange Geschichte erlebt und diente als Zentrum für klösterliche Praktiken, als Residenz für Mitglieder des französischen Königshofs und als eines der im 14. Jahrhundert eingetragenen Adelshäuser. Im Jahr 1970 erwarb der französische Jazzpianist Jacques Loussier das Anwesen und errichtete darauf 1977 ein Aufnahmestudio, das noch heute existiert. Nur zwei Jahre nach dessen Bau wählten Pink Floyd das Miraval-Studio für die Aufnahmen ihrer legendären Rockoper „The Wall“. Seitdem haben viele einflussreiche Musiker hier ihre Werke aufgenommen, darunter AC\/DC, The Cure, Sade, Wham!, Elton John, Muse, Sting, Sade und The Cranberries.<br\/><br\/>Bis in die 1990er Jahre produzierte Miraval einfache Vin de Pays-Weine. Als der Amerikaner Tom Bove das Weingut 1993 erwarb, wurden die Weinbautechnik und die Ausrüstung der Kellerei modernisiert, was zu einer höheren Qualität der Weine führte. Bove stattete das Weingut auch mit zwei Fitnessstudios, einem Hallenbad, einem Jacuzzi und einem Spa aus.<br\/><br\/>Im Jahr 2009 machte das provenzalische Weingut Schlagzeilen, als es von dem Promi-Paar Brad Pitt und Angelina Jolie gekauft wurde. Die Kapelle des Anwesens diente ihnen 2014 als Kulisse für ihre Hochzeit. Jolie und Pitt taten sich mit Marc Perrin von der einflussreichen Winzerfamilie Perrin aus dem Rhonetal zusammen, die vor allem für ihr Château de Beaucastel in Chateauneuf-du-Pape bekannt ist. Die Familie Perrin ist gemeinsam mit dem Paar Eigentümer von Miraval, das sie trotz ihrer Trennung im Jahr 2016 behalten haben. Die Partnerschaft zwischen Jolie-Pitt und Perrin hat zu großen Investitionen in die Weinberge und die Kellerei geführt, wobei letztere mit Betontanks ausgestattet wurde, um zur traditionellen Roséproduktion in der Provence zurückzukehren. Außerdem hat das Team am höchsten Punkt des Weinguts eine neue Presse installiert, die den Saft sanft aus den Trauben in die Gärtanks presst, ohne dass Pumpen eingesetzt werden müssen.<br\/><br\/>Seit seiner ersten Veröffentlichung im Jahr 2013 hat der neue und verbesserte Miraval-Rosé einen Erfolg erlebt, der in der Welt des Provence-Rosé seinesgleichen sucht. Im selben Jahr wählte der Wine Spectator den Miraval Côtes de Provence Rosé in die Liste der 100 besten Weine der Welt und machte ihn damit zum einzigen Rosé, der diese Auszeichnung erhielt. Mit jedem neuen Jahrgang hat Miraval seinen Platz als einer der besten Roséproduzenten der Welt bestätigt. Heute stellt das Weingut auch einen preisgünstigeren Rosé mit dem Namen \"Studio by Miraval\" her, dessen Name an die musikalische Vergangenheit und Gegenwart des Weinguts erinnert. Mit dem Jahrgang 2018 wurde die Prestige-Cuvée von Miraval geboren. Der treffende Name \"Muse de Miraval\" ist heute der teuerste Rosé der Welt. Im Jahr 2020 gingen Brad Pitt und die Familie Perrin mit ihrer Kollektion noch einen Schritt weiter und schlossen sich mit der Familie Peters in der Champagne zusammen, um einen Prestige-Rosé-Champagner namens Fleur de Miraval zu produzieren. Die erste Ausgabe, ER1, wurde im Sommer 2020 veröffentlicht.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713412362__a6a8090f-2553-4f84-914c-0963ade8664a-166757444742b63f61-0",
+        "template--16101713412362__a6a8090f-2553-4f84-914c-0963ade8664a-166757444742b63f61-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "dc0bd259-0d39-4bae-a7b3-f206baf0e88d": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101713412362__dc0bd259-0d39-4bae-a7b3-f206baf0e88d-166748845492a30144-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Weinbau",
+            "text": "<p>Nach einer Handlese am Morgen, um die Frische der Früchte zu erhalten, werden die Trauben zweimal sortiert und dann abgebeert. Für den Cotes-de-Provence-Rosé werden die Cinsault-, Grenache- und Rolle-Trauben direkt gepresst, während der Syrah nach der Saignee-Methode (oder „Ausbluten“) vinifiziert wird. Die Weinbereitung erfolgt in temperaturkontrollierten Edelstahlbehältern (95 %), ein kleiner Teil (5 %) wird in Eichenfässern mit Batonnage (Aufrühren der Hefe) vinifiziert.<br\/><br\/>Beim Studio de Miraval Rosé, der unter der Appellation IGP Mediterranee hergestellt wird, wird ein Teil der Grenache- und Tibouren-Trauben in tulpenförmigen Betonbehältern vinifiziert, deren Form eine natürliche Konvektionsbewegung bewirkt, die die Batonnage ersetzt. Die Cuvée Muse de Miraval wird ebenfalls in den eiförmigen Betonbehältern sowie in Demi-Muids vinifiziert. Insgesamt führen sowohl die natürliche Konvektion als auch die Batonnage zu der charakteristischen Struktur der Miraval-Roséweine.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101713412362__dc0bd259-0d39-4bae-a7b3-f206baf0e88d-166748845492a30144-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Miraval_3c6417a4-37d4-40a2-9af8-135e85db1ce1.png",
+            "bg_position": "center-top",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713412362__dc0bd259-0d39-4bae-a7b3-f206baf0e88d-166748845492a30144-1",
+        "template--16101713412362__dc0bd259-0d39-4bae-a7b3-f206baf0e88d-166748845492a30144-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "f1ba7515-528f-4037-8d52-a8aa7e2735ed": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "template--16101713412362__f1ba7515-528f-4037-8d52-a8aa7e2735ed-166757444742b63f61-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Miraval.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101713412362__f1ba7515-528f-4037-8d52-a8aa7e2735ed-166757444742b63f61-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Der charakteristische Stil von",
+            "title": "Miraval Rosé",
+            "text": "<p>Die Roséweine von Château Miraval sind ein brillanter, meisterhaft ausgeführter Ausdruck des Provence-Roséstils. Im Glas präsentieren sich diese Weine in einer schönen, blassrosa Blütenfarbe. Die Nase verströmt die für das Weingut typische Eleganz mit einem Bouquet aus frischen Früchten (Johannisbeeren), frischen Rosen und Zitronenschale. Muse und Studio verströmen in der Nase auch zarte Anklänge an weiße Blumen, wie Lindenblüten. Am Gaumen ist er ebenso raffiniert und bietet eine schöne Lebendigkeit und Noten von roten Früchten, die durch mineralische Noten und einen Hauch von Salz ausgeglichen werden. Für einen Roséwein bleibt dieser Wein erstaunlich lange am Gaumen und hinterlässt im Abgang saftige Zitronenaromen.<br\/><br\/>Der Miraval ist einer der seltenen Roséweine, die das ganze Jahr über überzeugen, auch wenn er vielleicht an einem warmen Sommerabend am verführerischsten ist. Wir empfehlen, ihn gekühlt bei einer Temperatur zwischen 50 und 60 Grad Celsius zu servieren. Mit seinem eleganten Körper, der hellen Säure und den Aromen frischer Früchte passt dieser Roséwein zu einer Vielzahl von Gerichten wie gegrilltem Fisch oder Würstchen, gebratenem Huhn mit Zitrone und Kräutern, Brathähnchen oder Käse. Aber dieser Rosé hat auch das Zeug dazu, sich als Aperitif oder für eine Lounge-Session am Pool zu empfehlen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713412362__f1ba7515-528f-4037-8d52-a8aa7e2735ed-166757444742b63f61-0",
+        "template--16101713412362__f1ba7515-528f-4037-8d52-a8aa7e2735ed-166757444742b63f61-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "133e519b-7d70-4123-8b73-96ec4e282ef1",
+    "hero",
+    "a6a8090f-2553-4f84-914c-0963ade8664a",
+    "dc0bd259-0d39-4bae-a7b3-f206baf0e88d",
+    "f1ba7515-528f-4037-8d52-a8aa7e2735ed"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-1335023477.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Entdecken Sie",
+            "title": "Perrier-Jouët",
+            "text": "<p>Die faszinierende Geschichte des Champagner Hauses Perrier-Jouët die Kunst & Natur im Zusammenspiel sind.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "collection"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "164873299965cbbb06": {
+      "type": "section-logo-list",
+      "blocks": {
+        "164873299931b14b49-2": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/perrier_jouet_b9e9aeae-43b3-4353-8f10-b9f7236a7bb6.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "164873299931b14b49-2"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 100,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": false,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--middle-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1648733294a60310f8": {
+      "type": "page-faq",
+      "blocks": {
+        "1648733293b2434ea0-1": {
+          "type": "question",
+          "settings": {
+            "title": "Über Perrier-Jouët",
+            "content": "<p>Entdecken Sie die fazsinierende Geschichte von Perrier-Jouët, gegründet durch das Ehepaar Pierre-Nicolas Perrier und Rose-Adélaïde Jouët, die beide die Leidenschaft zu Natur & Kunst teilten. Diese Leidenschaft spiegelt sich noch heute in den Champagner von Perrier-Jouët wieder.<br\/><\/p><p>Die Gründer von Maison Perrier-Jouët entschieden sich für die Côte des Blancs, im Herzen des \"Goldenen Dreiecks\" der Champagne, als ideales Anbaugebiet für Chardonnay und zur Pflege der Beziehungen zu den Erzeugern der besten Crus. Heute ist dies eines der am meisten bewunderten Weinanbaugebiete der Champagne, das auf der Qualitätsskala der Echelle des Crus mit 99,2 % bewertet wird.<br\/><\/p><p>In über 200 Jahren hatte Perrier Jouët nur 8 Kellermeister, die alle  von ihren Vorgängern wie Handwerker ausgebildet wurden, was einen außergewöhnlichen Vorteil für die Bewahrung des Stils darstellt.<\/p>"
+          }
+        },
+        "1648733293b2434ea0-2": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "1648733293b2434ea0-3": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1648733293b2434ea0-1",
+        "1648733293b2434ea0-2",
+        "1648733293b2434ea0-3"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--small",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "subcollections",
+    "main",
+    "164873299965cbbb06",
+    "hero",
+    "1648733294a60310f8"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "sections": {
+    "1647419705929708e0": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1647419705e1bb4403-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-renan-bomtempo-772481.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1647419705e1bb4403-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1647420680a87c51c4": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "Unsere Maßnahmen für mehr",
+        "title": "Nachhaltigkeit",
+        "text": "<p>Wir sind stets bemüht als Versandunternehmen unseren CO2 Fußabdruck zu minimieren.<\/p><p>Dazu haben wir folgende Maßnahmen getroffen:<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "164741999817eee565": {
+      "type": "section-columns",
+      "blocks": {
+        "1647419998fa38ecc2-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-aleksandar-pasaric-1555199.jpg",
+            "bg_position": "center-center",
+            "title": "Recycelbaren Materialen",
+            "text": "<p>Wir versenden Ihre Bestellungen nur in Verpackungen die aus recycelbaren Material bestehen.<\/p>",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "1647419998fa38ecc2-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DHL_GoGreen_Anzeige_EINFACHBESTELLEN_1251x1043px.png",
+            "bg_position": "center-center",
+            "title": "Klimaneutraler Versand",
+            "text": "<p>Wir nehmen am GoGreen Projekt der DHL Teil und gleichen damit die beim Transport entstandenen CO2-Emissionen durch Investition in zertifizierte Klimaschutzprojekte aus.<\/p>",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "1647419998fa38ecc2-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-magda-ehlers-2547565.jpg",
+            "bg_position": "center-center",
+            "title": "KEIN Füllmaterial aus Plastik",
+            "text": "<p>Wir verzichten beim Versand Ihrer Bestellungen auf Füllmaterial aus Plastik.<\/p>",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "1647419998fa38ecc2-0",
+        "1647419998fa38ecc2-2",
+        "1647419998fa38ecc2-1"
+      ],
+      "settings": {
+        "title": "",
+        "bg_color": "#ffffff",
+        "align_text": "text-left",
+        "width": "wrapper--full",
+        "equalize_height": true,
+        "photo_aspect_ratio": 0.8,
+        "enable_image": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1649252523318b496f": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16492525231c2ac4fe-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "<p>Wir arbeiten konform mit dem Verpackungsgesetz und nehmen am dualen System teil.<\/p>",
+            "logo": "shopify:\/\/shop_images\/Onlinesiegel.png",
+            "logo_width": 140
+          }
+        },
+        "16492525231c2ac4fe-1": {
+          "type": "logo-item",
+          "disabled": true,
+          "settings": {
+            "description": "<p>Include a brief quote from a brand that loves your products<\/p>",
+            "logo_width": 100
+          }
+        },
+        "16492525231c2ac4fe-2": {
+          "type": "logo-item",
+          "disabled": true,
+          "settings": {
+            "description": "<p>Include a brief quote from a brand that loves your products<\/p>",
+            "logo_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "16492525231c2ac4fe-0",
+        "16492525231c2ac4fe-1",
+        "16492525231c2ac4fe-2"
+      ],
+      "settings": {
+        "title": "Verpackungsrecycling",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    }
+  },
+  "order": [
+    "1647419705929708e0",
+    "1647420680a87c51c4",
+    "164741999817eee565",
+    "main",
+    "1649252523318b496f"
+  ]
+}

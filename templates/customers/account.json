@@ -1,0 +1,37 @@
+{
+  "sections": {
+    "main": {
+      "type": "customer-account",
+      "blocks": {
+        "75dc964d-bf5a-4341-896f-5c12db8668ac": {
+          "type": "link",
+          "disabled": true,
+          "settings": {
+            "title": "Premio",
+            "link": "#smile-home"
+          }
+        },
+        "email": {
+          "type": "email",
+          "settings": {
+            "title": "Kundenservice",
+            "link": "https:\/\/venditevendite-shop.de\/pages\/kontakt"
+          }
+        },
+        "account": {
+          "type": "account",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "75dc964d-bf5a-4341-896f-5c12db8668ac",
+        "email",
+        "account"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

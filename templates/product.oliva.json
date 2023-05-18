@@ -1,0 +1,291 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "price_and_title": {
+          "type": "price_and_title",
+          "settings": {
+            "subheading_option": "collection",
+            "enable_reviews": true
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": false,
+            "subscriptions_enable_selectors": true
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {}
+        },
+        "tabs": {
+          "type": "tab_richtext",
+          "settings": {
+            "style": "inline",
+            "title_1": "Blend",
+            "raw_content_1": "<p>{{ product.metafields.my_fields.blend | metafield_tag }}<\/p>",
+            "title_2": "Botanicals",
+            "raw_content_2": "<p>{{ product.metafields.my_fields.botanicals | metafield_tag }}<\/p>",
+            "title_3": "Produktinformationen",
+            "raw_content_3": "<p>{{ product.metafields.my_fields.produktinformationen | metafield_tag }}<\/p>",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": ""
+          }
+        },
+        "d3a6ee6a-6d25-4888-b3c5-1b8304472e2f": {
+          "type": "upsell",
+          "settings": {}
+        },
+        "c235118c-9531-45b4-a9b4-89028847f220": {
+          "type": "sharing",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price_and_title",
+        "form",
+        "pickup",
+        "tabs",
+        "d3a6ee6a-6d25-4888-b3c5-1b8304472e2f",
+        "c235118c-9531-45b4-a9b4-89028847f220"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "thumbnails",
+        "image_size": "small",
+        "show_cart_bar": true,
+        "enable_zoom": false,
+        "enable_video_looping": false
+      }
+    },
+    "166180015792f8593f": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16618001573e6277ec-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Oliva-Logo.jpg",
+            "logo_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "16618001573e6277ec-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "42ee5e9f-0b2c-407d-98db-78b1f52c3bad": {
+      "type": "product-information",
+      "blocks": {
+        "c548c4e1-b780-493e-9fcb-c3ca784e4eef": {
+          "type": "dimension",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/arrow-right-contained-02.png",
+            "title": "Durchmesser:",
+            "text": "{{ product.metafields.information.ring_gauge.value }}"
+          }
+        },
+        "bd66e34f-a6f6-44a0-ae40-2ebba0d0adf3": {
+          "type": "dimension",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/arrow-expand-04.png",
+            "title": "Länge:",
+            "text": "{{ product.metafields.information.length.value }}"
+          }
+        },
+        "4a23f2ad-3c05-4af4-97d7-9f7abc52b72c": {
+          "type": "dimension",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/arrow-circle-up-right.png",
+            "title": "Ringmaß:",
+            "text": "{{ product.metafields.information.diameter.value }}"
+          }
+        },
+        "183ddac1-8a5e-4b11-b447-28564864d1c6": {
+          "type": "attribute",
+          "settings": {
+            "text": "{{ product.metafields.information.attributes_1 | metafield_tag }}"
+          }
+        },
+        "17e51e89-45b7-4874-9316-d6867e9aae30": {
+          "type": "attribute",
+          "settings": {
+            "text": "{{ product.metafields.information.attributes_2 | metafield_tag }}"
+          }
+        },
+        "73d8cb78-0e17-49fc-94a5-a021858dcd7d": {
+          "type": "attribute",
+          "settings": {
+            "text": "{{ product.metafields.information.attributes_3 | metafield_tag }}"
+          }
+        }
+      },
+      "block_order": [
+        "c548c4e1-b780-493e-9fcb-c3ca784e4eef",
+        "bd66e34f-a6f6-44a0-ae40-2ebba0d0adf3",
+        "4a23f2ad-3c05-4af4-97d7-9f7abc52b72c",
+        "183ddac1-8a5e-4b11-b447-28564864d1c6",
+        "17e51e89-45b7-4874-9316-d6867e9aae30",
+        "73d8cb78-0e17-49fc-94a5-a021858dcd7d"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Group_91.png",
+        "text_color": "#ffffff",
+        "background_color": "#ab8a54"
+      }
+    },
+    "1661800315deb1fcd0": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "{{ product.title }}",
+        "title": "Eigenschaften",
+        "text": "<p>{{ product.metafields.my_fields.produktinformationen | metafield_tag }}<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "166179987284716182": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1661799872e3c98189-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Oliva_Serie_V-Cigar-Ashtry.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 30,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1661799872e3c98189-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "subheading": "{{ product.title }}",
+            "title": "Eigenschaften",
+            "text": "<p>{{ product.metafields.my_fields.produktinformationen | metafield_tag }}<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1661799872e3c98189-0",
+        "1661799872e3c98189-1"
+      ],
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "padding": true,
+        "borders": false,
+        "wrapper": true
+      }
+    },
+    "shipping": {
+      "type": "section-accordion",
+      "blocks": {
+        "shipping-0": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shipment",
+            "icon_color": "#ab8c52",
+            "title": "Schneller Versand",
+            "text": "<p>Alle Bestellungen vor 14 Uhr werden noch am selben Tag versandt. In der Regel sind alle Bestellungen inerhalb von 1-3 Tagen bei Ihnen.<\/p>"
+          }
+        },
+        "shipping-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-lock-card",
+            "icon_color": "#ab8c52",
+            "title": "Sichere Bezahlung",
+            "text": "<p>Durch 256-Bit Verschlüsselung und 3D Secure Checkouts.<br\/><br\/><\/p>"
+          }
+        },
+        "shipping-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_color": "#ab8c52",
+            "title": "Du hast Fragen?",
+            "text": "<p>Solltest du Fragen haben, so zöger nicht mit uns in Kontakt zu treten. Wir helfen dir gerne!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "shipping-0",
+        "shipping-1",
+        "shipping-2"
+      ],
+      "settings": {
+        "title": "Versand & Zahlung"
+      }
+    },
+    "reviews": {
+      "type": "reviews",
+      "disabled": true,
+      "settings": {
+        "enable_accordion": true
+      }
+    },
+    "related": {
+      "type": "related",
+      "settings": {
+        "related_products_enable": true,
+        "limit": 4,
+        "product_recommendations_heading": "Ähnliche Produkte",
+        "show_recently_viewed": false,
+        "product_recently_limit": 4,
+        "product_recently_heading": "Zuletzt angesehen"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166180015792f8593f",
+    "42ee5e9f-0b2c-407d-98db-78b1f52c3bad",
+    "1661800315deb1fcd0",
+    "166179987284716182",
+    "shipping",
+    "reviews",
+    "related"
+  ]
+}

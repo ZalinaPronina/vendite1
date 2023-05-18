@@ -1,0 +1,321 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "price_and_title": {
+          "type": "price_and_title",
+          "settings": {
+            "subheading_option": "collection",
+            "enable_reviews": true
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "subscriptions_enable_selectors": true
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {}
+        },
+        "tabs": {
+          "type": "tab_richtext",
+          "settings": {
+            "style": "accordions",
+            "title_1": "Blend",
+            "raw_content_1": "<p>{{ product.metafields.my_fields.blend | metafield_tag }}<\/p>",
+            "title_2": "Botanicals",
+            "raw_content_2": "<p>{{ product.metafields.my_fields.botanicals | metafield_tag }}<\/p>",
+            "title_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": ""
+          }
+        },
+        "c235118c-9531-45b4-a9b4-89028847f220": {
+          "type": "sharing",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price_and_title",
+        "form",
+        "pickup",
+        "tabs",
+        "c235118c-9531-45b4-a9b4-89028847f220"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "thumbnails",
+        "image_size": "small",
+        "show_cart_bar": true,
+        "enable_zoom": false,
+        "enable_video_looping": false
+      }
+    },
+    "3d30c7d2-bc3b-422e-a5b4-7a6db25bf5aa": {
+      "type": "section-product-features",
+      "settings": {
+        "top_spacing": true,
+        "bottom_spacing": true,
+        "background_color": "#fafafa"
+      }
+    },
+    "a3ed0fb1-cdb2-45f7-be6e-a9f90927f8ab": {
+      "type": "section-accordion",
+      "blocks": {
+        "template--16101716558090__a3ed0fb1-cdb2-45f7-be6e-a9f90927f8ab-1681304602e5c21bfb-0": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>{{ product.metafields.my_fields.produktinformationen | metafield_tag }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101716558090__a3ed0fb1-cdb2-45f7-be6e-a9f90927f8ab-1681304602e5c21bfb-0"
+      ],
+      "settings": {
+        "title": "Produktinformationen"
+      }
+    },
+    "1645186002d2d27b70": {
+      "type": "section-logo-list",
+      "blocks": {
+        "164518600297fd1825-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/csm_champagne-laurent-perrier-logo_ac9769d427.jpg",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "164518600297fd1825-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "1645112639386a2024": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16451126393ea89b0f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design_ohne_Titel_19.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16451126393ea89b0f-0"
+      ],
+      "settings": {
+        "height": "four-fifty-height-hero",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16461518488c05ac45": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16461518483ed1d765-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Laurent-Perrier",
+            "title": "Epikureische Lebenskunst",
+            "text": "<p>Als Kellermeister Eugène Laurent 1881 das Champagnerhaus Alphonse Pierlot erbte, legte er die Grundsteine für die Herstellung großartiger Champagner, nämlich die Häuser und Grundstücke, um ein vollwertiges Weingut zu schaffen. Er kaufte Rebstöcke in den besten Lagen von Bouzy, Tours-sur-Marne und Ambonnay, grub 800 Meter Keller aus und richtete ein Verkostungslabor ein. So entstand die Domaine Laurent-Perrier (das Weingut) in Tours-sur-Marne. Dieses malerische Dorf liegt ideal an der Kreuzung der drei wichtigsten Weinbaugebiete des Departements Marne: die Montagne de Reims, das Vallée de la Marne und die Côte des Blancs. Außerdem gehört es zu den 17 Champagnerdörfern, die zum prestigeträchtigen \"Grand Cru\"-Gebiet gehören.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16461518483ed1d765-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1648641192ae937b72": {
+      "type": "text-promo",
+      "blocks": {
+        "164864119299b42128-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Cocktail Empfehlung"
+          }
+        }
+      },
+      "block_order": [
+        "164864119299b42128-0"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#ffffff",
+        "text_color": "text-dark",
+        "width": "",
+        "bg_position": "center-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "16486411723150daed": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1648641172a8c880d0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Header_6.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1648641172a8c880d0-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Old Cuban",
+            "text": "<p>• 4,5 cl Bacardi 8 Anejo<br\/><br\/>• 2 cl Limettensaft<br\/><br\/>• 3 cl Zuckersirup<br\/><br\/>• 2 dashes Angostura<br\/><br\/>• 6 Minzblätter<br\/><br\/>• 6 cl Champagner<\/p><p>---<br\/>Limettensaft, Sirup und Minze im Mixer andrücken. Bitters, Rum & Eis hinzugeben und schütteln. In Glas abseihen und mit Champagner toppen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1648641172a8c880d0-0",
+        "1648641172a8c880d0-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "shipping": {
+      "type": "section-accordion",
+      "blocks": {
+        "shipping-0": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shipment",
+            "icon_color": "#ab8c52",
+            "title": "Schneller Versand",
+            "text": "<p>Alle Bestellungen vor 14 Uhr werden noch am selben Tag versandt. In der Regel sind alle Bestellungen inerhalb von 1-3 Tagen bei Ihnen.<\/p>"
+          }
+        },
+        "shipping-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-lock-card",
+            "icon_color": "#ab8c52",
+            "title": "Sichere Bezahlung",
+            "text": "<p>Durch 256-Bit Verschlüsselung und 3D Secure Checkouts.<br\/><br\/><\/p>"
+          }
+        },
+        "shipping-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_color": "#ab8c52",
+            "title": "Du hast Fragen?",
+            "text": "<p>Solltest du Fragen haben, so zöger nicht mit uns in Kontakt zu treten. Wir helfen dir gerne!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "shipping-0",
+        "shipping-1",
+        "shipping-2"
+      ],
+      "settings": {
+        "title": "Versand & Zahlung"
+      }
+    },
+    "reviews": {
+      "type": "reviews",
+      "disabled": true,
+      "settings": {
+        "enable_accordion": true
+      }
+    },
+    "related": {
+      "type": "related",
+      "settings": {
+        "related_products_enable": true,
+        "limit": 4,
+        "product_recommendations_heading": "Ähnliche Produkte",
+        "show_recently_viewed": false,
+        "product_recently_limit": 4,
+        "product_recently_heading": "Zuletzt angesehen"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3d30c7d2-bc3b-422e-a5b4-7a6db25bf5aa",
+    "a3ed0fb1-cdb2-45f7-be6e-a9f90927f8ab",
+    "1645186002d2d27b70",
+    "1645112639386a2024",
+    "16461518488c05ac45",
+    "1648641192ae937b72",
+    "16486411723150daed",
+    "shipping",
+    "reviews",
+    "related"
+  ]
+}

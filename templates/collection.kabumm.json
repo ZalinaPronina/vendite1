@@ -1,0 +1,45 @@
+{
+  "sections": {
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": false,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "1",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "subcollections",
+    "main"
+  ]
+}

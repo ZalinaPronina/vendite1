@@ -1,0 +1,221 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/myfathercigars_field.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "My Father Cigars",
+            "text": "<p>My Father Cigars begann mit sehr bescheidenen Anfängen, als Jose Pepin Garcia und seine Familie im Jahr 2003 eine kleine Zigarrenfabrik in Little Havana gründeten. Jose Pepin Garcia konnte zu diesem Zeitpunkt nicht ahnen, dass seine Liebe und Leidenschaft für Zigarren ihm helfen würde, eines der bekanntesten Unternehmen der Zigarrenindustrie aufzubauen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/My_Father_Cigars.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "b10b8928-4845-4f83-967e-cfb7b799874b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16164749312266__b10b8928-4845-4f83-967e-cfb7b799874b-16698229416ae15830-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/My_Father_Cigars_769ab7ec-4f54-4ec6-8c4c-7355c64a88f1.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16164749312266__b10b8928-4845-4f83-967e-cfb7b799874b-16698229416ae15830-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "My Father Cigars",
+            "text": "<p>Alles beginnt im Jahr 1950, als Jose Pepin Garcia in Kuba geboren wird. Nur wenige Jahre später, im Alter von kaum 11 Jahren, sitzt er zum ersten Mal an einem Rolltisch und rollt seine erste Zigarre. Inspiriert vom Geist und der Tradition einer Familie, die mit Tabakblättern aufgewachsen ist, wurde Jose Pepin Garcia geboren und entwickelte sich weiter.<br\/><br\/>„Es geht um eine lebenslange Leidenschaft! Es geht nicht nur um eine Zigarre, es ist ein Traum - der Traum der Garcias!“ sagt Jose Pepin Garcia.<br\/><br\/>Am 29. August 2009 war einer der denkwürdigsten Momente im Leben der Garcias; die Eröffnung von <a href=\"http:\/\/myfathercigars.com\/\" title=\"My Father Cigars \">My Father Cigars<\/a> in Nicaragua, auch bekannt als der Garcia Family Industrial Park. Ein sieben Hektar großer Komplex mit einem installierten Produktionsprozess, der es ermöglicht, den Tabak zu ernten, zu verpacken und direkt an die Einzelhändler zu verschicken.<br\/><br\/>Don Pepin Garcia, der 2008 von Cigar Aficionado als „America's Hottest Cigar Maker“ ausgezeichnet wurde und sein Sohn Jaime Garcia haben unzählige Mischungen für My Father Cigars und für einige der renommiertesten Unternehmen auf dem Markt entwickelt. Janny Garcia, die Tochter von Pepin, leitet die Zentrale von My Father Cigars. Mit einer großen Teamführung kommt eine große Teamleistung, die größte internationale Anerkennung wurde von der Zigarrenindustrie gewährt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16164749312266__b10b8928-4845-4f83-967e-cfb7b799874b-16698229416ae15830-0",
+        "template--16164749312266__b10b8928-4845-4f83-967e-cfb7b799874b-16698229416ae15830-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "896c281e-4c8d-4148-85f7-84f104882e32": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16164749312266__896c281e-4c8d-4148-85f7-84f104882e32-16698229416ae15830-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die beste Zigarre des Jahres 2012 wurde der Flor de Las Antillas verliehen",
+            "text": "<p>Die Familie Garcia folgt weiterhin der Tradition, die sie in Kuba gelebt und gelernt hat und ist stolz darauf, zwei Fabriken zu besitzen: den Hauptsitz in Doral und eine Boutique-Fabrik mit einem Team von zwölf erfahrenen Zigarrenrollern, die von Don Pepin selbst ausgebildet wurden. Die andere ist der Garcia Family Industrial Park in Estelí, Nicaragua, mit mehr als dreihundert Zigarrenrollern. Beide Fabriken sind für die zwölf unternehmenseigenen Marken verantwortlich, die es heute auf dem Markt gibt.<br\/><br\/>Die Mischungen der Garcia-Familie sind kompromisslos robust und aromatisch und zeichnen sich durch eine ausgeprägte Kombination aus Stärke, Fülle und würzigem Aroma sowie einem kräftigen Abgang aus. Die Konstruktion ist eine sehr sorgfältige, handgefertigte Zigarre mit einem schönen Deckblatt und einem traditionellen Triple-Cap-Abschluss.<br\/><br\/>In jeder Zigarre, die Familie Garcia herstellt, stecken die Traditionen, das Herz und die Seele von Pepin. Die strikte Anwendung bewährter kubanischer Zigarrenherstellungsmethoden gewährleistet, dass jede hergestellte Zigarre das bestmögliche Raucherlebnis bietet.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16164749312266__896c281e-4c8d-4148-85f7-84f104882e32-16698229416ae15830-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/My_Father_Cigars_1.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16164749312266__896c281e-4c8d-4148-85f7-84f104882e32-16698229416ae15830-1",
+        "template--16164749312266__896c281e-4c8d-4148-85f7-84f104882e32-16698229416ae15830-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515824545765535e",
+    "hero",
+    "b10b8928-4845-4f83-967e-cfb7b799874b",
+    "896c281e-4c8d-4148-85f7-84f104882e32"
+  ]
+}

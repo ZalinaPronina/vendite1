@@ -1,0 +1,211 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/glenmorangie_distillery_detail.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Entdecken Sie",
+            "title": "Glenmorangie",
+            "text": "<p>Hochwertiger seit Whisky seit 1843 als der Landwirt William Matheson und seine Frau Anne ihren Träumen folgten und die Glenmorangie-Destillerie gründeten. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16521676115ca41707": {
+      "type": "section-logo-list",
+      "blocks": {
+        "1652167611d9793238-2": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/glenmorangie_logo.jpg",
+            "logo_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "1652167611d9793238-2"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "16521682708e234ae4": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "165216827060f4e073-1": {
+          "type": "question",
+          "settings": {
+            "title": "Über Glenmorangie",
+            "content": "<p>Glenmorangie ist eine Whiskybrennerei in Tain in den Northern Highlands von Schottland. Sie wurde von den Brüdern Matheson in einer ehemaligen Brauerei 1843 gegründet. Glenmorangie produziert mittlerweile auf insgesamt acht Brennblasen und ist der meistverkaufteste Single-Malt-Whisky auf dem schottischen Markt. Bekannt ist Glenmorangie für die aufällig hohen Brennblasen. Mit acht Metern Höhe sind Sie die höchsten Brennblasen aller schottischen Brennereien. Durch die besondere Höhe der Brennblasen verspricht sich Glenmorangie einen besonders milden Geschmack. <\/p><p>Durch die hohen Brennblasen machte Glenmorangie die Giraffe zu Ihrem Symboltier. Schließlich ist dieses majestätische Tier genauso groß wie Ihre hoch aufragenden Brennblasen. Die Fässer, in denen Glenmorangie Whisky reifen solle, werden aus aller Welt zusammengetragen und oft sogar nach den Vorgaben von Glenmorangie maßgeschneidert, um ein besonderes Geschmacksprofil zu erzeugen. <\/p><p>Die Tarlogie Quellen, Glenmorangies eigene Wasserquelle und wertvollstes Gut, sind das Produkt von Regen, der sich seit hundert Jahren seinen Weg durch Schichten von Kalkstein und Sandstein bahnt.<br\/><br\/>Diese natürlichen Mineralien verleihen ihm seine \"harten\" Wassereigenschaften und versorgen Glenmorangie mit einem unter den Highland-Brennereien einzigartigen Rohstoff.<\/p>"
+          }
+        },
+        "165216827060f4e073-2": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "165216827060f4e073-3": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165216827060f4e073-1",
+        "165216827060f4e073-2",
+        "165216827060f4e073-3"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--small",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "165392051098c56435": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16539205092f8d7fa4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/glenmorangie_distillery_detail.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16539205092f8d7fa4-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Geschichte",
+            "title": "Glenmorangie",
+            "text": "<p>Glenmorangie ist eine Whiskybrennerei in Tain in den Northern Highlands von Schottland. Sie wurde von den Brüdern Matheson in einer ehemaligen Brauerei 1843 gegründet. <a href=\"https:\/\/www.glenmorangie.com\/de-de\/home\" target=\"_blank\" title=\"Glenmorangie\">Glenmorangie<\/a> produziert mittlerweile auf insgesamt acht Brennblasen und ist der meistverkaufteste Single-Malt-Whisky auf dem schottischen Markt. Bekannt ist Glenmorangie für die aufällig hohen Brennblasen. Mit acht Metern Höhe sind Sie die höchsten Brennblasen aller schottischen Brennereien. Durch die besondere Höhe der Brennblasen verspricht sich Glenmorangie einen besonders milden Geschmack. <\/p><p>Durch die hohen Brennblasen machte Glenmorangie die Giraffe zu Ihrem Symboltier. Schließlich ist dieses majestätische Tier genauso groß wie Ihre hoch aufragenden Brennblasen. Die Fässer, in denen Glenmorangie Whisky reifen solle, werden aus aller Welt zusammengetragen und oft sogar nach den Vorgaben von Glenmorangie maßgeschneidert, um ein besonderes Geschmacksprofil zu erzeugen. <\/p><p>Die Tarlogie Quellen, Glenmorangies eigene Wasserquelle und wertvollstes Gut, sind das Produkt von Regen, der sich seit hundert Jahren seinen Weg durch Schichten von Kalkstein und Sandstein bahnt.<br\/><br\/>Diese natürlichen Mineralien verleihen ihm seine \"harten\" Wassereigenschaften und versorgen Glenmorangie mit einem unter den Highland-Brennereien einzigartigen Rohstoff.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16539205092f8d7fa4-0",
+        "16539205092f8d7fa4-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16521676115ca41707",
+    "hero",
+    "16521682708e234ae4",
+    "165392051098c56435"
+  ]
+}

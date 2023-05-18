@@ -1,0 +1,221 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-tomas-malik-3408354_cropped.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Suntory Whisky",
+            "text": "<p>Im Jahr 1923 stellte sich Shinjiro Torii von Suntory einen Whisky vor, der die Essenz der japanischen Natur in sich trägt und von Handwerkern in einem geduldigen Prozess der Veredelung des Werks der Natur handgefertigt wird.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "f6bc9ee6-de4f-461f-ac2c-3b4f7449940f": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--16101713903882__f6bc9ee6-de4f-461f-ac2c-3b4f7449940f-1678880724f1e83dc7-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/suntorylogo.png",
+            "logo_width": 160
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713903882__f6bc9ee6-de4f-461f-ac2c-3b4f7449940f-1678880724f1e83dc7-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "020d6d17-1d9d-42a4-b2c7-fb298fb85d31": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101713903882__020d6d17-1d9d-42a4-b2c7-fb298fb85d31-16788808030bcdf59a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/suntory-history.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101713903882__020d6d17-1d9d-42a4-b2c7-fb298fb85d31-16788808030bcdf59a-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Geschichte von",
+            "title": "Suntory",
+            "text": "<p>Vor über einem Jahrhundert entstand das Haus Suntory aus dem Traum eines Mannes. Shinjiro Torii wollte etwas Neues und Besonderes schaffen. Vor dem Hintergrund der japanischen Meiji-Ära, einer Zeit der rasanten Modernisierung, in der Japan sich vom Westen inspirieren ließ, entwickelte sich der junge Shinjiro zu einem Unternehmer, Macher und Macherin. Im Jahr 1923, inspiriert von den Reichtümern der japanischen Natur, wählte er die Region wegen ihres angeblich weichen Wassers, des einzigartigen Klimas und der unterschiedlichen Jahreszeiten aus - alles Faktoren, die zum unverwechselbaren japanischen Charakter der <a href=\"https:\/\/house.suntory.com\/craft-philosophy\" target=\"_blank\" title=\"Suntory\">Suntory<\/a>-Whiskys beitragen sollten.  Shinjiro hatte seinen Traum verwirklicht, \"einen original japanischen Whisky zu schaffen, der mit den Reichtümern der japanischen Natur und der 'Monozukuri'-Handwerkskunst gesegnet ist\". Das ist auch heute noch die Aufgabe seines Enkels Shingo Torii. Das Haus Suntory repräsentiert nun ein Haus der japanischen Kultur - eine reiche kulturelle Erfahrung und eine Pilgerreise nach Japan in jeder Flasche, bereit, von der Welt entdeckt zu werden.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713903882__020d6d17-1d9d-42a4-b2c7-fb298fb85d31-16788808030bcdf59a-0",
+        "template--16101713903882__020d6d17-1d9d-42a4-b2c7-fb298fb85d31-16788808030bcdf59a-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "04829752-6102-4fb1-bf12-9740013ab109": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101713903882__04829752-6102-4fb1-bf12-9740013ab109-16788808030bcdf59a-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Das Handwerk von",
+            "title": "Suntory",
+            "text": "<p>Die Japaner fühlen sich eins mit der Natur, ihrer ultimativen Inspiration und leitenden Kraft. Sie haben eine besondere Ehrfurcht vor der Natur und glauben, dass namenlose Geister, die als \"acht Millionen Götter\" bezeichnet werden, in jedem Kieselstein, Regentropfen und Samen wohnen. Die japanische Natur ist mit vielen Ausdrucksformen gesegnet - tiefe Wälder, üppiges Grün, steile Berge und unberührte Gewässer. Jede davon wird durch den Reichtum der Jahreszeiten noch verstärkt. Die Wasserressourcen von Yamazaki und Hakushu werden aufgrund ihrer Qualität und Reinheit als die \"wertvollsten\" Japans angesehen. Die Region Yamazaki ist der Ursprung eines der besten Gewässer Japans. Das Wasser von Hakushu ist sanft und unberührt, was durch die Filtration von Regen und Schnee durch uralte Granitfelsen ermöglicht wird. Die unglaubliche Vielfalt der Jahreszeiten in Japan haucht dem Whisky Leben ein. Sowohl die Temperatur als auch die Luftfeuchtigkeit schwanken im Laufe der vier Jahreszeiten, was den Reifungsprozess von Suntory Whisky bereichert. Die Temperaturschwankungen haben großen Einfluss auf die \"Atmung\" der Fässer. Dies ist das Geheimnis, das den außergewöhnlichen Geschmack des Suntory-Whiskys ausmacht und ihn von allen anderen unterscheidet.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101713903882__04829752-6102-4fb1-bf12-9740013ab109-16788808030bcdf59a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/suntory-craft.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101713903882__04829752-6102-4fb1-bf12-9740013ab109-16788808030bcdf59a-1",
+        "template--16101713903882__04829752-6102-4fb1-bf12-9740013ab109-16788808030bcdf59a-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "f6bc9ee6-de4f-461f-ac2c-3b4f7449940f",
+    "hero",
+    "020d6d17-1d9d-42a4-b2c7-fb298fb85d31",
+    "04829752-6102-4fb1-bf12-9740013ab109"
+  ]
+}

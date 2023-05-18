@@ -1,0 +1,200 @@
+{% assign animation_order = 1 %}
+
+<div class="Drawer MenuDrawer" data-component="MenuDrawer">
+  <div class="Drawer__Overlay" data-drawer-overlay></div>
+
+  <div class="Drawer__Inner MenuDrawer__Inner">
+    <div class="Drawer__Header MenuDrawer__Header">
+      <button type="button" class="bg-transparent p-3.5 ml-auto -mr-4" data-drawer-close>
+        {% render "icon-close" %}
+      </button>
+    </div>
+
+    <div class="MenuDrawer__Main">
+      {% if menu %}
+        <ul class="stagger px-7.5 space-y-4{% if settings.type_nav_caps %} uppercase{% endif %}">
+          {% for link in menu.links %}
+            {% liquid
+              assign link_color = nil
+
+              for block in section.blocks
+                if block.settings.menu_item_name == link.title
+                  assign link_color = block.settings.menu_item_color
+
+                  break
+                endif
+              endfor
+            %}
+
+            <li style="--animation-order: {{ animation_order }};">
+              {% if link.levels > 0 %}
+                <div
+                  class="flex text-14 cursor-pointer"
+                  data-has-child-link
+                  data-handle="{{ link.url | handle }}"
+                  style="color: {{ link_color | default: 'inherit' }};"
+                >
+                  <span>{{ link.title }}</span>
+                  <span class="ml-auto">
+                    {% render "icon-chevron-right" %}
+                  </span>
+                </div>
+              {% else %}
+                <a
+                  class="text-14"
+                  href="{{ link.url }}"
+                  {% unless link.type != 'http_link' %}target="_blank"{% endunless %}
+                  style="color: {{ link_color | default: 'inherit' }};"
+                >
+                  {{ link.title }}
+                </a>
+              {% endif %}
+            </li>
+
+            {% assign animation_order = animation_order | plus: 5 %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if secondary_menu %}
+        <ul class="!mt-12 stagger px-7.5 space-y-4{% if settings.type_nav_caps %} uppercase{% endif %}">
+          {% for link in secondary_menu.links %}
+            <li style="--animation-order: {{ animation_order }};">
+              <a
+                class="text-14"
+                href="{{ link.url }}"
+                {% unless link.type != 'http_link' %}target="_blank"{% endunless %}
+              >
+                {{ link.title }}
+              </a>
+            </li>
+
+            {% assign animation_order = animation_order | plus: 5 %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if social %}
+        <div class="mt-12 stagger px-7.5">
+          <div style="--animation-order: {{ animation_order }};">
+            {% render 'social' %}
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+
+  {% if menu %}
+    {% for link in menu.links %}
+      {% if link.levels > 0 %}
+        {% liquid
+          assign featured_image = nil
+
+          if show_featured_image
+            for block in section.blocks
+              if block.settings.menu_item_name == link.title
+                assign featured_image = block.settings.image | default: link.object.image
+                assign featured_link = block.settings.link | default: link.url
+
+                break
+              endif
+            endfor
+
+            if link.object.image != blank and featured_image == nil
+              assign featured_image = link.object.image
+              assign featured_link = link.url
+            endif
+          endif
+        %}
+
+        <div class="MenuDrawer__Child" data-child-link data-handle="{{ link.url | handle }}">
+          <div class="sticky top-0 left-0 right-0 bg-white flex items-center justify-between px-7.5 h-19">
+            <button type="button" class="bg-transparent p-3.5 -ml-4 shrink-0" data-drawer-return>
+              {% render "icon-chevron-left" %}
+            </button>
+
+            <a href="{{ link.url }}" class="uppercase font-bold text-14 text-brand-accent tracking-wider">
+              {{ link.title }}
+            </a>
+
+            <button type="button" class="bg-transparent p-3.5 -mr-4 shrink-0" data-drawer-close>
+              {% render "icon-close" %}
+            </button>
+          </div>
+
+          <ul class="px-7.5 pb-10 space-y-4{% if settings.type_nav_caps %} uppercase{% endif %}">
+            {% for child_link in link.links %}
+              <li>
+                {% if child_link.levels > 0 %}
+                  <details>
+                    <summary>
+                      <div class="flex text-14 cursor-pointer">
+                        <span>{{ child_link.title }}</span>
+
+                        <span class="ml-auto">
+                          {% render "icon-plus" %}
+                          {% render "icon-minus" %}
+                        </span>
+                      </div>
+                    </summary>
+
+                    <div>
+                      <ul class="space-y-4 pb-4 !mt-4">
+                        {% for grand_child_link in child_link.links %}
+                          {% assign view_all_button_trigger = 'layout.header.megamenu.view_all_button_trigger' | t %}
+
+                          <li>
+                            {% if grand_child_link.title contains view_all_button_trigger %}
+                              <a
+                                class="btn btn--input btn--outline btn--primary caps btn--all"
+                                href="{{ grand_child_link.url }}"
+                                {% unless grand_child_link.type != 'http_link' %}target="_blank"{% endunless %}
+                              >
+                                {{ grand_child_link.title }}
+                              </a>
+                            {% else %}
+                              <a
+                                class="text-14"
+                                href="{{ grand_child_link.url }}"
+                                {% unless grand_child_link.type != 'http_link' %}target="_blank"{% endunless %}
+                              >
+                                {{ grand_child_link.title }}
+                              </a>
+                            {% endif %}
+                          </li>
+                        {% endfor %}
+                      </ul>
+                    </div>
+                  </details>
+                {% else %}
+                  <a
+                    class="text-14"
+                    href="{{ child_link.url }}"
+                    {% unless child_link.type != 'http_link' %}target="_blank"{% endunless %}
+                  >
+                    {{ child_link.title }}
+                  </a>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+
+          {% if featured_image %}
+            <div class="w-full mt-5">
+              <a href="{{ featured_link }}" class="flex aspect-w-6 aspect-h-4">
+                <img
+                  class="object-cover"
+                  src="{{ featured_image | image_url }}"
+                  alt="{{ featured_image.alt }}"
+                  width="auto"
+                  height="auto"
+                  loading="lazy"
+                >
+              </a>
+            </div>
+          {% endif %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+</div>

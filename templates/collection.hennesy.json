@@ -1,0 +1,221 @@
+{
+  "sections": {
+    "16367127218967faac": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16367127218967faac-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design_ohne_Titel_9.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16367127218967faac-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Hennessy",
+            "text": "<p>Hennessy ist eine der ältesten Cognac-Brennereien der Welt. Überzeugen sie sich selbst von der atemberaubenden Qualität<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16367127218967faac-0",
+        "16367127218967faac-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "1658145834891d5e92": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16581458340365e8ce-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/hennessy_96f5d688-0a72-4a54-a5f9-613243983bed.png",
+            "logo_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "16581458340365e8ce-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1658146232a2f2b81a": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16581462326f085fd6-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hennessy_1__komp.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16581462326f085fd6-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die Geschichte",
+            "text": "<p>Das Cognac-Handelshaus Hennessy wurde von Richard Hennessy gegründet, einem Iren, der zuvor als Offizier in der Armee von Ludwig XV. gedient hatte. Laut den Archiven des Hauses kommt der Hennessy-Cognac 1794 nach New York. Von da an wird er in den Vereinigten Staaten immer beliebter, einem Land, das erst 18 Jahre zuvor seine Unabhängigkeit erlangt hatte. Seitdem hat Hennessy Amerika nicht mehr verlassen und sich immer stärker in der afroamerikanischen Musik etabliert. In den nächsten 20 Jahren eroberte Hennessy die ganze Welt und exportierte seinen Cognac in alle Kontinente der Erde. Der Prinz von Wales, der spätere König Georg IV. von Großbritannien, ein großer Cognac-Kenner, bittet Hennessy 1817, einen \"sehr hochwertigen alten hellen\" Cognac zu kreieren. Heute bekannt als VSOP. 1870 kreierte Maurice Hennessy den Cognac <a href=\"https:\/\/www.hennessy.com\" target=\"_blank\" title=\"Hennessy Homepage\">Hennessy<\/a> X.O (Extra Old). Ursprünglich für Familie und Freunde gedacht, wird er zum Wahrzeichen des Hauses Hennessy und trägt zur Schaffung der Kategorie bei. Hennessy X.O ist heute eine weltweite Referenz für Cognacs.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16581462326f085fd6-0",
+        "16581462326f085fd6-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16581498447e158c71": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16581498447f4482b5-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die Herstellung",
+            "text": "<p>Einmal im Jahr werden die perfekt gereiften Trauben schnell und präzise geerntet werden. Die Ugni-Blanc-Trauben eignen sich perfekt für das Destillationsverfahren von Hennessy. Als spät reifende Rebsorte bietet sie ein ausgewogenes Verhältnis zwischen hohem Säuregehalt und niedrigem Alkoholgehalt, was ideal für ausgewogene Branntweine ist. Zur Herstellung von Branntwein für Cognac ist eine doppelte Destillation erforderlich. Bei der ersten Destillation wird ein Rohbrand namens \"brouillis\" hergestellt. Bei der zweiten Destillation wird ein viel höherer Alkoholgehalt erzeugt. Nur der mittlere Teil, das \"Herz\", wird aufbewahrt. Diese klare, farblose Flüssigkeit wird Eau-de-vie genannt. Seit zwei Jahrhunderten trifft sich der Verkostungsausschuss jeden Tag um 11 Uhr. Sie verkosten akribisch jeden Branntwein und wählen ihn dann nach ihren strengen Qualitätskriterien aus oder verwerfen ihn. Die ausgewählten Branntweine werden mindestens einmal im Jahr verkostet, um ihren Reifeprozess zu gewährleisten. Anschließend wird der Eau-de-vie in Holzfäsern gereift. Jeder Branntwein erfordert jahrelange Arbeit und den Wechsel zwischen verschiedenen Fässern, damit er seine volle Komplexität erreichen kann. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16581498447f4482b5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-math-21393_1.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16581498447f4482b5-1",
+        "16581498447f4482b5-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "16367127218967faac",
+    "subcollections",
+    "main",
+    "1658145834891d5e92",
+    "hero",
+    "1658146232a2f2b81a",
+    "16581498447e158c71"
+  ]
+}

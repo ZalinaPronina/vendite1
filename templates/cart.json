@@ -1,0 +1,67 @@
+{
+  "sections": {
+    "main": {
+      "type": "cart",
+      "settings": {}
+    },
+    "1650868974cef5bfa6": {
+      "type": "section-text-row",
+      "blocks": {
+        "1650868974d8ae4eea-0": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#c5aa76",
+            "title": "Schneller Versand",
+            "text": "In der Regel sind alle Bestellungen innerhalb von 1-3 Tagen bei Ihnen."
+          }
+        },
+        "1650868974d8ae4eea-1": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-payment",
+            "icon_color": "#c5aa76",
+            "title": "Viele Zahlungsmöglichkeiten",
+            "text": "Wir akzeptieren Zahlungen per PayPal, Kreditkarte, Klarna, Apple Pay, Google Pay & Vorkasse"
+          }
+        },
+        "1650868974d8ae4eea-2": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_color": "#c5aa76",
+            "title": "Sie haben Fragen?",
+            "text": "Nehmen Sie jederzeit Kontakt mit uns auf. Wir helfen Ihnen gerne bei Ihrer Bestellung weiter."
+          }
+        }
+      },
+      "block_order": [
+        "1650868974d8ae4eea-0",
+        "1650868974d8ae4eea-1",
+        "1650868974d8ae4eea-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "icon_size": "icon--large",
+        "icon_alignment": "icon--left",
+        "text_color": "text-dark",
+        "heading_size": "h6",
+        "height": "margin--small",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1650873712b0e0362c": {
+      "type": "section-recent-products",
+      "settings": {
+        "product_recently_heading": "Zuletzt angesehene Produkte",
+        "product_recently_limit": 6,
+        "product_recently_minimum": 2
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1650868974cef5bfa6",
+    "1650873712b0e0362c"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Opus-One-Winery_Flags.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Opus One",
+            "text": "<p>Opus One ist der verwirklichte Traum von zwei Männern: Baron Philippe de Rothschild von <a href=\"https:\/\/venditevendite-shop.de\/collections\/chateau-mouton-rothschild\" target=\"_blank\" title=\"Chateau Mouton Rothschild\">Chateau Mouton Rothschild<\/a> in Bordeaux und <a href=\"https:\/\/venditevendite-shop.de\/collections\/robert-mondavi\" target=\"_blank\" title=\"Robert Mondavi\">Robert Mondavi<\/a>, Winzer aus dem Napa Valley. Gemeinsam machten sich diese Gründer daran, einen einzigen Wein zu schaffen, der dem Streben nach kompromissloser Qualität gewidmet ist. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/opus_one.png",
+            "logo_width": 130
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "165175960371a9c067": {
+      "type": "text-promo",
+      "disabled": true,
+      "blocks": {
+        "165175960292e89942-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Tastings"
+          }
+        },
+        "165175960292e89942-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Weingut DOMAINES OTT"
+          }
+        },
+        "165175960292e89942-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Tastings",
+            "button_url": "https:\/\/www.domaines-ott.com\/en\/contact",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "165175960292e89942-0",
+        "165175960292e89942-1",
+        "165175960292e89942-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    },
+    "067193e3-9518-419f-8a7d-1a40d3218bea": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16118901702922__067193e3-9518-419f-8a7d-1a40d3218bea-1665130022c31c1242-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-pixabay-39511.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 35,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16118901702922__067193e3-9518-419f-8a7d-1a40d3218bea-1665130022c31c1242-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Vier Estate-Weinlagen",
+            "title": "Opus One",
+            "text": "<p>Die Weinberge von Opus One, die aus vier Parzellen bestehen, liegen im westlichen Teil der berühmten Oakville AVA. Zwei Parzellen mit einer Gesamtfläche von 100 Hektar liegen in der berühmten Lage To Kalon Vineyard.  Hinzu kommen die zusammen 70 Hektar der Parzellen Ballestra und River, die das Weingut umschließen.  In den Weinbergen werden die Trauben von Hand geerntet und andere traditionelle Methoden angewandt, wo immer sie am besten funktionieren.  Wenn moderne Techniken für den Weinanbau von Vorteil sind, werden sie erforscht, bewertet und in die Praxis integriert.<\/p><p>Geleitet von der Vision der Gründer von Opus One, verbindet Ihr Kellermeister, Michael Silacci, Intuition und technischen Scharfsinn mit der doppelten Perspektive des Weinbauers und des Weinmachers.  Von der Verkostung der Beeren über die sorgfältige Sortierung bis hin zur langen Reifung in neuen französischen Eichenfässern wird jeder Phase des Weinherstellungsprozesses die gleiche Sorgfalt und Aufmerksamkeit gewidmet.  Nach 18 Monaten wird der Wein in Flaschen abgefüllt und weitere 15 Monate gelagert, bis er am 1. Oktober eines jeden Jahres auf den Markt kommt.<\/p><p>Opus One wurde im Rahmen der Napa Valley Vintners-Napa Green Initiative als grünes Weingut zertifiziert und führt mehr als 100 umweltfreundliche Verfahren ein.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16118901702922__067193e3-9518-419f-8a7d-1a40d3218bea-1665130022c31c1242-0",
+        "template--16118901702922__067193e3-9518-419f-8a7d-1a40d3218bea-1665130022c31c1242-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515824545765535e",
+    "hero",
+    "165175960371a9c067",
+    "067193e3-9518-419f-8a7d-1a40d3218bea"
+  ]
+}

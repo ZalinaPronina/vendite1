@@ -1,0 +1,28 @@
+.klaviyo-backinstock-form .input-group{
+  display: flex;
+}
+.klaviyo-backinstock-form .input-group input{
+  width: 70%;
+}
+.klaviyo-backinstock-form .input-group .btn{
+  width: 30%;
+  font-size: 13px;
+  line-height: 1.2;
+  padding: 5px;
+}
+.klaviyo-backinstock-form .disclaimer-text{
+  font-size: 11px;
+  font-style: italic;
+  text-align: center;
+}
+.klaviyo-backinstock-form .valid-msg{
+  display: none;
+  color: {{ settings.k_valid_msg_color }};
+  text-align: center;
+}
+.klaviyo-backinstock-form .success-msg{
+  color: {{ settings.k_success_msg_color }};
+}
+.klaviyo-backinstock-form .success-msg:not(.active){
+  display: none;
+}

@@ -1,0 +1,218 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "show_content": false,
+        "text_size": 2,
+        "align_text": "text-center",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "42528d44-fb9a-4f4b-9cb0-c8d274f494b2": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--17825629045002__42528d44-fb9a-4f4b-9cb0-c8d274f494b2-16814636458d0d4396-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a74971e0-17e6-40e2-821b-b4d598e1fe04.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 10,
+            "overlay_color": "#ab8c52",
+            "title": "",
+            "description": "",
+            "flex_align": "align--top-right",
+            "text_color": "text-dark",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--17825629045002__42528d44-fb9a-4f4b-9cb0-c8d274f494b2-16814636458d0d4396-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Unser",
+            "title": "Premio Treueprogramm",
+            "text": "<p>Wir freuen uns sehr, Ihnen Premio vorstellen zu können. Premio ist unser eigenes Prämienprogramm, mit dem Sie Ihr Einkaufserlebnis noch weiter bereichern können. Als Mitglied dieses Prämienprogramms erhalten Sie für jeden Einkauf, den Sie über unseren Shop tätigen, Punkte gutgeschrieben. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "Jetzt Entdecken",
+            "button_url": "#smile-home",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--17825629045002__42528d44-fb9a-4f4b-9cb0-c8d274f494b2-16814636458d0d4396-0",
+        "template--17825629045002__42528d44-fb9a-4f4b-9cb0-c8d274f494b2-16814636458d0d4396-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": true,
+        "borders": true,
+        "wrapper": true
+      }
+    },
+    "8a8120d5-f26a-433c-8478-0a9140a1ded3": {
+      "type": "section-text-row",
+      "disabled": true,
+      "blocks": {
+        "template--17825629045002__8a8120d5-f26a-433c-8478-0a9140a1ded3-1681463504ab5c41e3-0": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-cart-check",
+            "icon_color": "#ffffff",
+            "title": "Bestellung aufgeben",
+            "text": "Für jede aufgebene Bestellung in unserem Shop oder für jede Aktion über die Premio Oberfläche erhalten Sie Punkte."
+          }
+        },
+        "template--17825629045002__8a8120d5-f26a-433c-8478-0a9140a1ded3-1681463504ab5c41e3-1": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-rating",
+            "icon_color": "#ffffff",
+            "title": "Punkte sammeln",
+            "text": "Egal ob Sie ein Kundenkonto besitzen oder als Gast bestellen. Ihre Punkte werden automatisch Ihrem Konto gutgeschrieben."
+          }
+        },
+        "template--17825629045002__8a8120d5-f26a-433c-8478-0a9140a1ded3-1681463504ab5c41e3-2": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-dollar",
+            "icon_color": "#545454",
+            "title": "Punkte einlösen",
+            "text": "Über die Premio Oberfläche können Sie ganz einfach Ihre Punkte einlösen. Sie benötigen dafür lediglich ein Kundenkonto."
+          }
+        }
+      },
+      "block_order": [
+        "template--17825629045002__8a8120d5-f26a-433c-8478-0a9140a1ded3-1681463504ab5c41e3-0",
+        "template--17825629045002__8a8120d5-f26a-433c-8478-0a9140a1ded3-1681463504ab5c41e3-1",
+        "template--17825629045002__8a8120d5-f26a-433c-8478-0a9140a1ded3-1681463504ab5c41e3-2"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "icon_size": "icon--large",
+        "icon_alignment": "icon--left",
+        "text_color": "text-light",
+        "heading_size": "h6",
+        "height": "margin--small",
+        "bg_color": "#ab8c52"
+      }
+    },
+    "b4b8c0d4-883b-447b-8971-4d607bfcabab": {
+      "type": "section-columns",
+      "blocks": {
+        "template--17825629045002__b4b8c0d4-883b-447b-8971-4d607bfcabab-1681470168e3ac31a2-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "bg_position": "center-center",
+            "title": "Punkte erhalten.",
+            "text": "<p>Für jede Bestellung die Sie bei uns im Shop aufgeben oder für jede Aktion die Sie über die Premio Oberfläche ausführen erhalten Sie Punkte. Sie erhalten pro ausgegebenen Euro einen Punkt.<\/p>",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--17825629045002__b4b8c0d4-883b-447b-8971-4d607bfcabab-1681470168e3ac31a2-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_ab57a6fe-f1f0-48cc-8fd7-83dfa2e4ded0.png",
+            "bg_position": "center-center",
+            "title": "Punkte sammeln.",
+            "text": "<p>Ihre Punkte werden automatisch Ihrem Kundenkonto gutschrieben, egal ob Sie als Gast bestellen oder bereits ein Kundenkonto besitzen.<\/p>",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--17825629045002__b4b8c0d4-883b-447b-8971-4d607bfcabab-1681470168e3ac31a2-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_e1550b5a-bf17-44a9-97c0-dde295178ca7.png",
+            "bg_position": "center-center",
+            "title": "Punkte ausgeben.",
+            "text": "<p>Sie können ganz einfach Ihre Punkte über die Premio Oberfläche einlösen. Hierzu benötigen Sie nur ein Kundenkonto bei uns.<\/p>",
+            "button_text": "Jetzt starten",
+            "button_url": "#smile-home",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "template--17825629045002__b4b8c0d4-883b-447b-8971-4d607bfcabab-1681470168e3ac31a2-0",
+        "template--17825629045002__b4b8c0d4-883b-447b-8971-4d607bfcabab-1681470168e3ac31a2-1",
+        "template--17825629045002__b4b8c0d4-883b-447b-8971-4d607bfcabab-1681470168e3ac31a2-2"
+      ],
+      "settings": {
+        "title": "Wie funktioniert Premio?",
+        "bg_color": "#ffffff",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "equalize_height": false,
+        "photo_aspect_ratio": 0.6,
+        "enable_image": true
+      }
+    },
+    "603ef888-826d-435a-be67-0b78cde64dff": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "6f96b34a-de3f-4e33-9a5f-29a461d5d117": {
+          "type": "text",
+          "settings": {
+            "subheading": "Introducing",
+            "title": "Text block",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "6f96b34a-de3f-4e33-9a5f-29a461d5d117"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "42528d44-fb9a-4f4b-9cb0-c8d274f494b2",
+    "8a8120d5-f26a-433c-8478-0a9140a1ded3",
+    "b4b8c0d4-883b-447b-8971-4d607bfcabab",
+    "603ef888-826d-435a-be67-0b78cde64dff"
+  ]
+}

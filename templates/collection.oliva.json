@@ -1,0 +1,272 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Oliva_V_2.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 25,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Oliva",
+            "text": "<p>Melanio Oliva baute 1886 seine erste Tabakpflanze in Pinar Del Rio, Kuba, an. In den frühen 1920er Jahren übernahm Melanios Sohn Facundo Oliva den Anbau. Auch Facundo's Sohn übernahm die Geschäfte von seinem Vater. Seine Reisen führten ihn nach Honduras, Panama, Mexiko und sogar auf die Philippinen. Gilberto fand schließlich in Nicaragua fruchtbaren Boden. Heute ist Gilberto zusammen mit seiner Familie Nicaraguas zweitgrößter Anbauer von kubanischem Saatentabak. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Oliva_8e9c38b2-ecd1-48f0-a01b-5e47e6cef02a.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "ade03207-5c3c-43f5-a5ca-ad4c35feaa59": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16121581043978__ade03207-5c3c-43f5-a5ca-ad4c35feaa59-1669052054b78b6eac-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Oliva.png",
+            "bg_position": "center-top",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16121581043978__ade03207-5c3c-43f5-a5ca-ad4c35feaa59-1669052054b78b6eac-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "Oliva",
+            "text": "<p>Die Geschichte der <a href=\"https:\/\/olivacigar.com\/heritage\/\" title=\"Olivia Geschichte \">Oliva Cigar Company<\/a> reicht bis ins Jahr 1886 zurück, als Melanio Oliva in Kuba mit dem Tabakanbau begann. Die Produktion von Zigarren wurde vorübergehend eingestellt, als er in den kubanischen Unabhängigkeitskrieg zog. Bald nach seiner Rückkehr nahm er den Betrieb wieder auf und übergab ihn schließlich in den 1920er Jahren an seinen Sohn. Die Zeiten waren nicht einfach für die Familie Oliva, denn die Kommunisten übernahmen das Land und zwangen die Familie, nach einem besseren Ort für den Anbau ihrer einzigartigen Tabakmischung zu suchen. Nach Aufenthalten in Mexiko, Panama, Honduras und auf den Philippinen fand seine Familie den fruchtbaren Boden Nicaraguas und ist seitdem der zweitgrößte Erzeuger von Tabak mit kubanischer Saat. Die vier Oliva-Geschwister leiten den Betrieb immer noch, jetzt mit der Hilfe ihrer Urenkel.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16121581043978__ade03207-5c3c-43f5-a5ca-ad4c35feaa59-1669052054b78b6eac-0",
+        "template--16121581043978__ade03207-5c3c-43f5-a5ca-ad4c35feaa59-1669052054b78b6eac-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "3266572f-8adf-46f9-8d04-0251e051922d": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16121581043978__3266572f-8adf-46f9-8d04-0251e051922d-1669052054b78b6eac-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Top bewertete Oliva Zigarren",
+            "text": "<p>Die Oliva Melanio Serie 5, es genügt ein Blick auf den einzigartig gewölbten Kopf und die präzise gepressten Ecken, um zu erkennen, warum die Marke Oliva Cigar in diesem hart umkämpften Markt führend ist. Die Oliva Serie V Melanio Figurado, die bei den Top 25 Cigar Awards 2014 von Cigar Aficionado als Nummer eins gelistet wurde, ist einfach eine der besten Zigarren der Welt. Das Design und der Geschmack dieser Zigarre sind das Ergebnis von über einem Jahrhundert harter Arbeit und Hingabe an das Handwerk der Herstellung von Premium-Zigarren. Erst vor einigen Jahrzehnten, im Jahr 1995, verließ die Familie Oliva schließlich die Plasencia-Fabrik und machte sich daran, eine eigene Fabrik unter dem verkürzten Namen Oliva aufzubauen. Der größte Durchbruch für die Marke Oliva Cigar war im Jahr 2006, als sie die Oliva Serie V herausbrachte. Der Grund, warum viele in der Zigarrenwelt vom Geschmack dieser besonderen Zigarre überrascht waren, war, dass die Familie die Talente einer sehr kleinen Gruppe von Rollern nutzte, um diese Mischung gekonnt herzustellen. Sie war eine sofortige Sensation und machte den Namen Oliva Cigars über Nacht bekannt.<br\/><br\/>2012 beschloss die Familie Oliva Cigars, dass es an der Zeit war, dem Mann Tribut zu zollen, der vor über 100 Jahren den Namen Oliva Cigars ins Leben gerufen hatte. Die Zigarre Melanio wurde als Hommage an den ersten Tabakpflanzer der Familie entwickelt und unterscheidet sich von den anderen Zigarren der Marke durch das Sumatra-Samen-Deckblatt, das speziell in Ecuador angebaut wird. Der charakteristische Geschmack der Oliva-Zigarren kommt mit den bekannten großen, reichhaltigen, karamelligen und kaffeeartigen Anklängen. Laut Cigar Aficionado sind Oliva Zigarren seit neun Jahren in Folge in der Top 25 Liste vertreten. Das ist an und für sich schon eine Leistung, die die Marke zum Superstar gemacht hat. Mit einer jährlichen Produktion von weit über 6 Millionen Zigarren haben Zigarrenliebhaber die Marke Oliva zum zweitgrößten Tabakanbauer in ganz Nicaragua gemacht.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "b3b18587-f6e3-4bfd-a794-0e0996f094b2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Oliva_2.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16121581043978__3266572f-8adf-46f9-8d04-0251e051922d-1669052054b78b6eac-1",
+        "b3b18587-f6e3-4bfd-a794-0e0996f094b2"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "e69fc55d-6331-46ca-b167-0876550ba783": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16121581043978__e69fc55d-6331-46ca-b167-0876550ba783-1669052054b78b6eac-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Oliva_1.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16121581043978__e69fc55d-6331-46ca-b167-0876550ba783-1669052054b78b6eac-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Oliva Zigarrenfabrik und Expansion",
+            "text": "<p>Die beliebtesten Zigarren der Marke werden alle in einer Fabrik in Nicaragua hergestellt, die in der Lage ist, weit über 50.000 Zigarren an einem einzigen Tag zu produzieren. Aufgrund der Beliebtheit der Spitzenmischungen dieser Marke und der Tatsache, dass sie Jahr für Jahr auf den Top-Zigarrenlisten erscheinen, konnte die Produktionssteigerung den wachsenden Wunsch nach diesen Zigarren nicht befriedigen.  Die Expansion der Marke hat mittlerweile 18 Länder erreicht und nimmt jedes Jahr weiter zu. Da die Oliva-Zigarren nun auch in Kanada erhältlich sind, findet die Marke jedes Jahr ein neues Publikum von Zigarrenliebhabern.<br\/><br\/>Die lange Geschichte hinter dem Namen Oliva Cigars hat ihren Teil an Turbulenzen erlebt, aber während all dieser Prüfungen und Schwierigkeiten hat das Unternehmen im Kern immer noch das Blut des Gründers in sich, der stolz darauf ist, weiterhin qualitativ hochwertige und erstklassige Zigarren zu entwickeln, von denen die Welt nicht genug bekommen kann.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16121581043978__e69fc55d-6331-46ca-b167-0876550ba783-1669052054b78b6eac-0",
+        "template--16121581043978__e69fc55d-6331-46ca-b167-0876550ba783-1669052054b78b6eac-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515824545765535e",
+    "hero",
+    "ade03207-5c3c-43f5-a5ca-ad4c35feaa59",
+    "3266572f-8adf-46f9-8d04-0251e051922d",
+    "e69fc55d-6331-46ca-b167-0876550ba783"
+  ]
+}

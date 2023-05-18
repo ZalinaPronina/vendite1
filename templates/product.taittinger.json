@@ -1,0 +1,363 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "price_and_title": {
+          "type": "price_and_title",
+          "settings": {
+            "subheading_option": "collection",
+            "enable_reviews": true
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "subscriptions_enable_selectors": true
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {}
+        },
+        "tabs": {
+          "type": "tab_richtext",
+          "settings": {
+            "style": "accordions",
+            "title_1": "Blend",
+            "raw_content_1": "<p>{{ product.metafields.my_fields.blend | metafield_tag }}<\/p>",
+            "title_2": "Botanicals",
+            "raw_content_2": "<p>{{ product.metafields.my_fields.botanicals | metafield_tag }}<\/p>",
+            "title_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": ""
+          }
+        },
+        "c235118c-9531-45b4-a9b4-89028847f220": {
+          "type": "sharing",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price_and_title",
+        "form",
+        "pickup",
+        "tabs",
+        "c235118c-9531-45b4-a9b4-89028847f220"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "thumbnails",
+        "image_size": "small",
+        "show_cart_bar": true,
+        "enable_zoom": false,
+        "enable_video_looping": false
+      }
+    },
+    "be2792c8-015f-4a34-85d8-110937464224": {
+      "type": "section-product-features",
+      "settings": {
+        "top_spacing": true,
+        "bottom_spacing": true,
+        "background_color": "#fafafa"
+      }
+    },
+    "7df0a6f5-1139-4197-9636-990787d392fe": {
+      "type": "section-accordion",
+      "blocks": {
+        "template--16101717180682__7df0a6f5-1139-4197-9636-990787d392fe-16813000202cdb94fb-0": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>{{ product.metafields.my_fields.produktinformationen | metafield_tag }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101717180682__7df0a6f5-1139-4197-9636-990787d392fe-16813000202cdb94fb-0"
+      ],
+      "settings": {
+        "title": "Produktinformationen"
+      }
+    },
+    "1645112623b86df246": {
+      "type": "section-logo-list",
+      "blocks": {
+        "164511262359cfa693-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/logo-taittinger2.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "164511262359cfa693-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "1645112639386a2024": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16451126393ea89b0f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/img03.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16451126393ea89b0f-0"
+      ],
+      "settings": {
+        "height": "four-fifty-height-hero",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "imgtxt": {
+      "type": "section-custom-content",
+      "blocks": {
+        "imgtxt-0": {
+          "type": "text",
+          "settings": {
+            "subheading": "Taittinger",
+            "title": "Champagnerkunst in Familieneigentum",
+            "text": "<p>Die Verbundenheit mit dem Boden, mit den Menschen, die ihn pflegen, und die ständige Kontrolle der Qualität sind seit jeher die Eckpfeiler des Strebens von Taittinger nach Exzellenz und die Grundlage für die Beibehaltung seines einzigartigen Stils. Die Liebe zu den Rebstöcken und deren sorgfältige Pflege ist eine Voraussetzung für die Schaffung eines großen Champagners. \"Um Gold in unseren Flaschen zu haben, müssen wir zuerst Gold in den Fingerspitzen haben\", erklärt Vincent Collard, der Leiter des Taittinger-Weinguts.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "imgtxt-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "164864015601a00d51": {
+      "type": "text-promo",
+      "blocks": {
+        "16486401568624f367-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Cocktail Empfehlung"
+          }
+        }
+      },
+      "block_order": [
+        "16486401568624f367-0"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#ffffff",
+        "text_color": "text-dark",
+        "width": "",
+        "bg_position": "center-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1648640133d3a01caa": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1648640133407b473a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Header_7.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1648640133407b473a-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Nomayo",
+            "text": "<p>• 1,5cl Aperol<br\/><br\/><\/p><p>• 4,5cl Gin oder Vodka<br\/><br\/><\/p><p>• 2cl St. Germain (Holunderblütenlikör)<br\/><br\/><\/p><p>• 1,5cl Zitronensaft<br\/><br\/><\/p><p>• Champagner<\/p><p>---<\/p><p>Gin oder Vodka in einen Mixer mit Aperol, St Germain und frischem Zitronsaft zusammen mit Eis geben. Schütteln und ein Glas geben. Mit Champagner auffüllen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1648640133407b473a-0",
+        "1648640133407b473a-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "shipping": {
+      "type": "section-accordion",
+      "blocks": {
+        "shipping-0": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shipment",
+            "icon_color": "#ab8c52",
+            "title": "Schneller Versand",
+            "text": "<p>Alle Bestellungen vor 14 Uhr werden noch am selben Tag versandt. In der Regel sind alle Bestellungen inerhalb von 1-3 Tagen bei Ihnen.<\/p>"
+          }
+        },
+        "shipping-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-lock-card",
+            "icon_color": "#ab8c52",
+            "title": "Sichere Bezahlung",
+            "text": "<p>Durch 256-Bit Verschlüsselung und 3D Secure Checkouts.<br\/><br\/><\/p>"
+          }
+        },
+        "shipping-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_color": "#ab8c52",
+            "title": "Du hast Fragen?",
+            "text": "<p>Solltest du Fragen haben, so zöger nicht mit uns in Kontakt zu treten. Wir helfen dir gerne!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "shipping-0",
+        "shipping-1",
+        "shipping-2"
+      ],
+      "settings": {
+        "title": "Versand & Zahlung"
+      }
+    },
+    "about": {
+      "type": "section-accordion",
+      "disabled": true,
+      "blocks": {
+        "about-0": {
+          "type": "image",
+          "settings": {
+            "title": "Image heading",
+            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>",
+            "bg_position": "center-center",
+            "aspect_ratio": 0.6
+          }
+        },
+        "about-1": {
+          "type": "image",
+          "settings": {
+            "title": "Image heading",
+            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>",
+            "bg_position": "center-center",
+            "aspect_ratio": 0.6
+          }
+        },
+        "about-2": {
+          "type": "image",
+          "settings": {
+            "title": "Image heading",
+            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>",
+            "bg_position": "center-center",
+            "aspect_ratio": 0.6
+          }
+        }
+      },
+      "block_order": [
+        "about-0",
+        "about-1",
+        "about-2"
+      ],
+      "settings": {
+        "title": "About us"
+      }
+    },
+    "reviews": {
+      "type": "reviews",
+      "disabled": true,
+      "settings": {
+        "enable_accordion": true
+      }
+    },
+    "related": {
+      "type": "related",
+      "settings": {
+        "related_products_enable": true,
+        "limit": 4,
+        "product_recommendations_heading": "Ähnliche Produkte",
+        "show_recently_viewed": false,
+        "product_recently_limit": 4,
+        "product_recently_heading": "Zuletzt angesehen"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "be2792c8-015f-4a34-85d8-110937464224",
+    "7df0a6f5-1139-4197-9636-990787d392fe",
+    "1645112623b86df246",
+    "1645112639386a2024",
+    "imgtxt",
+    "164864015601a00d51",
+    "1648640133d3a01caa",
+    "shipping",
+    "about",
+    "reviews",
+    "related"
+  ]
+}

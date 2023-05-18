@@ -1,0 +1,11 @@
+{% if metafield_value != blank %}
+  {% liquid
+    assign feature_title = metafield_value | newline_to_br | split: "<br />" | first
+    assign feature_text = metafield_value | newline_to_br | split: "<br />" | last
+  %}
+
+  <div>
+    <h3 class="m-0 uppercase text-14 font-semibold">{{ feature_title }}</h3>
+    <p class="m-0 mt-2 text-base sm:max-w-[14em]">{{ feature_text }}</p>
+  </div>
+{% endif %}

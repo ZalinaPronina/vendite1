@@ -1,0 +1,240 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EISCH_kaya.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Glashütte Eisch",
+            "text": "<p>Eisch steht als traditionsreiche Glasmarke seit 1946 für die Gestaltung von Glas als kreativen Bestandteil der Tischkultur auf höchstem Niveau. Bereits in vierter Generation identifiziert sich die Familie Eisch mit Glasdesign und - veredelung sowie Innovationen im Weinbereich.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "blocks": {
+        "28bb6945-ac35-425d-af3b-3a4c014e7685": {
+          "type": "featured_image",
+          "settings": {
+            "featured_image": "shopify:\/\/shop_images\/75751821_3_2.jpg",
+            "featured_image_bg_position": "center-center",
+            "featured_heading": "Ravi",
+            "featured_text": "<p>24kt Gold | Platin<\/p>",
+            "featured_button_text": "Entdecken",
+            "featured_button_link": "shopify:\/\/products\/eisch-weissweinglaser-set-ravi-gold-in-geschenkbox",
+            "featured_color_text": "#ffffff",
+            "featured_color_overlay": "#222222",
+            "featured_overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "28bb6945-ac35-425d-af3b-3a4c014e7685"
+      ],
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "2252e8b0-269d-43f1-8800-70757688b360": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--16101712331018__2252e8b0-269d-43f1-8800-70757688b360-1673462018bdb61b54-2": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Eisch_Germany_Schwarz.png",
+            "logo_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--16101712331018__2252e8b0-269d-43f1-8800-70757688b360-1673462018bdb61b54-2"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "d176bdc6-0356-48bc-a025-39d4068c3621": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101712331018__d176bdc6-0356-48bc-a025-39d4068c3621-167346201865c2c140-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Glashuette_Eisch.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101712331018__d176bdc6-0356-48bc-a025-39d4068c3621-167346201865c2c140-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "Glashütte Eisch",
+            "text": "<p>Die Glasmachertradition der Familie <a href=\"https:\/\/eisch.de\/eisch\/die-familie\/\" title=\"Familie Eisch\">Eisch<\/a> lässt sich bis zu Mathias Alesch zurückverfolgen, der 1689 im Böhmerwald geboren wurde und dort zu den Mitarbeitern einer kleinen Glashütte gehörte. Der Gründer der Glashütte Eisch, Valentin Eisch, war seit 1914 als Graveurmeister in der Kristallglasfabrik des Industriellen Isidor Gistl beschäftigt. Um den Lebensunterhalt für seine sechs Kinder zu sichern, gründete Valentin Eisch 1946 zusammen mit seiner Frau Therese eine eigene Veredelungsfabrik.<br\/><br\/>Schon bald befürchteten die bestehenden Glashütten im Bayerischen Wald, dass Konkurrenz auf den Plan treten würde. Sie versuchten dies zu verhindern, indem sie die Lieferung von Rohglas an die Eischs blockierten. Die Familie Eisch sah sich daher gezwungen, eine eigene Glasproduktion aufzubauen. Im Dezember 1952 wurde das erste Glas in der damals jüngsten und kleinsten Glashütte Bayerns geschmolzen. Trotz anfänglicher Schwierigkeiten konnte die Glashütte bis 1956 auf einen 12-Wannen-Ofen ausgebaut werden. Das Zusammenspiel zwischen den Familienmitgliedern und den Mitarbeitern führte zu einer kontinuierlichen Aufwärtsentwicklung.<br\/><br\/>Erwin Eisch war der Pionier und führende Geist der Studioglasbewegung in Europa. Er war ein wichtiger Impulsgeber und „Querdenker“. Ausgehend von Erwin Eischs frei mundgeblasenem Glas entstand 1977 die Unikatserie \"Poesie im Glas\": Stücke für Sammler und Glasliebhaber mit fließenden Formen, die durch verschiedenste Brenn- und Kaltglastechniken zu künstlerischen Objekten geformt wurden.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101712331018__d176bdc6-0356-48bc-a025-39d4068c3621-167346201865c2c140-0",
+        "template--16101712331018__d176bdc6-0356-48bc-a025-39d4068c3621-167346201865c2c140-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "99c1d7ff-c152-4ead-ae46-6cafc6979fa7": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101712331018__99c1d7ff-c152-4ead-ae46-6cafc6979fa7-1673463087d68cdfe5-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "",
+            "text": "<p>Die Glashütte Eisch hat sich bei ihren Kunden einen hervorragenden Ruf erarbeitet. Bei der Auswahl der bevorzugten Industriepartner durch den Bundesverband des Deutschen Glas- und Porzellanfachhandels hat Eisch mehrfach den ersten Platz unter allen deutschen Glasherstellern erreicht. <br\/><br\/><\/p><p>Die Glashütte Eisch befindet sich nach wie vor vollständig im Familienbesitz und wird von Julia Eisch und Eberhard Eisch in dritter Generation geführt. Gemeinsam mit Florian Eichinger (4. Generation, Sohn von Julia Eisch) bauen sie auf den umfangreichen Erfahrungen und handwerklichen Fähigkeiten der Vergangenheit auf und konzentrieren sich nun auf die Umgestaltung des Unternehmens zu einer modernen und innovativen Glashütte.<br\/><br\/>Mit der Kreation der SENSISPLUS-Gläser hat die Glashütte Eisch einen Meilenstein in der Entwicklung von Weingläsern gesetzt. In einem SENSISPLUS-Glas erfährt der Wein eine noch nie dagewesene Entfaltung der Aromen, die in der Weinwelt Begeisterung und Erstaunen ausgelöst hat. Eberhard Eisch beschreibt seine Erfahrungen mit SENSISPLUS-Gläsern so: „In diesem Glas kann ich in die Zukunft des Weines sehen!“<br\/><br\/>Mit einer konsequenten Markenstrategie, die auf Individualität und Innovation setzt, ist Glashütte Eisch auch in Überseemärkten erfolgreich. Heute werden mehr als 50% der Gesamtproduktion in über 60 Länder weltweit exportiert.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101712331018__99c1d7ff-c152-4ead-ae46-6cafc6979fa7-1673463087d68cdfe5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Glashuette_Eisch_2.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101712331018__99c1d7ff-c152-4ead-ae46-6cafc6979fa7-1673463087d68cdfe5-1",
+        "template--16101712331018__99c1d7ff-c152-4ead-ae46-6cafc6979fa7-1673463087d68cdfe5-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "2252e8b0-269d-43f1-8800-70757688b360",
+    "hero",
+    "d176bdc6-0356-48bc-a025-39d4068c3621",
+    "99c1d7ff-c152-4ead-ae46-6cafc6979fa7"
+  ]
+}

@@ -1,0 +1,13 @@
+<div class="product__stock-indicator{% unless current_variant.available %} hide{% endunless %}">
+  {% if current_variant.inventory_quantity < settings.stock_indicator_tier_1 %}
+    <div style="color: #A68C5A;">
+      {% render 'icon-circle' %}
+      <span>{{ 'products.product.stock_indicator.low' | t: number: current_variant.inventory_quantity }}</span>
+    </div>
+  {% elsif current_variant.inventory_quantity > settings.stock_indicator_tier_2 %}
+    <div style="color: #36622F;">
+      {% render 'icon-circle' %}
+      <span>{{ 'products.product.stock_indicator.high' | t }}</span>
+    </div>
+  {% endif %}
+</div>

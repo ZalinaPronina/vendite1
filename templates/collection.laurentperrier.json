@@ -1,0 +1,223 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lp_vineyard.png",
+            "bg_position": "center-top",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Laurent-Perrier",
+            "text": "<p>Das renommierte Champagner Haus Laurent-Perrier mit seiner über 200 Jahre alten Geschichte.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "1646316809ce0854b2": {
+      "type": "section-logo-list",
+      "blocks": {
+        "1646316809280dce07-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/csm_champagne-laurent-perrier-logo_ac9769d427.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "1646316809280dce07-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "165408276897e30180": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16540827673e2fa222-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/qgvwvw6cydvrjxpj2hps.jpg",
+            "bg_position": "right-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16540827673e2fa222-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Geschichte",
+            "title": "Laurent-Perrier",
+            "text": "<p>Das Haus Laurent-Perrier wurde 1812 von André Michel Pierlot gegründet und nahm den Namen Vve Laurent-Perrier an, als Mathilde Emilie Perrier, die Witwe von Eugène Laurent, die beiden Familiennamen kombinierte, nachdem sie beschlossen hatte, das Unternehmen zu erweitern.<\/p><p>Eugénie Hortense Laurent, ihre Tochter, erbte das Haus 1925 und verkaufte es 1939 an Marie-Louise Lanson de Nonancourt.<\/p><p>1939 erwirbt Marie-Louise de Nonancourt, Witwe und Mutter von vier Kindern, die Domaine <a href=\"https:\/\/www.laurent-perrier.com\" target=\"_blank\" title=\"Laurent Perrier\">Laurent-Perrier<\/a>, um ihre Zukunft zu sichern.<\/p><p>Während des Zweiten Weltkriegs leitet Marie-Louise Lanson de Nonancourt das Unternehmen, während zwei ihrer Söhne, Maurice und Bernard, sich der französischen Résistance anschließen. 1945 begann Bernard de Nonancourt eine anspruchsvolle Ausbildung, in der er alle Aspekte der Weinherstellung von der Rebe bis zum Weinkeller erlernte, bevor er im Oktober 1948 zum Präsidenten und Generaldirektor ernannt wurde. Zu diesem Zeitpunkt beschäftigte das Haus etwa 20 Mitarbeiter und lieferte 80.000 Flaschen pro Jahr aus.<\/p><p>Beflügelt von seiner Leidenschaft für Champagner, seinem Respekt für traditionelle Werte und vor allem für die Menschen, inspirierte Bernard de Nonancourt Laurent Perrier mit seinem unabhängigen Geist und seiner kreativen Kühnheit.<\/p><p>Er knüpfte privilegierte Arbeitsbeziehungen zu den Winzern und verknüpfte Innovation und Tradition auf geschickte Weise. Er schuf den unverkennbaren Laurent-Perrier-Stil, der sich durch Frische, Finesse und Eleganz auszeichnet, und entwickelte eine einzigartige Palette von Champagnern, die heute in mehr als 160 Länder weltweit exportiert werden.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16540827673e2fa222-0",
+        "16540827673e2fa222-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "165408280011eef9bf": {
+      "type": "section-custom-content",
+      "blocks": {
+        "165408279910fa401c-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Handwerkskunst",
+            "title": "Laurent-Perrier",
+            "text": "<p>Alles beginnt zwar in den Weinbergen, aber auch der Champagner wird in der Cuverie revise hergestellt. Das Verschneiden ist die Kunst des Champagners, es ist das Know-how von Laurent-Perrier und seinem Kellermeister Michel Fauconnet. Weinherstellung bedeutet, den besten Saft aus der Presse auszuwählen. Weinbereitung bedeutet, mit den drei wichtigsten Rebsorten der Champagne zu arbeiten, hauptsächlich Chardonnay, Pinot Noir und Meunier. Weinherstellung bedeutet auch die Auswahl der stillen Weine, die die endgültige Komposition aus den 320 Dörfern des AOC-Gebiets Champagne bilden, darunter 17 Grands Crus und 44 Premiers Crus. Bei der Weinbereitung geht es darum, ein perfektes Gleichgewicht zwischen einem Basisjahrgang und Reserveweinen zu erreichen, um jedes Jahr den charakteristischen Laurent Perrier-Stil zu kreieren.<br\/>Weinherstellung bedeutet auch, dass unsere Cuvées lange reifen, damit sie sofort nach ihrer Markteinführung genussreif sind.<\/p>",
+            "text_size": 2,
+            "text_columns": 2,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "165408279910fa401c-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "subcollections",
+    "main",
+    "1646316809ce0854b2",
+    "hero",
+    "165408276897e30180",
+    "165408280011eef9bf"
+  ]
+}

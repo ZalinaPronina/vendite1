@@ -1,0 +1,262 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Belvedere_7.png",
+            "bg_position": "center-top",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Cloudy Bay",
+            "text": "<p>Cloudy Bay fängt nicht nur den Charakter von Marlborough ein, sondern verkörpert auch den Luxus Neuseelands intimen Momenten und den seltensten Qualitäten der Natur.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "519976f5-c0d3-459c-93e8-e33af9406e17": {
+      "type": "section-logo-list",
+      "blocks": {
+        "template--16101712134410__519976f5-c0d3-459c-93e8-e33af9406e17-167878333969cb41dd-2": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Cloudy_Bay.png",
+            "logo_width": 170
+          }
+        }
+      },
+      "block_order": [
+        "template--16101712134410__519976f5-c0d3-459c-93e8-e33af9406e17-167878333969cb41dd-2"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "29d2d6e8-7c89-478b-8a63-6196ac25b0be": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101712134410__29d2d6e8-7c89-478b-8a63-6196ac25b0be-1678783558d54200de-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cloudy-bay-Marlborough.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16101712134410__29d2d6e8-7c89-478b-8a63-6196ac25b0be-1678783558d54200de-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "Cloudy Bay",
+            "text": "<p>Qualität ist die Besessenheit, das Markenzeichen und das Versprechen von Cloudy Bay. Das Weingut weiß, dass die Herstellung außergewöhnlicher Weine in allen Aspekten der Weinproduktion viel Liebe zum Detail erfordert. In den Weinbergen liegen die Erträge etwa 30 % unter dem regionalen Durchschnitt. In der Weinkellerei setzt Cloudy Bay Technologie, Geschmack und Erfahrung ein, um nur die besten Trauben für jeden Wein auszuwählen. Das bedeutet vielleicht weniger Flaschen, aber immer einen besseren Wein. Neben der Qualität Ihrer Weine liegt Cloudy Bay der Schutz dieses Ortes, den Sie ihr Zuhause nennen, besonders am Herzen. Cloudy Bay ist ein Gründungsmitglied von Sustainable Winegrowing New Zealand. In Central Otago werden Ihre Weinberge biologisch bewirtschaftet. Ausgewählte Estate-Blöcke in Marlborough erproben biologische Praktiken, die auf die übrigen Weinberge ausgeweitet werden sollen. Im Jahr 1983 probierte David Hohnen seinen ersten Marlborough Sauvignon Blanc. Fasziniert von der Intensität des Weins, machte er sich auf den Weg, die Essenz von Marlborough in Flaschen abzufüllen und mit der Welt zu teilen. Gemeinsam mit dem Winzer Kevin Judd brachte er 1985 Cloudy Bay auf den Markt, einen Sauvignon Blanc, der den neuseeländischen Wein auf der Landkarte berühmt machte. Cloudy Bay kam 2003 zu Veuve Clicquot und wurde 2010 Teil der LVMH-Familie. Das Erbe von Cloudy Bay begann in Marlborough mit Sauvignon Blanc und umfasst heute Chardonnay, Pinot Noir und Pelorus méthode traditionnelle. Der Geist des Abenteuers setzt sich fort mit Te Koko, einem in Fässern vergorenen Sauvignon Blanc, und Te Wahi, einem raffinierten Central Otago Pinot Noir aus unseren beiden besonderen Weinbergen im Süden.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101712134410__29d2d6e8-7c89-478b-8a63-6196ac25b0be-1678783558d54200de-0",
+        "template--16101712134410__29d2d6e8-7c89-478b-8a63-6196ac25b0be-1678783558d54200de-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "353403fd-797e-4425-9297-4bec2b855ec1": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16101712134410__353403fd-797e-4425-9297-4bec2b855ec1-1678783558d54200de-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Weinberge in",
+            "title": "Marlborough",
+            "text": "<p>In Marlborough bewirtschaftet Cloudy Bay 163 Weinbauparzellen und 65 Blöcke. Die Parzellen, die näher am Wairau River liegen, haben steinige, sandige und frei abfließende Böden, die ideal für den ikonischen Sauvignon Blanc sind. Weiter südlich des Flusses, in den Southern Valleys, lieben die Pinot Noir- und Chardonnay-Weinberge die schweren Lehmböden. Diese Böden und das maritime Klima von Marlborough wirken harmonisch zusammen und bilden die Grundlage für den fesselnden Weinstil von Cloudy Bay.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "ddcc3e8b-3338-49a8-8ed0-fa97e18adffd": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Weinberge in",
+            "title": "Central Otago",
+            "text": "<p>Die beiden Weinberge von Cloudy Bay in Central Otago haben komplementäre Terroirs. Calvert, in Bannockburn, hat lehmige, schluffige Böden und sanfte Hänge, die Weine mit feinen Tanninen und seidiger Textur hervorbringen. Die felsigen, eiszeitlichen Böden und extremen Hänge von Northburn bringen Weine mit Struktur und Intensität hervor. Der Verschnitt von Trauben aus den beiden kontrastreichen Lagen verleiht dem Cloudy Bay Te Wahi Pinot Noir seine Ausgewogenheit und Kraft.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101712134410__353403fd-797e-4425-9297-4bec2b855ec1-1678783558d54200de-1",
+        "ddcc3e8b-3338-49a8-8ed0-fa97e18adffd"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16517604056543c0d4": {
+      "type": "text-promo",
+      "blocks": {
+        "16517604050d41e6b7-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Führungen"
+          }
+        },
+        "16517604050d41e6b7-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Weingut CLOUDY BAY"
+          }
+        },
+        "16517604050d41e6b7-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Führungen",
+            "button_url": "https:\/\/www.cloudybay.co.nz\/visit-us",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "16517604050d41e6b7-0",
+        "16517604050d41e6b7-1",
+        "16517604050d41e6b7-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "519976f5-c0d3-459c-93e8-e33af9406e17",
+    "hero",
+    "29d2d6e8-7c89-478b-8a63-6196ac25b0be",
+    "353403fd-797e-4425-9297-4bec2b855ec1",
+    "16517604056543c0d4"
+  ]
+}

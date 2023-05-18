@@ -1,0 +1,269 @@
+{
+  "sections": {
+    "16420810386e2c2ebd": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642081037ecb8ca1b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-ekaterina-belinskaya-4921887.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642081037ecb8ca1b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Clase Azul",
+            "text": "<p>Entdecken Sie ausgezeichnete & exklusive Tequilas & Mezcal von Clase Azul.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "Mehr erfahren",
+            "button_url": "shopify:\/\/blogs\/cover\/clase-azul-ultra-premium-tequila-mezcal",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642081037ecb8ca1b-0",
+        "1642081037ecb8ca1b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1647337383502786d3": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "164733738308cc65cc-1": {
+          "type": "question",
+          "settings": {
+            "title": "Clase Azul Ultra Premium Tequila",
+            "content": "<p>Clase Azul wird zu 100 % aus blauer Agave hergestellt, die auf einem der höchsten Punkte im Bundesstaat Jalisco angebaut wird. Das <br\/>Klima und die Bodenbeschaffenheit sorgen für ein charakteristisches Tequila-Aroma. Jede der Clase Azul Agaven wird 6 bis 8 Jahre lang <br\/>angebaut.<\/p><p>Jede Clase Azul Tequila-Karaffe wird von eigenen Kunsthandwerkern in der kleinen mexikanischen Stadt Santa María Canchesda handgefertigt und <br\/>handbemalt. Etwa 350 der Facharbeiter formen und bemalen sie individuell nach den alten Techniken des Mazahua-Volkes. Jede Keramikkaraffe ist ein einzigartiges Kunstwerk, das die Kunst der mexikanischen Vorfahren und ihr jahrtausendealtes Erbe enthält.<\/p>"
+          }
+        },
+        "164733738308cc65cc-3": {
+          "type": "question",
+          "settings": {
+            "title": "Für was steht \"Clase Azul\"?",
+            "content": "<p>Clase Azul bedeutet übersetzt so viel wie \"Blaue Klasse\" und steht für die \"Blue Weber Agave\" - eine Agavenart aus der der Clase Azul Tequila hergestellt wird. Die Agavenart wird wegen Ihrer bläulichen Erscheinung auch \"Blaue Agave\" gennant.<\/p>"
+          }
+        },
+        "164733738308cc65cc-2": {
+          "type": "question",
+          "settings": {
+            "title": "Die Clase Azul Flasche",
+            "content": "<p>Jede einzelne Karaffe von Clase Azul wird von mexikanischen Kunsthandwerkern von Hand gefertigt. Ursprünglich eröffnete Clase Azul Ihren ersten Handwerksbetrieb in einer kleinen Gemeinde der indigenen Mazahuas, Santa Maria Canchesdá in Mexiko. Clase Azul sorgt dafür, dass Ihre Kunsthandwerker genügend Zeit haben, um aus jeder Karaffe ein Meisterwerk zu machen. Es dauert etwa 11 Tage, um jede Keramikflasche von Anfang bis Ende von Hand zu fertigen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164733738308cc65cc-1",
+        "164733738308cc65cc-3",
+        "164733738308cc65cc-2"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--small",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1654073996dd2dfcf0": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16540739955aff07e4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design_ohne_Titel_6_bf2d85fa-3944-4de1-80f1-9ff05a42f541.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16540739955aff07e4-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Geschichte",
+            "title": "Clase Azul Ultra Premium Tequila",
+            "text": "<p>Clase Azul wird zu 100 % aus blauer Agave hergestellt, die auf einem der höchsten Punkte im Bundesstaat Jalisco angebaut wird. Das Klima und die Bodenbeschaffenheit sorgen für ein charakteristisches Tequila-Aroma. Jede der Clase Azul Agaven wird 6 bis 8 Jahre lang <br\/>angebaut.<\/p><p>Jede Clase Azul Tequila-Karaffe wird von eigenen Kunsthandwerkern in der kleinen mexikanischen Stadt Santa María Canchesda handgefertigt und handbemalt. Etwa 350 der Facharbeiter formen und bemalen sie individuell nach den alten Techniken des Mazahua-Volkes. Jede Keramikkaraffe ist ein einzigartiges Kunstwerk, das die Kunst der mexikanischen Vorfahren und ihr jahrtausendealtes Erbe enthält.<\/p><p>Viridiana Tinoco ist die talentierte Meisterdestillateurin, die jede <br\/>Phase des Herstellungsprozesses  sorgfältig überwacht und so die Konsistenz des einzigartigen Profils gewährleistet.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "mehr erfahren",
+            "button_url": "shopify:\/\/blogs\/cover\/clase-azul-ultra-premium-tequila-mezcal",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16540739955aff07e4-0",
+        "16540739955aff07e4-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16540740787d29a251": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16540740778d4710bd-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Für was steht \"Clase Azul\"?",
+            "text": "<p>Clase Azul bedeutet übersetzt so viel wie \"Blaue Klasse\" und steht für die \"Blue Weber Agave\" - eine Agavenart aus der der Clase Azul Tequila hergestellt wird. Die Agavenart wird wegen Ihrer bläulichen Erscheinung auch \"Blaue Agave\" gennant.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16540740778d4710bd-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "165407426119f78756": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1654074261d1214595-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Clase_Azul_63ebce5f-3c0b-464a-9879-781ba027f824.png",
+            "bg_position": "center-top",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1654074261d1214595-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Die Clase Azul Flasche",
+            "text": "<p>Jede einzelne Karaffe wird von mexikanischen Kunsthandwerkern von Hand gefertigt. Ursprünglich eröffnete Clase Azul Ihren ersten Handwerksbetrieb in einer kleinen Gemeinde der indigenen Mazahuas, Santa Maria Canchesdá in Mexiko. Clase Azul sorgt dafür, dass Ihre Kunsthandwerker genügend Zeit haben, um aus jeder Karaffe ein Meisterwerk zu machen. Es dauert etwa 11 Tage, um jede Keramikflasche von Anfang bis Ende von Hand zu fertigen.<\/p><p>Allein der Deckel wurde mehrfach umgestaltet und sollte schließlich zu einem der erkennbarsten Merkmale der Karaffe werden. Als Clase Azul bemerkte, dass der erste Silberdeckel oxidierte, machte sich das Gründerteam auf die Suche nach neuen Materialien für die Produktion. Nachdem ein Material gefunden wurde, das der Oxidation standhalten konnte, stellte das Team einige Prototypen her und schickte sie zum Testen auf den Markt.<br\/><br\/>Während eines zufälligen Kundenbesuchs wurde der  Gründer, Arturo Lomelí, von einem Barkeeper angesprochen, der erwähnte, dass ihm die neue Glocke an der Kappe gefiel und sie läutete! Arturo entschied, dass dies ein Zeichen sei, und der Brauch \"Ring the Bell\" war geboren!<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1654074261d1214595-0",
+        "1654074261d1214595-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "16420810386e2c2ebd",
+    "subcollections",
+    "main",
+    "hero",
+    "1647337383502786d3",
+    "1654073996dd2dfcf0",
+    "16540740787d29a251",
+    "165407426119f78756"
+  ]
+}

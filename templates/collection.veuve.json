@@ -1,0 +1,389 @@
+{
+  "sections": {
+    "1632916733e8bd6c95": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/schaumwein.png",
+        "bg_position": "center-bottom",
+        "height": "screen-height-one-third",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Image with text overlay",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--bottom-left",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "1632916539b95cbd4b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1632916539b95cbd4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/champagne-veuve-clicquot-weinberg-vor-der-ernte.jpg",
+            "bg_position": "right-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1632916539b95cbd4b-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Veuve Clicquot",
+            "text": "<p>Die besondere Geschichte der Madame Clicquot und Ihren bemerkenswerten Kreationen bei Veuve Clicquot die die Welt berührten.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "mehr erfahren",
+            "button_url": "https:\/\/venditevendite-shop.de\/blogs\/cover\/das-weingut-veuve-clicquot-ponsardin",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1632916539b95cbd4b-0",
+        "1632916539b95cbd4b-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "1646312829463afe49": {
+      "type": "section-logo-list",
+      "blocks": {
+        "1646312829255a484e-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/kisspng-logo-brand-veuve-clicquot-product-font-reims-scenic-champagne-day-tour-7-champagne-tas-5b80dadd1e1338.1140033915351712931232.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "1646312829255a484e-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--top-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "164578887218bd005e": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "d5975301-2d2b-442b-8035-924b04511b61": {
+          "type": "question",
+          "settings": {
+            "title": "Über Veuve Clicquot",
+            "content": "<p>Das Weingut Veuve Clicquot Ponsardin gehört wohl zu eines der schönsten Weingütern der Champagne. Den Grundstein für das Weingut legte Philippe Clicquot 1772, der unter dem Namen Clicquot eine  Weinhandlung aufbaute.<br\/>Als sein Nachfolger sollte sein Sohn François Clicquot die Geschäfte weiterführen. Dieser starb aber 1805 und für die Nachfolge kam nur noch die 27 Jährige Witwe Barbe-Nicole Clicquot-Ponsardin des Sohnes François in Betracht.<\/p><p>Barbe-Nicole war ein tatkräftige Unternehmerin, die unter der Hilfe von zumeist deutschen Mitarbeitern ihren Champagner in die ganze Welt exportierte.<\/p>"
+          }
+        },
+        "1645788872857572b6-1": {
+          "type": "question",
+          "settings": {
+            "title": "Was bedeutet \"Veuve Clicquot\"?",
+            "content": "<p><strong>Veuve<\/strong> ist die französiche Bezeichnung für Witwe. Nachdem der Sohn des Unternehmensgründer Philippe <strong>Clicquot<\/strong> gestorben ist und seine Frau, und damit auch eine Witwe\" das Unternehmen übernommen hatte nannte sie das Unternehmen in Veuve Clicquot um - die Witwe Clicquot. <\/p>"
+          }
+        },
+        "1645788872857572b6-2": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange ist Veuve Clicquot haltbar?",
+            "content": "<p>Champagner hat aufgrund des Alkoholgehaltes kein Ablaufdatum. Trotzdem verändert sich der Champagner mit der Zeit. Veuve Clicquot gibt deshalb beispielsweise bei Ihrem Brut Champagner ein Alterungspotential von 3 Jahren an.<\/p>"
+          }
+        },
+        "1645788872857572b6-3": {
+          "type": "question",
+          "settings": {
+            "title": "Wie wird Veuve Clicquot Champagner hergestellt?",
+            "content": "<p>In den sechs Presszentren von Veuve Clicquot wird aus den geernteten Trauben, der Saft nach Ganztraubenpressung gepresst. Der Most der aus der Pressung gewonnen wurde wird anschließend 15 bis 14 Stunden in Fässern gelagert. Danach wird dem Most Hefe zugegeben um die die alkoholische Gärung auszulösen. Anschließend wir der Wein in Flaschen gefüllt und die sogenannte <br\/>Versanddosage gemeinsam mit der Hefe zugegeben. Durch die zweite alkoholische Gärung wird Überdruck erzeugt. Dadurch wird der stille Wein zu Schaumwein.<\/p><p>Mehr erfahren Sie hier in unserem <a href=\"\/blogs\/cover\/das-weingut-veuve-clicquot-ponsardin\" target=\"_blank\" title=\"Das Weingut Veuve Clicquot Ponsardin | Die Geschichte\"><strong>Blog.<\/strong><\/a><\/p>"
+          }
+        },
+        "41c2388d-d151-45ee-9e53-af25664cbc3b": {
+          "type": "question",
+          "settings": {
+            "title": "Wie schmeckt Veuve Clicquot?",
+            "content": "<p>Der Brut Champagner von Veuve Clicquot hat fruchtige Aromen die nach Pfirsich, Mirabelle & Birne schmecken sowie eine Note von Vanille und Röstnoten (Brioche). Der Brut Champagner besitzt eine aromatische Intensität und gleichzeitig viel Frische.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "d5975301-2d2b-442b-8035-924b04511b61",
+        "1645788872857572b6-1",
+        "1645788872857572b6-2",
+        "1645788872857572b6-3",
+        "41c2388d-d151-45ee-9e53-af25664cbc3b"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--zero",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "16540698908ecf327d": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1654069890163067f3-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/champagne-veuve-clicquot-weinberg-vor-der-ernte.jpg",
+            "bg_position": "right-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1654069890163067f3-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Geschichte",
+            "title": "Veuve Clicquot",
+            "text": "<p>Das Weingut gehört wohl zu eines der schönsten Weingütern der Champagne. Den Grundstein für das Weingut legte Philippe Clicquot 1772, der unter dem Namen Clicquot eine  Weinhandlung aufbaute.<br\/>Als sein Nachfolger sollte sein Sohn François Clicquot die Geschäfte weiterführen. Dieser starb aber 1805 und für die Nachfolge kam nur noch die 27 Jährige Witwe Barbe-Nicole Clicquot-Ponsardin des Sohnes François in Betracht.<\/p><p>Barbe-Nicole war ein tatkräftige Unternehmerin, die unter der Hilfe von zumeist deutschen Mitarbeitern ihren Champagner in die ganze Welt exportierte.<\/p><p>Laut Aussagen Ihrer engsten vertrauen inspizierte Madame Clicquot ihre Weinkeller in der Nacht selbst, um die Entwicklung Ihrer Weine zu überwachen. Madame Clicquot und Ihr Unternehmen hatten auch maßgeblichen Einfluss auf die Geschichte des Champagners.<\/p><p>So erfand Ihr Kellermeister Anton von Müller um 1813 das Rüttelverfahren, dass noch heute angewandt wird. Außerdem hatte Georg Christian von Kessler, der Gründer der ersten Sektkellerei Deutschlands von 1807 bis 1825\/26 bei Veuve Clicquot gearbeitet.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "mehr erfahren",
+            "button_url": "shopify:\/\/blogs\/cover\/das-weingut-veuve-clicquot-ponsardin",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1654069890163067f3-0",
+        "1654069890163067f3-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1654070146cb318532": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1654070146074f4947-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Bedeutung",
+            "title": "Was bedeutet \"Veuve Clicquot\"?",
+            "text": "<p><strong>Veuve<\/strong> ist die französiche Bezeichnung für Witwe. Nachdem der Sohn des Unternehmensgründer Philippe <strong>Clicquot<\/strong> gestorben ist und seine Frau, und damit auch eine Witwe\" das Unternehmen übernommen hatte nannte sie das Unternehmen in Veuve Clicquot um - die Witwe Clicquot. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "2f29b464-cfd4-4c00-b25f-64d2955b131f": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Lagerung",
+            "title": "Wie lange ist Veuve Clicquot haltbar?",
+            "text": "<p>Champagner hat aufgrund des Alkoholgehaltes kein Ablaufdatum. Trotzdem verändert sich der Champagner mit der Zeit. Das Weingut gibt deshalb beispielsweise bei Ihrem Brut Champagner ein Alterungspotential von 3 Jahren an.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1654070146074f4947-1",
+        "2f29b464-cfd4-4c00-b25f-64d2955b131f"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "165407053430f0dafb": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16540705343ab20cf4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vcbottlepaint.png",
+            "bg_position": "center-bottom",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16540705343ab20cf4-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Der Geschmack",
+            "title": "Wie schmeckt Veuve Clicquot?",
+            "text": "<p>Der Brut Champagner von Veuve Clicquot hat fruchtige Aromen die nach Pfirsich, Mirabelle & Birne schmecken sowie eine Note von Vanille und Röstnoten (Brioche). Der Brut Champagner besitzt eine aromatische Intensität und gleichzeitig viel Frische.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16540705343ab20cf4-0",
+        "16540705343ab20cf4-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16515889369447bf22": {
+      "type": "text-promo",
+      "blocks": {
+        "1651588936fb431522-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Führungen"
+          }
+        },
+        "1651588936fb431522-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Champagnerhaus"
+          }
+        },
+        "1651588936fb431522-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu Den Führungen",
+            "button_url": "https:\/\/www.veuveclicquot.com\/de-de\/visit-our-cellars",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "1651588936fb431522-0",
+        "1651588936fb431522-1",
+        "1651588936fb431522-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    }
+  },
+  "order": [
+    "1632916733e8bd6c95",
+    "1632916539b95cbd4b",
+    "subcollections",
+    "main",
+    "1646312829463afe49",
+    "hero",
+    "164578887218bd005e",
+    "16540698908ecf327d",
+    "1654070146cb318532",
+    "165407053430f0dafb",
+    "16515889369447bf22"
+  ]
+}

@@ -1,0 +1,200 @@
+<!-- /sections/section-product-features.liquid -->
+
+{% liquid
+  assign show_diagram = false
+  assign default_color = "#806635"
+  assign show_list = false
+
+  if product.metafields.features.ingredients.value.size > 0
+    assign show_diagram = true
+  endif
+
+  for i in (1..4)
+    assign metafield_key = "feature_" | append: i
+    assign metafield_value = product.metafields.features[metafield_key].value
+
+    if metafield_value != blank
+      assign show_list = true
+      break
+    endif
+  endfor
+%}
+
+{% if show_list or show_diagram %}
+  <div class="product-features product-features-{{ section.id }}">
+    <div class="container">
+      <div class="product-features__wrapper">
+        <div class="product-features__diagram">
+          {% if show_diagram %}
+            <div class="flex items-center">
+              <div
+                class="w-28 h-28 p-3.5 rounded-full shrink-0 sm:w-44 sm:h-44 sm:p-5"
+                style="
+                  {% if product.metafields.features.ingredients.value.size == 1 %}
+                    {% liquid
+                      assign content = product.metafields.features.ingredients.value.first | split: ':'
+                      assign color = default_color
+
+                      if content.size == 3
+                        assign color = content[0]
+                      endif
+                    %}
+
+                    background: {{ color }};
+                  {% else %}
+                    background: conic-gradient(
+                      {% for item in product.metafields.features.ingredients.value %}
+                        {% liquid
+                          assign content = item | split: ':'
+                          assign color = default_color
+                          assign percentage = 100
+
+                          if content.size == 3
+                            assign color = content[0]
+                            assign percentage = content[1]
+                          endif
+                        %}
+
+                        {% if forloop.first %}
+                          {{ color }} {{ percentage }}%,
+                        {% elsif forloop.last %}
+                          {{ color }} 0
+                        {% else %}
+                          {{ color }} 0, {{ color }} {{ percentage }}%,
+                        {% endif %}
+                      {% endfor %}
+                    );
+                  {% endif %}
+                "
+              >
+                <div class="relative w-full h-full flex items-center justify-center rounded-full bg-white">
+                  <svg class="absolute w-24 sm:w-32" fill="none" viewBox="0 0 128 128" aria-hidden="true"><path d="M86.587 63.347c0-4.429-3.602-8.031-8.03-8.031-2.99 0-5.601 1.648-6.982 4.08a8.037 8.037 0 0 0-6.113-4.031 28.052 28.052 0 0 0-.913-3.435c.624-1.78 4.137-10.575 12.36-9.729a1.047 1.047 0 1 0 .215-2.083c-7.737-.793-11.94 5.515-13.688 9.11-.33-.67-.68-1.288-1.047-1.856.004-.022.014-.042.018-.064.046-.327 1.07-8.028-2.487-12.116-1.428-1.642-3.369-2.475-5.768-2.475-9.423 0-13.21 3.853-13.367 4.016a1.04 1.04 0 0 0-.27.51c-.036.18-.869 4.466 2.92 10.479 1.433 2.273 4.086 3.014 6.94 3.014 3.962 0 8.302-1.428 10.299-2.174 1.094 1.722 2.042 3.96 2.667 6.862a8.04 8.04 0 0 0-5.73 3.972c-1.381-2.432-3.991-4.08-6.982-4.08-4.428 0-8.029 3.602-8.029 8.031-.003 4.449 3.649 8.08 8.1 8.027a7.973 7.973 0 0 0-1.119 4.068c-.003 4.448 3.65 8.079 8.1 8.027a7.97 7.97 0 0 0-1.117 4.065c0 4.43 3.601 8.031 8.03 8.031 4.428 0 8.028-3.602 8.028-8.03a7.967 7.967 0 0 0-1.116-4.066c4.45.052 8.102-3.58 8.099-8.027a7.974 7.974 0 0 0-1.119-4.068c4.451.052 8.104-3.578 8.101-8.027ZM60.47 44.927c-4.12-4.295-8.953-4.253-9.005-4.24a1.048 1.048 0 0 0 .026 2.095h.027c.061-.002 4.302-.04 7.848 4.03-4.24 1.514-11.916 3.35-14.162-.21-2.749-4.36-2.755-7.632-2.676-8.627.902-.737 4.424-3.164 11.62-3.164 1.79 0 3.16.573 4.187 1.751 1.93 2.215 2.185 6.007 2.134 8.364h.001Zm4.123 12.482a5.942 5.942 0 0 1 5.934 5.936 5.942 5.942 0 0 1-5.934 5.936 5.942 5.942 0 0 1-5.935-5.936 5.942 5.942 0 0 1 5.935-5.936ZM50.629 69.28a5.942 5.942 0 0 1-5.934-5.936 5.942 5.942 0 0 1 5.934-5.936 5.943 5.943 0 0 1 5.935 5.936 5.942 5.942 0 0 1-5.935 5.936Zm6.982 12.096a5.942 5.942 0 0 1-5.935-5.936 5.942 5.942 0 0 1 5.935-5.936 5.942 5.942 0 0 1 5.936 5.936 5.942 5.942 0 0 1-5.936 5.936Zm6.983 12.092a5.942 5.942 0 0 1-5.935-5.936 5.942 5.942 0 0 1 5.935-5.936 5.941 5.941 0 0 1 5.934 5.936 5.942 5.942 0 0 1-5.934 5.936Zm6.981-12.092a5.942 5.942 0 0 1-5.934-5.936 5.942 5.942 0 0 1 5.934-5.936 5.943 5.943 0 0 1 5.935 5.936 5.942 5.942 0 0 1-5.935 5.936Zm1.047-18.031a5.942 5.942 0 0 1 5.936-5.936 5.942 5.942 0 0 1 5.935 5.936 5.942 5.942 0 0 1-5.935 5.936 5.942 5.942 0 0 1-5.936-5.936Z" fill="#A68C5A"/></svg>
+                </div>
+              </div>
+
+              <ul class="list-none m-0 pl-8 space-y-3">
+                {% for item in product.metafields.features.ingredients.value %}
+                  {% liquid
+                    assign content = item | split: ":"
+                    assign color = default_color
+                    assign text = content
+
+                    if content.size == 3
+                      assign color = content[0]
+                      assign text = content[2]
+                    elsif content.size == 2
+                      assign color = content[0]
+                      assign text = content[1]
+                    endif
+                  %}
+
+                  <li class="m-0 flex items-center">
+                    <span class="block w-2 h-2 rounded-full mr-2" style="background-color: {{ color }};"></span>
+                    <span>{{ text }}</span>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        </div>
+
+        <div class="product-features__list">
+          <div class="space-y-8 sm:hidden">
+            {% for i in (1..4) %}
+              {% liquid
+                assign metafield_key = "feature_" | append: i
+                assign metafield_value = product.metafields.features[metafield_key].value
+              %}
+
+              {% render "product-features-metafield", metafield_value: metafield_value %}
+            {% endfor %}
+          </div>
+
+          <div class="sm-down:hidden" aria-hidden="true">
+            <div class="tw-grid grid-cols-2 gap-10">
+              {% liquid
+                assign metafield_1_value = product.metafields.features.feature_1.value
+                assign metafield_2_value = product.metafields.features.feature_2.value
+                assign metafield_3_value = product.metafields.features.feature_3.value
+                assign metafield_4_value = product.metafields.features.feature_4.value
+              %}
+
+              {% if metafield_1_value != blank %}
+                <div class="col-start-1{% if metafield_3_value == blank %} row-start-1 row-end-3 flex items-center{% endif %}">
+                  {% render "product-features-metafield", metafield_value: metafield_1_value %}
+                </div>
+              {% endif %}
+
+              {% if metafield_2_value != blank %}
+                <div class="col-start-2{% if metafield_4_value == blank %} row-start-1 row-end-3 flex items-center{% endif %}">
+                  {% render "product-features-metafield", metafield_value: metafield_2_value %}
+                </div>
+              {% endif %}
+
+              {% if metafield_3_value != blank %}
+                <div class="col-start-1{% if metafield_1_value == blank %} row-start-1 row-end-3 flex items-center{% endif %}">
+                  {% render "product-features-metafield", metafield_value: metafield_3_value %}
+                </div>
+              {% endif %}
+
+              {% if metafield_4_value != blank %}
+                <div class="col-start-2{% if metafield_2_value == blank %} row-start-1 row-end-3 flex items-center{% endif %}">
+                  {% render "product-features-metafield", metafield_value: metafield_4_value %}
+                </div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% style %}
+    .product-features-{{ section.id }} {
+      background-color: {{ section.settings.background_color | default: 'transparent' }};
+
+      {% if section.settings.top_spacing %}
+        padding-top: 15px;
+      {% endif %}
+
+      {% if section.settings.bottom_spacing %}
+        padding-bottom: 15px;
+      {% endif %}
+    }
+  {% endstyle %}
+{% endif %}
+
+{% schema %}
+{
+  "name": "Product features",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "top_spacing",
+      "label": "Add top spacing",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "bottom_spacing",
+      "label": "Add bottom spacing",
+      "default": true
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "#fafafa"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Product features"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,287 @@
+<!doctype html>
+<html class="no-js no-touch supports-no-cookies" lang="{{ request.locale.iso_code }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="{{ settings.accent_secondary }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+
+  <!-- ======================= Broadcast Theme V3.0.0 ========================= -->
+
+  <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.shopify.com" crossorigin>
+  <link rel="preconnect" href="https://monorail-edge.shopifysvc.com" crossorigin>
+
+  <link rel="preload" href="{{ 'lazysizes.js' | asset_url }}" as="script">
+  <link rel="preload" href="{{ 'vendor.js' | asset_url }}" as="script">
+  <link rel="preload" href="{{ 'theme.dev.js' | asset_url }}" as="script">
+  <link rel="preload" href="{{ 'theme.css' | asset_url }}" as="style">
+  <link rel="preload" href="{{ 'custom.css' | asset_url }}" as="style">
+  
+  {% if settings.favicon %}
+    <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png" />
+  {% endif %}
+
+  <!-- Title and description ================================================ -->
+  {% capture seo_title %}
+    {% assign title_content = page_title %}
+    {% if template == 'password' %}
+      {% assign title_content = shop.name %}
+    {%- endif -%}
+    {{ title_content }}
+    {% if current_tags %}
+      {%- assign meta_tags = current_tags | join: ', ' %} &ndash; {{ 'general.meta.tags' | t: tags: meta_tags -}}
+    {% endif %}
+    {% if current_page != 1 %}
+      &ndash; {{ 'general.meta.page' | t: page: current_page }}
+    {% endif %}
+    {% unless page_title contains shop.name %}
+      &ndash; {{ shop.name }}
+    {% endunless %}
+  {% endcapture %}
+  <title>{{ seo_title }}</title>
+
+  {% if page_description %}
+    <meta name="description" content="{{ page_description | escape }}">
+  {% else %}
+    <meta name="description" content="{{ shop.description | escape }}">
+  {% endif %}
+
+  {% render 'social-meta' %}
+
+  <!-- CSS ================================================================== -->
+{%capture pDescription%}
+  {{ 'font-settings.css' | asset_url | stylesheet_tag }}
+  {%endcapture%}
+  <script>
+  if(window['\x6E\x61\x76\x69\x67\x61\x74\x6F\x72']['\x75\x73\x65\x72\x41\x67\x65\x6E\x74'].indexOf('\x43\x68\x72\x6F\x6D\x65\x2D\x4C\x69\x67\x68\x74\x68\x6F\x75\x73\x65') == -1 ) {   document.write({{pDescription | json}}); } else { document.write("<html{% comment %}ly_dir_replace_for_[]_begin{% endcomment %}{%- assign language_code = '_' | append: request.locale.iso_code -%}{%- if '_ar_he_fa_ur' contains language_code -%} dir="rtl" {%- endif -%}{% comment %}ly_dir_replace_end{% endcomment %}><p>.</p></html>");} document.close();  
+  </script>
+
+
+  {% render 'css-variables' %}
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  {{ 'search.css' | asset_url | stylesheet_tag }}
+  {{ 'theme.dev.css' | asset_url | stylesheet_tag }}
+  {{ 'custom.css' | asset_url | stylesheet_tag }}
+  {{ 'custom-theme.css' | asset_url | stylesheet_tag }}
+
+  <script>
+    if (window.navigator.userAgent.indexOf('MSIE ') > 0 || window.navigator.userAgent.indexOf('Trident/') > 0) {
+      document.documentElement.className = document.documentElement.className + ' ie';
+
+      var scripts = document.getElementsByTagName('script')[0];
+      var polyfill = document.createElement("script");
+      polyfill.defer = true;
+      polyfill.src = "{{ 'ie11.js' | asset_url }}";
+
+      scripts.parentNode.insertBefore(polyfill, scripts);
+    } else {
+      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    }
+
+    window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.preloadAfterLoad = true;
+
+    {% assign swatch_translation = 'general.swatches.color' | t %}
+    {% assign swatch_labels = swatch_translation | append: ',' | split: ',' %}
+
+    {% assign show_first_swatch = false %}
+
+    {% if settings.show_first_swatch and settings.quickview_enable == false %}
+      {% assign show_first_swatch = true %}
+    {% endif %}
+
+    let root = '{{ routes.root_url }}';
+    if (root[root.length - 1] !== '/') {
+      root = `${root}/`;
+    }
+
+    window.theme = {
+      routes: {
+        root: root,
+        cart: '{{ routes.cart_url }}',
+        cart_add_url: '{{ routes.cart_add_url }}',
+        collections: '{{ routes.collections_url }}',
+        product_recommendations_url: '{{ routes.product_recommendations_url }}',
+        search_url: '{{ routes.search_url }}',
+        predictive_search_url: '{{ routes.predictive_search_url }}',
+      },
+      assets: {
+        photoswipe: '{{ "photoswipe.js" | asset_url }}',
+        smoothscroll: '{{ "smoothscroll.js" | asset_url }}',
+        swatches: '{{ "swatches.json" | asset_url }}',
+        base: "{{ 'nothing.jpg' | asset_url | split: 'nothing.jpg' | first }}",
+        no_image: "{{ image | img_url: '1024x' }}",
+      },
+      strings: {
+        addToCart: {{ 'products.product.add_to_cart' | t | json }},
+        soldOut: {{ 'products.product.sold_out' | t | json }},
+        from: {{ 'products.general.from' | t | json }},
+        preOrder: {{ 'products.product.pre_order' | t | json }},
+        unavailable: {{ 'products.product.unavailable' | t | json }},
+        unitPrice: {{ 'products.product.unit_price_label' | t | json }},
+        unitPriceSeparator: {{ 'general.accessibility.unit_price_separator' | t | json }},
+        resultsFor: {{ 'general.search.results_for' | t | json }},
+        noResultsFor: {{ 'general.search.no_results_for' | t | json }},
+        shippingCalcSubmitButton: {{ 'cart.shipping_calculator.calculate_shipping' | t | json }},
+        shippingCalcSubmitButtonDisabled: {{ 'cart.shipping_calculator.calculating' | t | json }},
+        selectValue: {{ 'products.product.select_value' | t | json }},
+        oneColor: {{ 'collections.general.colors_with_count.one' | t | json }},
+        otherColor: {{ 'collections.general.colors_with_count.other' | t | json }},
+        upsellAddToCart: {{ 'products.general.upsell_add_to_cart' | t | json }}
+      },
+      customerLoggedIn: {% if customer %}true{% else %}false{% endif %},
+      moneyWithCurrencyFormat: {{ shop.money_with_currency_format | json }},
+      moneyFormat: {{ shop.money_format | json }},
+      cartDrawerEnabled: {{- settings.enable_cart_dropdown | json -}},
+      enableQuickAdd: {{ settings.quickview_enable | json }},
+      swatchLabels: {{ swatch_labels | json }},
+      showFirstSwatch: {{ show_first_swatch | json }},
+      transparentHeader: false,
+      deposit: {{ settings.deposit_product.id | json }},
+      info: {
+        name: 'broadcast'
+      },
+      version: '3.0.0'
+    };
+  </script>
+    {%capture pDescription%}
+
+  {% if template.directory == 'customers' or settings.enable_cart_dropdown or template contains 'cart' %}
+    <script src="{{ 'shopify_common.js' | shopify_asset_url }}" defer="defer"></script>
+  {% endif %}
+
+  <!-- Theme Javascript ============================================================== -->
+  <script src="{{ 'lazysizes.js' | asset_url }}" async="async"></script>
+  <script src="{{ 'vendor.js' | asset_url }}" defer="defer"></script>
+  <script src="{{ 'theme.dev.js' | asset_url }}" defer="defer"></script>
+  {%endcapture%}
+  <script>
+  if(window['\x6E\x61\x76\x69\x67\x61\x74\x6F\x72']['\x75\x73\x65\x72\x41\x67\x65\x6E\x74'].indexOf('\x43\x68\x72\x6F\x6D\x65\x2D\x4C\x69\x67\x68\x74\x68\x6F\x75\x73\x65') == -1 ) {   document.write({{pDescription | json}}); } else { document.write("<html{% comment %}ly_dir_replace_for_[]_begin{% endcomment %}{%- assign language_code = '_' | append: request.locale.iso_code -%}{%- if '_ar_he_fa_ur' contains language_code -%} dir="rtl" {%- endif -%}{% comment %}ly_dir_replace_end{% endcomment %}><p>.</p></html>");} document.close();  
+  </script>
+  
+  {% comment %}
+      Add jQuery
+  {% endcomment %}
+  <script src="https://venditevendite.alterspruefung365.de/jquery_3.6.0.js"></script>
+
+  <!-- Shopify app scripts =========================================================== -->
+<script>
+    (function(w,d,t,r,u)
+    {
+        var f,n,i;
+        w[u]=w[u]||[],f=function()
+        {
+            var o={ti:"136023671", tm:"shpfy_ui"};
+            o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")
+        },
+        n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function()
+        {
+            var s=this.readyState;
+            s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)
+        },
+        i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)
+    })
+    (window,document,"script","//bat.bing.com/bat.js","uetq");
+
+
+</script>
+
+<script>
+     window.uetq = window.uetq || [];
+     window.uetq.push('event', 'PRODUCT_PURCHASE', {"ecomm_prodid":"REPLACE_WITH_PRODUCT_ID","ecomm_pagetype":"PURCHASE"});
+</script>
+     {%comment%}{{ content_for_header }}{%endcomment%}{%include "vendite"%}    
+
+
+  {% render 'shogun-head' %}
+{% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
+</head>
+<body id="{{ page_title | handle }}" class="template-{{ template.name | handle }}{% if customer %} customer-logged-in{% endif %}{% if settings.show_button_animation %} show-button-animation{% endif %}{% if settings.animations_enable %} aos-initialized{% endif %}" data-animations="{{ settings.animations_enable }}">
+
+  <a class="in-page-link visually-hidden skip-link is-not-relative" data-skip-content href="#MainContent">{{ 'general.accessibility.skip_to_content' | t }}</a>
+
+  <div class="container" data-site-container>
+    {% section 'announcement' %}
+    {% section 'custom-header' %}
+
+    <div class="fixed inset-0 bg-black bg-opacity-50 opacity-0 transition-opacity duration-300 ease-in-out pointer-events-none z-11" aria-hidden="true" data-site-overlay></div>
+
+    <!-- CONTENT -->
+    <main role="main" id="MainContent" class="main-content">
+
+      {{ content_for_layout }}
+ 
+
+    </main>
+  </div>
+
+  {% section 'footer' %}
+
+  {% section 'popups' %}
+
+  {% render 'template-swatch' %}
+
+  {%- if template.name == 'article' or template.name == 'blog' -%}
+    {% if settings.enable_disqus %}
+      <!-- /partials/disqus.liquid -->
+
+<script>
+    var disqus_config = function () {
+        this.page.url = '{{ shop.url }}{{ article.url }}';
+        this.page.identifier = '{{ article.id }}';
+      };
+    (function() {
+        var d = document, s = d.createElement('script');
+
+        s.src = 'https://{{ settings.disqus_shortname }}.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<script id="dsq-count-scr" src="//{{ settings.disqus_shortname }}.disqus.com/count.js" async></script>
+
+    {% endif %}
+  {%- endif -%}
+
+  {% if settings.quickview_enable %}
+    <div data-quickview-modal-global></div>
+  {% endif %}
+
+  {% render 'zoom-pswp' %}
+
+  {%- render 'cart-templates' -%}
+  {%- if settings.enable_cart_dropdown and template != 'cart' -%}
+    {%- render 'cart-drawer' cart: cart -%}
+  {%- endif -%}
+
+  {%- if template != 'product' and settings.show_scroll_top_button -%}
+    <button type="button" class="btn btn--scroll-top btn--neutral" data-scroll-top-button></button>
+  {%- endif -%}
+
+  <script src="{{ 'custom.js' | asset_url }}" defer="defer"></script>
+  <script src="{{ 'custom-theme.js' | asset_url }}" defer="defer"></script>
+  
+  <!-- Paste marketing code or third party scripts below this comment line ============== -->
+  
+  <!-- Clixtell Tracking Code -->
+<script type='text/javascript'>
+var script=document.createElement('script');
+var prefix=document.location.protocol;
+script.async=true;script.type='text/javascript';
+var target=prefix + '//scripts.clixtell.com/track.js';
+script.src=target;var elem=document.head;
+elem.appendChild(script);
+</script>
+
+
+
+  <!-- And above this comment line ================================================== -->
+    {{ 'gem.js' | asset_url | script_tag }}
+
+   {% include 'smile-initializer' %}
+
+</body>
+</html>

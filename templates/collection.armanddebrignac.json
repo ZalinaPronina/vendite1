@@ -1,0 +1,259 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1882_ArmandDeBrignac_2.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Armand de Brignac",
+            "text": "<p>Armand de Brignac ist Champagner von außergewöhnlicher Qualität, der das Beste vom Besten aus der Region repräsentiert, in der die Familie Cattier seit mehr als 250 Jahren Wein anbaut.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "mehr erfahren",
+            "button_url": "shopify:\/\/blogs\/cover\/armand-de-brignac-champagner-die-geschichte",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "1651489843237820a2": {
+      "type": "section-logo-list",
+      "blocks": {
+        "1651489843b02afe6a-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Logo-armand-de-brignac.png",
+            "logo_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "1651489843b02afe6a-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1651489883e86b3d66": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "165148988338d7fdf1-1": {
+          "type": "question",
+          "settings": {
+            "title": "Über Armand de Brignac",
+            "content": "<p>Jean-Jacques Cattier und sein Sohn Alexandre, Winzer in 12. und 13. Generation, stellen die Prestige-Cuvées von <a href=\"https:\/\/armanddebrignac.com\/\" target=\"_blank\" title=\"Armand de Brignac Homepage\">Armand de Brignac<\/a> her. Ihr Traum war es, einen Champagner von außergewöhnlicher Qualität zu kreieren, der das Beste vom Besten aus der Region repräsentiert, in der ihre Familie seit mehr als 250 Jahren Reben anbaut.<\/p><p>Die Familie Cattier ist in der Montagne de Reims ansässig und besitzt 33 Hektar Weinberge in einigen der meistgelobten Crus der Champagne, darunter die Dörfer Rilly-la-Montagne, Chigny-les-Roses und Ludes.<\/p><p>Eine Gruppe von nur 18 hochqualifizierten Personen berührt eine Flasche Champagne <a href=\"https:\/\/venditevendite-shop.de\/collections\/armand-de-brignac\" target=\"_blank\" title=\"Armand de Brignac Collection\">Armand de Brignac<\/a>, vom Pressen der Früchte bis zu dem Moment, in dem die Flaschen die Keller verlassen. Von der Handlese der Trauben bis zum Polieren der Flaschen und dem Aufbringen der Etiketten aus französischem Zinn wird jeder Schritt des Prozesses von Menschenhand geleitet. Ohne Massendruck konzentriert sich das Team von Champagne Armand de Brignac auf jedes kleine Detail, um bei jedem Schritt höchste Qualität zu gewährleisten.<\/p><p>Armand de Brignac verwendet nur den allerersten und frischesten Teil der Cuvée-Presse, um den bestmöglichen Champagner herzustellen. Diese intensive Selektivität und akribische Liebe zum Detail sorgen dafür, dass der Saft einen lebendigen Fruchtcharakter, eine weiche Textur und einen ausgewogenen Säuregehalt aufweist.<\/p><p>Jede Flasche Champagner Armand de Brignac wird mit einer einzigartigen Dosage veredelt, die aus dem besten Grundwein der Ernte besteht und ein Jahr lang in neuer französischer Eiche reift. Diese Weinbereitung verleiht den fertigen Cuvées eine subtile Komplexität mit Anklängen an Gebäck, Vanille und Röstaromen.<\/p><p>Armand de Brignac verfügt über die umfangreichste Sammlung großformatiger Flaschen aller Prestige-Champagnerhäuser, von der 1,5-Liter-Magnum bis zur äußerst seltenen und nur auf Bestellung hergestellten 30-Liter-Midas.<\/p><p>Die 30 Liter Midas Flasche von Armand de Brignac wiegt 45 Kilogramm.<\/p><p>Armand de Brignac stellt mit der 15 Liter <em>Rosé Nebukadnezar<\/em> auch die größte Rosé Champagnerflasche der Welt her.<\/p>"
+          }
+        },
+        "165148988338d7fdf1-2": {
+          "type": "question",
+          "settings": {
+            "title": "Für was steht Armand de Brignac ?",
+            "content": "<p>In den 1950er Jahren entdeckte Nelly Cattier, die Mutter von Jean-Jacques, in einem Roman, den sie gerade las, eine Figur namens \"M.<strong>De Brignac<\/strong>'. Sie fand den Namen edel und registrierte ihn, um ihn in Zukunft für einen neuen Wein zu verwenden. Der Name war lange Zeit in Vergessenheit geraten, und bei der Kreation dieses neuen Tête de Cuvée des Hauses Anfang der 2000er Jahre beschloss Jean-Jacques, seiner Mutter Tribut zu zollen, indem er diesen besonderen Namen annahm.<\/p>"
+          }
+        },
+        "165148988338d7fdf1-3": {
+          "type": "question",
+          "settings": {
+            "title": "Besondere Auszeichnungen",
+            "content": "<p>In einer Blindverkostung der Fachzeitschrift \"Fine Champagne Magazine\" im Jahre 2009 bei der 1.000 Champagnermarken bewertete wurden erhielt der Armand de Brignac Brut Gold die Auszeichnung als \"bester Champagner der Welt\".<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165148988338d7fdf1-1",
+        "165148988338d7fdf1-2",
+        "165148988338d7fdf1-3"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--small",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "165693860632e3a653": {
+      "type": "section-custom-content",
+      "blocks": {
+        "165693860640d63b59-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/armanddebrignac.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "165693860640d63b59-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Über Armand de Brignac",
+            "text": "<p>Jean-Jacques Cattier und sein Sohn Alexandre, Winzer in 12. und 13. Generation, stellen die Prestige-Cuvées von Armand de Brignac her. Ihr Traum war es, einen Champagner von außergewöhnlicher Qualität zu kreieren, der das Beste vom Besten aus der Region repräsentiert, in der ihre Familie seit mehr als 250 Jahren Reben anbaut.  Die Familie Cattier ist in der Montagne de Reims ansässig und besitzt 33 Hektar Weinberge in einigen der meistgelobten Crus der Champagne, darunter die Dörfer Rilly-la-Montagne, Chigny-les-Roses und Ludes.  Eine Gruppe von nur 18 hochqualifizierten Personen berührt eine Flasche Champagne Armand de Brignac, vom Pressen der Früchte bis zu dem Moment, in dem die Flaschen die Keller verlassen. Von der Handlese der Trauben bis zum Polieren der Flaschen und dem Aufbringen der Etiketten aus französischem Zinn wird jeder Schritt des Prozesses von Menschenhand geleitet. Ohne Massendruck konzentriert sich das Team von Champagne Armand de Brignac auf jedes kleine Detail, um bei jedem Schritt höchste Qualität zu gewährleisten.  Das Weingut verwendet nur den allerersten und frischesten Teil der Cuvée-Presse, um den bestmöglichen Champagner herzustellen. Diese intensive Selektivität und akribische Liebe zum Detail sorgen dafür, dass der Saft einen lebendigen Fruchtcharakter, eine weiche Textur und einen ausgewogenen Säuregehalt aufweist.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "165693860640d63b59-0",
+        "165693860640d63b59-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1656938715f00321bb": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16569387159be764bc-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Für was steht Armand de Brignac ?",
+            "text": "<p>In den 1950er Jahren entdeckte Nelly Cattier, die Mutter von Jean-Jacques, in einem Roman, den sie gerade las, eine Figur namens \"M.De Brignac'. Sie fand den Namen edel und registrierte ihn, um ihn in Zukunft für einen neuen Wein zu verwenden. Der Name war lange Zeit in Vergessenheit geraten, und bei der Kreation dieses neuen Tête de Cuvée des Hauses Anfang der 2000er Jahre beschloss Jean-Jacques, seiner Mutter Tribut zu zollen, indem er diesen besonderen Namen annahm.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "756c3faf-21ed-48f8-85e0-d8d83be73089": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Besondere Auszeichnungen",
+            "text": "<p>In einer Blindverkostung der Fachzeitschrift \"Fine Champagne Magazine\" im Jahre 2009 bei der 1.000 Champagnermarken bewertete wurden erhielt der Armand de Brignac Brut Gold die Auszeichnung als \"bester Champagner der Welt\".<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16569387159be764bc-1",
+        "756c3faf-21ed-48f8-85e0-d8d83be73089"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "1651489843237820a2",
+    "hero",
+    "1651489883e86b3d66",
+    "165693860632e3a653",
+    "1656938715f00321bb"
+  ]
+}

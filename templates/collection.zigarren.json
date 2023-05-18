@@ -1,0 +1,318 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-976927634.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Zigarren",
+            "text": "<p>Ausgewählte Zigarren der renommiertesten Hersteller der Welt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 4,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "1662032024273a7fe8": {
+      "type": "section-collections-list",
+      "disabled": true,
+      "blocks": {
+        "16620320249abd8475-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "plasencia",
+            "title": ""
+          }
+        },
+        "16620320249abd8475-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "alec-bradley",
+            "title": ""
+          }
+        },
+        "16620320249abd8475-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "oliva",
+            "title": ""
+          }
+        },
+        "19e202dd-d336-49f4-bebb-833f83490f41": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "16620320249abd8475-0",
+        "16620320249abd8475-1",
+        "16620320249abd8475-2",
+        "19e202dd-d336-49f4-bebb-833f83490f41"
+      ],
+      "settings": {
+        "title": "Unsere Marken",
+        "description": "",
+        "layout": "grid",
+        "aspect_ratio": 0.5,
+        "text_center": true,
+        "enable_slider": true
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "16620338728a4175c4": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "Otto von Bismarck",
+        "title": "",
+        "text": "<p>\"Man sollte immer erst eine Zigarre rauchen, ehe man die Welt umdreht.\"<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "1662032199714a4f2b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1662032198bdd79eb0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iStock-872182314.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1662032198bdd79eb0-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Geschichte der",
+            "title": "Zigarre",
+            "text": "<p>Die Zigarre hat vermutlich Ihren Ursprung in Südamerika. Dort wird schon seit Jahrtausenden Tabak in vielen Formen geraucht. Auch die indigene Völker Südamerikas nutzen Tabak bei Ihren sakralen Ritualen, durch die Ihre Priester mit den Göttern in Kontakt treten konnten. Die weltweite Verbreitung der Zigarre als Konsumprodukt geht aber wohl eher auf die Kolonialzeit zurück. Im 15.\/16. Jahrhundert soll der erste Europäer, der mit Tabak in Kontakt gekommen ist, Christoph Columbus auf seiner Reise in Kuba gewesen sein. Im 18. Jahrhundert brachten dann britische Seeleute & Soldaten die kubanischen Zigarren in die nordamerikanischen Kolonialgebiete. Dort wurden daraufhin eigene Plantagen errichtet und Zigarren hergestellt.  Heute wird der Tabak für die Zigarrenproduktion nicht nur in Süd – bzw. Mittelamerika angebaut. Zigarren aus Honduras, Nicaragua, Brasilien sowie der Dominikanischen Republik erfreuen sich einer großen Popularität und überzeugen mit höchster Qualität. Vor allem die schwierigen Zeiten um den Unabhängigkeitskrieg in Kuba zwang viele Zigarren – und Tabakproduzenten zum Umsiedeln Ihrer Standorte. Historische Marken wie <a href=\"https:\/\/venditevendite-shop.de\/collections\/oliva\" title=\"Oliva Zigarren\">Oliva<\/a> und <a href=\"https:\/\/venditevendite-shop.de\/collections\/plasencia\" title=\"Plasencia Zigarren\">Plasencia<\/a>, der größte Tabakproduzent der Welt, haben aufgrund der Krisen in Kuba Ihren Standort nach Nicaragua verlegt.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1662032198bdd79eb0-0",
+        "1662032198bdd79eb0-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "166203427716f375bc": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16620342779f8e26a4-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Herstellung von",
+            "title": "Zigarren",
+            "text": "<p>Die Tabakpflanzen werden im Gewächshaus ausgesät und nach sechs bis 10 Wochen auf die Felder verpflanzt. Die Pflanzen werden sorgfältig beschnitten, damit die Blätter auf die erforderliche Größe anwachsen. Die Pflanzen, die das Deckblatt für Zigarren liefern, werden in der Regel mit einem Tuch abgedeckt, um sie vor der Sonne zu schützen.<\/p><p>Nach der Ernte müssen die Tabakblätter getrocknet werden, damit sie ihr charakteristisches Aroma entfalten können. Die Blätter sind getrocknet, wenn sie von hellgrünen, flexiblen, frischen Blättern zu getrockneten, braunen oder gelblichen Blättern geworden sind.<\/p><p>Während dieses Zeitraums durchlaufen die Blätter chemische <br\/>Veränderungen, die als Gärung bezeichnet werden. Während der Fermentation entwickeln sich das Aroma und der Geschmack des Blattes. Anschließend muss bei den Einlageblättern die Hauptader (oder der Stiel) entfernt werden, da die Zigarre sonst nicht gleichmäßig abbrennt. Dies kann von Hand oder maschinell geschehen. Die entrippten Blätter werden in Ballen gewickelt und zur weiteren Gärung gelagert. Abschließend folgt das Rollen der Zigarre. Gute Zigarren werden von Hand gerollt. Das Drehen von Zigarren ist Facharbeit: Es kann ein Jahr dauern, bis ein Zigarrenroller sein Handwerk beherrscht.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "16620342779f8e26a4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zigarren_Herstellung.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16620342779f8e26a4-1",
+        "16620342779f8e26a4-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1662035553c2d06765": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1662035553e1f3bde4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zigarren-Lagerung.jpg",
+            "bg_position": "right-center",
+            "overlay_opacity": 20,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1662035553e1f3bde4-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Das Zigarren Handbuch",
+            "title": "Wie sollten Zigarren gelagert werden?",
+            "text": "<p>Als erstes sollte man wissen, dass Zigarren in einem Humidor  bleiben sollten, bis sie zum Rauchen bereit sind. Ein Humidor ist ganz einfach ein Aufbewahrungsbehälter, der eine kontrollierte Luftzirkulation ermöglicht und mit einem Element ausgestattet ist, das die Luftfeuchtigkeit in einem Bereich von 70 bis 75 Prozent hält; die Innentemperatur sollte in einem engen Bereich von etwa 20 bis 22 Grad Celsius gehalten werden. In einem gut gewarteten Humidor, dessen Atmosphäre der einer tropischen Insel ähnelt, können Zigarren jahrelang aufbewahrt werden. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1662035553e1f3bde4-0",
+        "1662035553e1f3bde4-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "1662032024273a7fe8",
+    "hero",
+    "16620338728a4175c4",
+    "1662032199714a4f2b",
+    "166203427716f375bc",
+    "1662035553c2d06765"
+  ]
+}

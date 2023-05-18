@@ -1,0 +1,140 @@
+{%- liquid
+  assign brand_collections = linklists[section.settings.menu]
+  assign numbers_array = "1,2,3,4,5,6,7,8,9,0" | split: ','
+-%}
+
+{% if brand_collections.links.size > 0 %}
+  <section class="{% if section.settings.top_margin %}mt-8{% endif %}">
+    {% assign first_letters_array = "" %}
+    {% assign brand_collections_array = brand_collections.links | sort: 'title' %}
+
+    {% capture all_collections %}
+      {% for collection in brand_collections_array %}
+        {%- liquid
+          assign start_block = false
+          assign end_block = false
+
+          assign first_letter = collection.title | split: '' | first | downcase
+
+          if numbers_array contains first_letter
+            assign first_letter = "#"
+          endif
+
+          if prev_first_letter and prev_first_letter != first_letter
+            assign end_block = true
+          endif
+
+          assign prev_first_letter = first_letter
+
+          unless first_letters_array contains first_letter
+            assign start_block = true
+          endunless
+        -%}
+
+        {% if end_block %}
+            </ul>
+          </div>
+        {% endif %}
+
+        {% if start_block %}
+          {% assign block_ID = first_letter %}
+
+          {% if block_ID == "#" %}
+            {%- assign block_ID = "hash" -%}
+          {% endif %}
+
+        <div class="relative flex items-center py-8 sm:py-12{% unless forloop.first %} border-0 border-t border-solid{% endunless %}">
+          <span
+            class="visually-hidden"
+            style="top: calc((var(--menu-height) + 48px) * -1);"
+            id="letter-{{ block_ID }}"
+            aria-hidden="true"
+          ></span>
+
+          <div class="w-16 flex-shrink-0">
+            <h2 class="font-heading text-xl m-0">{{ first_letter | upcase }}</h2>
+          </div>
+
+          <ul class="list-none m-0 w-full space-y-2 columns-1 md:columns-2 lg:columns-4 xl:columns-5">
+        {% endif %}
+
+            <li class="w-full">
+              <a class="w-full font-heading hover:text-highlight" href="{{ collection.url }}">{{ collection.title }}</a>
+            </li>
+
+        {%- liquid
+          assign first_letters_array = first_letters_array | append: first_letter | append: ","
+        -%}
+      {% endfor %}
+    {% endcapture %}
+
+    <div class="{{ section.settings.width }}">
+      <div class="sticky z-1 bg-white" style="top: var(--menu-height);">
+        {% assign first_letters_array = first_letters_array | split: "," | uniq %}
+
+        <ul class="list-none m-0 py-2 border-0 border-t border-b border-solid overflow-x-scroll whitespace-nowrap -mt-px md:overflow-x-visible md:whitespace-normal md:flex md:items-center md:justify-center">
+          {% for item in first_letters_array %}
+            {%- assign item_href = item -%}
+
+            {% if item_href == "#" %}
+              {%- assign item_href = "hash" -%}
+            {% endif %}
+
+            <li class="inline-block my-1.5 mx-2">
+              <a class="font-heading text-20 px-2" href="#letter-{{ item_href }}" data-offset="220">
+                {{ item | upcase }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div>
+        {{ all_collections }}
+      </div>
+    </div>
+  </section>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Brands",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "top_margin",
+      "label": "Add top spacing"
+    },
+    {
+      "type": "select",
+      "id": "width",
+      "label": "Width",
+      "default": "wrapper",
+      "options": [
+        {
+          "value": "wrapper",
+          "label": "Normal"
+        },
+        {
+          "value": "wrapper--narrow",
+          "label": "Narrow"
+        },
+        {
+          "value": "wrapper--full",
+          "label": "Wide"
+        }
+      ]
+    },
+    {
+      "type": "link_list",
+      "id": "menu",
+      "label": "Menu with brand collections"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Brands"
+    }
+  ]
+}
+{% endschema %}

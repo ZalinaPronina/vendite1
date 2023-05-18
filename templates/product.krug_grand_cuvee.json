@@ -1,0 +1,321 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "price_and_title": {
+          "type": "price_and_title",
+          "settings": {
+            "subheading_option": "collection",
+            "enable_reviews": true
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "subscriptions_enable_selectors": true
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {}
+        },
+        "tabs": {
+          "type": "tab_richtext",
+          "settings": {
+            "style": "accordions",
+            "title_1": "Blend",
+            "raw_content_1": "<p>{{ product.metafields.my_fields.blend | metafield_tag }}<\/p>",
+            "title_2": "Botanicals",
+            "raw_content_2": "<p>{{ product.metafields.my_fields.botanicals | metafield_tag }}<\/p>",
+            "title_3": "Produktinformationen",
+            "raw_content_3": "<p>{{ product.metafields.my_fields.produktinformationen | metafield_tag }}<\/p>",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": ""
+          }
+        },
+        "c235118c-9531-45b4-a9b4-89028847f220": {
+          "type": "sharing",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price_and_title",
+        "form",
+        "pickup",
+        "tabs",
+        "c235118c-9531-45b4-a9b4-89028847f220"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "thumbnails",
+        "image_size": "small",
+        "show_cart_bar": true,
+        "enable_zoom": false,
+        "enable_video_looping": false
+      }
+    },
+    "51d7118e-82ca-42c2-bb1c-a1b996982567": {
+      "type": "section-product-features",
+      "settings": {
+        "top_spacing": true,
+        "bottom_spacing": true,
+        "background_color": "#fafafa"
+      }
+    },
+    "39976b88-a235-4c61-bc29-fd89b16a3a6b": {
+      "type": "section-accordion",
+      "blocks": {
+        "template--16101716427018__39976b88-a235-4c61-bc29-fd89b16a3a6b-168129820904402c10-0": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>{{ product.metafields.my_fields.produktinformationen | metafield_tag }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16101716427018__39976b88-a235-4c61-bc29-fd89b16a3a6b-168129820904402c10-0"
+      ],
+      "settings": {
+        "title": "Produktinformationen"
+      }
+    },
+    "1645186002d2d27b70": {
+      "type": "section-logo-list",
+      "blocks": {
+        "164518600297fd1825-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/krug_champagne_logo_gold.jpg",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "164518600297fd1825-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "164517964973571f1e": {
+      "type": "section-custom-content",
+      "blocks": {
+        "164517964933a0874c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/krug_grand_cuvee_querformat.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "164517964933a0874c-0"
+      ],
+      "settings": {
+        "height": "image-height",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1645186245f341c246": {
+      "type": "section-custom-content",
+      "blocks": {
+        "16451862453f783de5-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Die Vision von Joseph Krug",
+            "title": "Krug Champagner",
+            "text": "<p>Das Haus wurde 1843 in Reims von Joseph Krug gegründet, einem visionären Nonkonformisten mit einer kompromisslosen Philosophie. Er verstand, dass die wahre Essenz des Champagners der Genuss selbst ist und träumte davon, jedes Jahr den besten Champagner herzustellen, den er anbieten konnte, unabhängig von den jährlichen Klimaveränderungen. Die genaue Beobachtung des Charakters des Weinbergs, der Respekt vor der Individualität jeder Parzelle und ihres Weins sowie der Aufbau einer umfangreichen Bibliothek von Reserveweinen aus vielen verschiedenen Jahren ermöglichten es Joseph Krug, seinen Traum zu verwirklichen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "16451862453f783de5-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16486423113bce3307": {
+      "type": "text-promo",
+      "blocks": {
+        "1648642311dc9a34d9-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Cocktail Empfehlung"
+          }
+        }
+      },
+      "block_order": [
+        "1648642311dc9a34d9-0"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#ffffff",
+        "text_color": "text-dark",
+        "width": "",
+        "bg_position": "center-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "164864225964896596": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1648642259368349e1-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Header_6.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1648642259368349e1-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Old Cuban",
+            "text": "<p>• 4,5 cl Bacardi 8 Anejo<br\/><br\/>• 2 cl Limettensaft<br\/><br\/>• 3 cl Zuckersirup<br\/><br\/>• 2 dashes Angostura<br\/><br\/>• 6 Minzblätter<br\/><br\/>• 6 cl Champagner<\/p><p>---<br\/>Limettensaft, Sirup und Minze im Mixer andrücken. Bitters, Rum & Eis hinzugeben und schütteln. In Glas abseihen und mit Champagner toppen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1648642259368349e1-0",
+        "1648642259368349e1-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "shipping": {
+      "type": "section-accordion",
+      "blocks": {
+        "shipping-0": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shipment",
+            "icon_color": "#ab8c52",
+            "title": "Schneller Versand",
+            "text": "<p>Alle Bestellungen vor 14 Uhr werden noch am selben Tag versandt. In der Regel sind alle Bestellungen inerhalb von 1-3 Tagen bei Ihnen.<\/p>"
+          }
+        },
+        "shipping-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-lock-card",
+            "icon_color": "#ab8c52",
+            "title": "Sichere Bezahlung",
+            "text": "<p>Durch 256-Bit Verschlüsselung und 3D Secure Checkouts.<br\/><br\/><\/p>"
+          }
+        },
+        "shipping-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_color": "#ab8c52",
+            "title": "Du hast Fragen?",
+            "text": "<p>Solltest du Fragen haben, so zöger nicht mit uns in Kontakt zu treten. Wir helfen dir gerne!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "shipping-0",
+        "shipping-1",
+        "shipping-2"
+      ],
+      "settings": {
+        "title": "Versand & Zahlung"
+      }
+    },
+    "reviews": {
+      "type": "reviews",
+      "disabled": true,
+      "settings": {
+        "enable_accordion": true
+      }
+    },
+    "related": {
+      "type": "related",
+      "settings": {
+        "related_products_enable": true,
+        "limit": 4,
+        "product_recommendations_heading": "Ähnliche Produkte",
+        "show_recently_viewed": false,
+        "product_recently_limit": 4,
+        "product_recently_heading": "Zuletzt angesehen"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "51d7118e-82ca-42c2-bb1c-a1b996982567",
+    "39976b88-a235-4c61-bc29-fd89b16a3a6b",
+    "1645186002d2d27b70",
+    "164517964973571f1e",
+    "1645186245f341c246",
+    "16486423113bce3307",
+    "164864225964896596",
+    "shipping",
+    "reviews",
+    "related"
+  ]
+}

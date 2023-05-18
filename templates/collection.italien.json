@@ -1,0 +1,210 @@
+{
+  "sections": {
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": false,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/weine_aus_italien.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Weine aus Italien",
+            "text": "<p>Entdecken Sie ausgewählte Weine aus Italiens besten Regionen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "disabled": true,
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/domainesott.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "16515834673f4d5591": {
+      "type": "page-faq",
+      "disabled": true,
+      "blocks": {
+        "1651583467a4786298-1": {
+          "type": "question",
+          "settings": {
+            "title": "Über Domaines Ott",
+            "content": "<p>Im Jahr 1896, nach einer Reise durch die vielen Weinberge Frankreichs, fand Marcel Ott, ein junger Diplom-Agraringenieur aus dem Elsass, schließlich ein Weingut, das ihn begeisterte. Marcel Ott kaufte mehrere Weingüter und begann sie zu renovieren, mit dem festen Ziel, große provenzalische Weine aus edlen Rebsorten zu erzeugen. Heute, 120 Jahre später, widmen die Cousins Christian und Jean-François Ott ihr Leben der Liebe ihrer Vorfahren zu dieser Lage. Im Jahr 2004 schlossen sich die Domaines Ott Louis Roederer und seiner fabelhaften Auswahl an Weinhandwerkern an.<\/p><p>Christian und Jean-François betreiben drei Weingüter: Château de Selle, Clos Mireille und Château Romassan. Jedes dieser Güter hat seinen eigenen Charme und seine eigene Persönlichkeit. Jedes von ihnen kann auf seine äußerst eleganten Rosé-, Rot- und Weißweine stolz sein. In ihren Kellern regiert ein einziger souveräner Wein: der berühmte \"Cœur de Grain\".<\/p>"
+          }
+        },
+        "1651583467a4786298-2": {
+          "type": "question",
+          "settings": {
+            "title": "Château de Selle",
+            "content": "<p>Das Château de Selle war das erste Gut, das Marcel Ott 1912 erwarb. Es liegt in Taradeau, in der Nähe von Draguignan, auf einem Boden, auf dem früher nur Oliven, Lavendel und Maulbeerbäume wuchsen. Nicht weit von der Abtei Thoronet entfernt, in der Nähe einer ehemaligen Residenz der Grafen der Provence aus dem 18. Jahrhundert, besteht der Boden aus Gips, rotem Ton, Dolomit und Sandstein, vermischt mit Kies und Stein, aus dem heute sehr edle und elegante Weine entstehen. Das Weingut liegt auf hohen Kalksteinhängen im Landesinneren, wo es vor Winterfrösten geschützt ist, und genießt ein Mikroklima mit milden Wintern, frühem Frühling und warmen, trockenen Sommern, die stets von viel Sonnenschein begleitet werden.<br\/><br\/>Die Reben werden in gleicher Weise auf terrassierten Weinbergen angebaut. Die Produktion ist konstant, umweltschonend und ausgewogen. Das trockene Klima und die Mineralien des Bodens verleihen den Weinen einen außergewöhnlichen Charakter. Das Durchschnittsalter der Rebstöcke auf Château de Selle liegt bei neunzehn Jahren. Die Weine werden aus einer gelungenen Mischung verschiedener Rebsorten hergestellt, mit denen die Hälfte der 140 Hektar des Weinguts bepflanzt ist: Cabernet Sauvignon verleiht den Weinen Komplexität, Eleganz und eine wunderbare Kraft, Grenache sorgt für eine vollmundige Textur, Cinsault verleiht den Weinen eine zarte und runde Note, während Syrah den Verschnitten seine reiche Farbe verleiht. <br\/><\/p>"
+          }
+        },
+        "1651583467a4786298-3": {
+          "type": "question",
+          "settings": {
+            "title": "Clos Mireille",
+            "content": "<p>In den 1930er Jahren verliebte sich Marcel Ott in ein sehr altes Anwesen, das direkt an der Küste am intensiven Blau des Mittelmeers liegt. Clos Mireille überblickt das Meer in La Londe Les Maures, in der Nähe des Forts von Brégançon. Mit der ganzen Geduld eines leidenschaftlichen Amateurs hat Ott die Weinberge, die von der Gischt des Meeres gekühlt und von der trockenen Luft der Hügel erwärmt wurden, auf dem von Maulbeerbäumen, Olivenbäumen und Schirmkiefern zurückgewonnenen Land neu bepflanzt und gefestigt. In der Nähe des von Benediktinermönchen im 18. Jahrhundert errichteten Gebäudes begannen die Reben schon bald, außergewöhnliche, geschmacksintensive Trauben hervorzubringen, die von Meer und Sonne genährt wurden.<br\/><br\/>Das Durchschnittsalter der Rebstöcke in Clos Mireille liegt bei sechzehn Jahren. Der Boden besteht aus Schiefer. Die Lage des Weinbergs an den Ausläufern des Mittelmeers ist ungewöhnlich. Der Charakter der Weine ist umso außergewöhnlicher, als der Lehmboden auf diesem alten Felsvorsprung keinen Kalkstein enthält. Die breite Ausrichtung zum Meer hin verleiht den Weinen von Clos Mireille ihren unnachahmlichen Charakter. Das Mikroklima und die Gischt des Meeres schaffen perfekte Bedingungen für die Erzeugung subtiler und unverwechselbarer Weine. <br\/><\/p>"
+          }
+        },
+        "196005ba-c48f-416c-8541-9328f100daa4": {
+          "type": "question",
+          "settings": {
+            "title": "Château Romassan",
+            "content": "<p>Das alte Château Romassan, das 1956 von der Familie Ott erworben wurde, brauchte dreißig Jahre harter Arbeit und Erfahrung, um große, für die Appellation Bandol AOC typische Weine zu erzeugen. Es wurde vollständig mit edlen Rebsorten neu bepflanzt, seine kleinen Parzellen wurden neu geordnet und eingeebnet, um terrassenförmige Weinberge zu schaffen. Das prächtige Gebäude aus dem 18. Jahrhundert, das den Weinberg überragt, wurde ebenfalls vollständig renoviert.<br\/><br\/>Das Weingut befindet sich im Westen des Departements Var, im Herzen des berühmten Weinbaugebiets Bandol. Mourvèdre ist die Hauptrebsorte des Weinguts. Sie ist in der Region heimisch und eignet sich besonders gut für das trockene Klima und die kargen Böden. Ihr ruhiges Temperament zeigt sich in der Kraft ihrer Harmonien, ihrer robusten Struktur und ihrer Langlebigkeit am Gaumen und im Keller.<br\/><br\/>In geringeren Mengen werden auch Grenache, Cinsault und Syrah angebaut. Das Durchschnittsalter der Rebstöcke auf den 74 Hektar des Weinguts beträgt 25 Jahre. Die Reben erhalten ihre Persönlichkeit durch die einzigartigen und besonderen Böden des Weinbergs. Dieser einzigartige Boden aus Kreide, Sandstein und Mergel, der mit Kies unterlegt ist, bringt mit seinem sonnenverwöhnten und besonders trockenen Mikroklima anspruchsvolle und sehr kraftvolle Weine hervor. <br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1651583467a4786298-1",
+        "1651583467a4786298-2",
+        "1651583467a4786298-3",
+        "196005ba-c48f-416c-8541-9328f100daa4"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "height": "margin--small",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "165175960371a9c067": {
+      "type": "text-promo",
+      "disabled": true,
+      "blocks": {
+        "165175960292e89942-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Tastings"
+          }
+        },
+        "165175960292e89942-1": {
+          "type": "text",
+          "settings": {
+            "content": "Entdecken Sie das Weingut DOMAINES OTT"
+          }
+        },
+        "165175960292e89942-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Zu den Tastings",
+            "button_url": "https:\/\/www.domaines-ott.com\/en\/contact",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large caps"
+          }
+        }
+      },
+      "block_order": [
+        "165175960292e89942-0",
+        "165175960292e89942-1",
+        "165175960292e89942-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#f7f7f7",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "image": "shopify:\/\/shop_images\/Weintouren.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 50,
+        "overlay_color": "#212121"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515824545765535e",
+    "16515834673f4d5591",
+    "165175960371a9c067"
+  ]
+}

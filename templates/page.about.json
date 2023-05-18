@@ -1,0 +1,303 @@
+{
+  "sections": {
+    "custom-content-1": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image-1-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-uzunov-rostislav-4754883.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "overlay_color": "#000000",
+            "title": "Über uns",
+            "description": "",
+            "flex_align": "align--bottom-right",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image-1-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "subheading": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
+    },
+    "custom-content-2": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image-2-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Geschichte.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--bottom-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "Entdecken",
+            "link": "shopify:\/\/collections",
+            "button_color": "btn--black",
+            "button_style": "caps--large"
+          }
+        },
+        "text-2-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Unsere Philosophie",
+            "text": "<p>Wir haben es uns zur Aufgabe gemacht, die außergewöhnlichen und besonderen Weine & Spirituosen der Welt zu Ihnen zu bringen. Wir pflegen Kontakt zu den ausgezeichneten Weinhäusern und Brennereien und sind stets auf der Suche nach neuen Entdeckungen und Trends.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image-2-1",
+        "text-2-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": true,
+        "borders": true,
+        "wrapper": false
+      }
+    },
+    "16473413233f1e84be": {
+      "type": "section-reviews",
+      "blocks": {
+        "1647341323b185d4da-0": {
+          "type": "review",
+          "settings": {
+            "title": "Markus Luttenberger",
+            "review_text": "<p>Das Einkaufserlebnis der Kunden steht bei uns an allererster Stelle. Als Familienunternehmen wollen wir dabei stets nachhaltig sein.<\/p>",
+            "subheading": "Geschäftsführer",
+            "review_url": "",
+            "review_link_name": ""
+          }
+        }
+      },
+      "block_order": [
+        "1647341323b185d4da-0"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "custom-content-4": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "text-4-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "venditevendite",
+            "title": "Unser Versprechen",
+            "text": "<p>Wir sehen es als unsere Pflicht mit einem exzellenten Kundenservice zu überzeugen und dabei stets Nachhaltig zu bleiben.<\/p>",
+            "text_size": 3,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "text-4-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "custom-content-3": {
+      "type": "section-custom-content",
+      "blocks": {
+        "text-3-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Nachhaltigkeit.",
+            "title": "Unser Bestreben",
+            "text": "<p>Nachhaltigkeit ist für uns ein wichtiges Bestreben. <\/p><p>Wir nutzen für alle unsere Pakete den GoGreen Service der DHL. Damit gleichen wir die transportbedingten CO2-Emissionen unserer Paketmengen aus.<\/p><p>Für unser Verpackungsmaterial nutzen wir nur recycelbare Materialen und verzichten komplett auf den Einsatz von Füllmaterialien aus Plastik.<\/p><p><\/p><p>In der Zukunft wollen wir noch  weitere Maßnahmen treffen um unseren Planete zu schützen und unseren CO2 Abdruck zu minimieren. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "mehr erfahren",
+            "button_url": "shopify:\/\/pages\/nachhaltigkeit",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image-3-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-pixabay-414837.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 10,
+            "overlay_color": "#000000",
+            "title": "Nachhaltigkeit.",
+            "description": "Weil unsere Erde unser Kapital ist.",
+            "flex_align": "align--top-right",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "text-3-1",
+        "image-3-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "custom-content-5": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "image-5-2": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "Image with text",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "image-5-1": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "Image with text",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "image-5-2",
+        "image-5-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "custom-content-6": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "product-6-1": {
+          "type": "product",
+          "settings": {
+            "title": "Product Feature",
+            "product": "",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff"
+          }
+        },
+        "review-6-1": {
+          "type": "review",
+          "settings": {
+            "title": "Example Customer",
+            "review": "<p>Use this text to showcase a review from one of your customers.  A great review is honest and speaks to the concerns of your customers.<\/p>",
+            "subheading": "@username",
+            "review_url": "https:\/\/twitter.com\/",
+            "review_link_name": "View on Twitter",
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "product-6-1",
+        "review-6-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "custom-content-1",
+    "main",
+    "custom-content-2",
+    "16473413233f1e84be",
+    "custom-content-4",
+    "custom-content-3",
+    "custom-content-5",
+    "custom-content-6"
+  ]
+}

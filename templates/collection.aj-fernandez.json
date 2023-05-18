@@ -1,0 +1,323 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AJFernandez-Feld-Pferd.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 25,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "AJ Fernandez",
+            "text": "<p>Aufgewachsen in Kuba und durchdrungen von der reichen Tradition des Fernandez Zigarrenerbes, produziert AJ Fernandez unvergleichliche Premium-Zigarren in Esteli, Nicaragua. Die täglichen Abläufe in der Tabacalera AJ Fernandez werden unter dem wachsamen Auge von AJ selbst verwaltet, um höchste Qualität zu gewährleisten.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/AJ_Fernandez_Logo.png",
+            "logo_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "622085cb-71ac-40dc-a042-9529c98b40e2": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16121928876298__622085cb-71ac-40dc-a042-9529c98b40e2-1669308767fe3cbc69-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AJ_Fernandez_1.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16121928876298__622085cb-71ac-40dc-a042-9529c98b40e2-1669308767fe3cbc69-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "AJ Fernandez",
+            "text": "<p>Ein familienorientiertes Zigarrenunternehmen mit Sitz in Miami, Florida. Die Zigarren werden von <a href=\"https:\/\/ajfcigars.com\/about-us\/\" title=\"Über AJ Fernandez \">AJ Fernandez<\/a> persönlich gemischt. Jede Zigarre ist ein einzigartiges Raucherlebnis, ein Beweis für AJs Talent als Tabakpflanzer und Blender. Alle Komponenten jeder Mischung werden nach Stärke, Aroma und Geschmack ausgewählt, um ein sanftes und ausgewogenes Raucherlebnis zu erreichen. AJ Fernandez ist wahrlich ein Meister der feinen Kunst, eine Zigarre auszubalancieren und findet immer den perfekten Sweet Spot von Fülle und Geschmack.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16121928876298__622085cb-71ac-40dc-a042-9529c98b40e2-1669308767fe3cbc69-0",
+        "template--16121928876298__622085cb-71ac-40dc-a042-9529c98b40e2-1669308767fe3cbc69-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "fe81340e-5644-417b-a36f-7c9f1236796a": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16121928876298__fe81340e-5644-417b-a36f-7c9f1236796a-1669734477255f8796-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Tabakfarmen",
+            "text": "<p>Strategisch günstig in den reichen und fruchtbaren Böden Nicaraguas gelegen, hat AJ Fernandez im ganzen Land umfangreiche Investitionen getätigt, um seinen eigenen Tabak aus allen wichtigen Anbaugebieten zu produzieren. Zu diesen Regionen gehören Condega, Jalapa, Esteli, Pueblo Nuevo, Quilali und die Insel Ometepe. Jede Farm oder Finca, wie sie in ihrer Muttersprache genannt werden, hat einen Namen, der für AJ sehr bedeutsam ist. Einige der Namen sind Finca La Providencia, La Lilia, Los Espejos, San Jose, La Soledad, San Lotano, San Diego, Los Cedros und Santa Lucia.<br\/><br\/>Schon früh erkannte AJ, dass man seinen eigenen Tabak anbauen muss, um Jahr für Jahr hochwertige Zigarren zu produzieren, damit die Konsistenz und die Versorgung gewährleistet sind. In kurzer Zeit ist es AJ gelungen, ein Immobilienportfolio wie kein anderes anzuhäufen, das es ihm ermöglicht, spezifische Tabaksorten für alle seine Mischungen anzubauen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16121928876298__fe81340e-5644-417b-a36f-7c9f1236796a-1669734477255f8796-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AJ_Fernandez_2.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16121928876298__fe81340e-5644-417b-a36f-7c9f1236796a-1669734477255f8796-1",
+        "template--16121928876298__fe81340e-5644-417b-a36f-7c9f1236796a-1669734477255f8796-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "d75ed28a-40cf-4223-bf0f-31555a309f9e": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16360606564618__d75ed28a-40cf-4223-bf0f-31555a309f9e-1669910142e276f6bc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AJ_Fernandez_3.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16360606564618__d75ed28a-40cf-4223-bf0f-31555a309f9e-1669910142e276f6bc-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Herstellungsprozess",
+            "text": "<p>Sobald der Wachstumsprozess abgeschlossen ist, geht die Reise vom Samen zum Rauch weiter. Dies ist die Zeit, in der all die Hände beginnen, die kostbaren Blätter zu berühren, die feinfühlig und methodisch gebündelt werden, um ein exquisites Raucherlebnis zu erzeugen.<br\/><br\/>Jedes Tabakblatt wird zu seinem günstigsten Zeitpunkt von der Pflanze gepflückt oder vorbereitet. Während diese Blätter in den Tabak-Trockenhäusern auf dem Land aufgereiht werden, geben sie sanft ihre leuchtend grüne Farbe ab und nehmen neue Farben an, die die Jahreszeiten nachahmen. Gelb- und Brauntöne übernehmen sanft die Hauptfarbe der Blätter. Von den Tabaktrockenhäusern aus werden die Blätter in ihr neues Zuhause transportiert, wo sie sortiert und in Fermentationsstapeln oder Pilonen angeordnet werden. In den nächsten sechs bis 24 Monaten durchlaufen die Tabakblätter einen Prozess, der die für die Herstellung einer erstklassigen Zigarre erforderlichen Eigenschaften hervorbringt. Danach werden die Tabakblätter erneut sortiert und in Ballen gelagert, in denen sie einige Jahre lang reifen können, bevor sie in die Hände der Zigarrenroller gelangen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16360606564618__d75ed28a-40cf-4223-bf0f-31555a309f9e-1669910142e276f6bc-0",
+        "template--16360606564618__d75ed28a-40cf-4223-bf0f-31555a309f9e-1669910142e276f6bc-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "dc4ec22c-1916-44ae-9ae1-db41c67c48c5": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16360606564618__dc4ec22c-1916-44ae-9ae1-db41c67c48c5-1669910142e276f6bc-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Zigarrenfabriken",
+            "text": "<p>AJ Fernandez besitzt und betreibt 2 Zigarrenfabriken in Nicaragua. Tabacalera AJ Fernandez de Nicaragua SA befindet sich im Herzen des Tabaklandes Estelí, Nicaragua. Die Fabrik San Lotano befindet sich 70 Kilometer nördlich in Totogalpa. Diese beiden Fabriken ermöglichen es, über 100.000 Zigarren pro Tag in Handarbeit herzustellen.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16360606564618__dc4ec22c-1916-44ae-9ae1-db41c67c48c5-1669910142e276f6bc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AJ_Fernandez_4.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16360606564618__dc4ec22c-1916-44ae-9ae1-db41c67c48c5-1669910142e276f6bc-1",
+        "template--16360606564618__dc4ec22c-1916-44ae-9ae1-db41c67c48c5-1669910142e276f6bc-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515824545765535e",
+    "hero",
+    "622085cb-71ac-40dc-a042-9529c98b40e2",
+    "fe81340e-5644-417b-a36f-7c9f1236796a",
+    "d75ed28a-40cf-4223-bf0f-31555a309f9e",
+    "dc4ec22c-1916-44ae-9ae1-db41c67c48c5"
+  ]
+}

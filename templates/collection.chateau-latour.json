@@ -1,0 +1,253 @@
+{
+  "sections": {
+    "1642433051e2042999": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1642433050e37cfe34-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chateau_Latour_1.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1642433050e37cfe34-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Château Latour",
+            "text": "<p>Château Latour ist eines der ältesten Bordeaux-Weingüter in der Appellation Pauillac, dessen Geschichte bis ins 14. Jahrhundert zurückreicht.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "1642433050e37cfe34-0",
+        "1642433050e37cfe34-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "subcollections": {
+      "type": "subcollection",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "carousel",
+        "subcollection_description": false,
+        "select_image": "product"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "grid": 5,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "enable_reviews": false
+      }
+    },
+    "16515824545765535e": {
+      "type": "section-logo-list",
+      "blocks": {
+        "16515824541b890ce9-0": {
+          "type": "logo-item",
+          "settings": {
+            "description": "",
+            "logo": "shopify:\/\/shop_images\/Chateau_Latour_Logo.png",
+            "logo_width": 180
+          }
+        }
+      },
+      "block_order": [
+        "16515824541b890ce9-0"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 60,
+        "text_color": "text-dark",
+        "bg_color": "#fafafa"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": false,
+        "text_color": "text-light",
+        "flex_align": "align--bottom-left",
+        "transparent": true,
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "two-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "65f3add1-702f-4109-a763-2dbe5d63b0a6": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16133106041098__65f3add1-702f-4109-a763-2dbe5d63b0a6-1668442722ed5427bf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chateau_Latour_5.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16133106041098__65f3add1-702f-4109-a763-2dbe5d63b0a6-1668442722ed5427bf-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Über",
+            "title": "Château Latour",
+            "text": "<p>Die Geschichte von <a href=\"https:\/\/www.chateau-latour.com\/en\/in-the-beginning\/since-1331\" title=\"Château Latour Geschichte\">Château Latour<\/a> lässt sich bis ins Jahr 1378 zurückverfolgen, dem Jahr, in dem der Hofhistoriker Jean Froissart von der Einnahme eines zweistöckigen Turms namens „La Tor de Sent-Maubert“ durch englische Soldaten während des Hundertjährigen Krieges schrieb.<br\/><br\/>Die Geschichte des Weinbaus in Latour reicht jedoch viel weiter zurück, möglicherweise bis ins 12. Jahrhundert, als Steuerbefreiungen für englische Märkte einen blühenden Handel mit Wein zwischen Frankreich und England ermöglichten.<br\/><br\/>Aufzeichnungen deuten darauf hin, dass im 14. und 15. Jahrhundert bereits bis zu zwei Drittel des berühmten Weinbergs von L' Enclos mit Reben bepflanzt waren - ein ungewöhnlich hoher Prozentsatz in einer Zeit, in der die meisten Weingüter eine Mischung aus Reben und anderen Nutzpflanzen anbauten.<br\/><br\/>Ein Bericht aus dem Jahr 1755 - 100 Jahre vor der Klassifizierung von 1855 - zeigte, dass Latour bereits als Erzeuger einiger der besten Weine der Region anerkannt war. Er listete es als eines von nur vier Gütern auf, deren Weine mehr als 900 Livres pro Tonneau einbrachten (die anderen waren Haut-Brion, Lafite und Cantenac).<br\/><br\/>Der Wein von Latour wurde bis zur Reblausplage ausschließlich aus unveredelten Rebstöcken hergestellt. Ab 1900 wurde mit der Veredelung der Reben begonnen, bis 1920 waren alle Rebstöcke veredelt. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16133106041098__65f3add1-702f-4109-a763-2dbe5d63b0a6-1668442722ed5427bf-0",
+        "template--16133106041098__65f3add1-702f-4109-a763-2dbe5d63b0a6-1668442722ed5427bf-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "ce233e08-007e-4044-9acb-7661b92bfcc2": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16190345642250__ce233e08-007e-4044-9acb-7661b92bfcc2-1668784165a1fb06ee-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "",
+            "text": "<p>Während andere Weingüter immer wieder neue Besitzer gefunden haben, sind die Besitzverhältnisse auf Château Latour über die Jahre hinweg bemerkenswert konstant geblieben. Marguerite Coutant erbte Latour 1693 von ihrem Onkel François Chanevas, und das Gut ging bis 1962, als es von der britischen Pearson-Gruppe gekauft wurde, an nur drei Familien weiter. Der Verkauf markierte eine Zeit großer Veränderungen auf dem Gut. Es wurden enorme Investitionen in die Anpflanzung neuer Rebstöcke, den Ersatz alter Maschinen und die Einführung neuer Edelstahltanks getätigt - Veränderungen, die heute von vielen Weingütern in Bordeaux übernommen werden, damals aber bahnbrechend waren.<br\/><br\/>Ein zweiter Wein, Les Forts de Latour, wurde 1966 auf den Markt gebracht, gefolgt von einem dritten, dem Pauillac de Latour, im Jahr 1973. Außerdem wurden winzige Mengen Roséwein für den privaten Verbrauch produziert. Es wurde viel Energie in den biologischen und biodynamischen Weinbau und die Verbesserung der Weinherstellung investiert. Das 1993 von François Pinault erworbene Château Latour hat sich unter der Leitung von Frédéric Engerer, der seit 1998 Präsident des Hauses ist, stetig weiterentwickelt. Im Rahmen einer umfassenden Renovierung wurden die Weinkeller umgebaut und ein neuer Weinkeller plus Verkostungsraum errichtet. Auch in die Umstellung auf biologischen und biodynamischen Weinbau und die Verbesserung der Weinbereitung wurde viel Energie investiert.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16190345642250__ce233e08-007e-4044-9acb-7661b92bfcc2-1668784165a1fb06ee-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-third",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "e248903f-bcc3-4129-b762-7c645c1beba1": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16133106041098__e248903f-bcc3-4129-b762-7c645c1beba1-1668442722ed5427bf-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Hervorragender Standort",
+            "text": "<p>Château Latour liegt im Herzen der Weinregion Médoc, etwa 50 km nordwestlich von Bordeaux, wo die Legende der Weinberge von Bordeaux begann. Das wichtigste Terroir des Château, l'Enclos, überblickt die Mündung der Gironde: der Fluss und das Meer haben dem Weinberg im Laufe der Jahrhunderte seine geologische Komplexität verliehen und sorgen täglich für ein mildes Klima. Die hervorragende Lage von Château Latour, nur 300 Meter von der Mündung entfernt, verleiht dem Weinberg seinen besonderen Charakter und mildert extreme Witterungsbedingungen, vor allem Kälte- und Frostperioden, wie zum Beispiel im Jahr 1991. <br\/><br\/><\/p><p>Die meisten Rebstöcke von Château Latour sind auf kiesigen Hügeln gepflanzt, die 12 bis 16 Meter über der Mündung der Gironde liegen. Die glückliche Kombination der Gironde mit Kiesschichten an der Oberfläche und einem lehmigen Untergrund verleiht dem Terroir von Château Latour Vorteile, die nur wenige andere Weinberge für sich beanspruchen können. <\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-dark",
+            "bg_color": "#ffffff",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16133106041098__e248903f-bcc3-4129-b762-7c645c1beba1-1668442722ed5427bf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chateau_Latour_6.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16133106041098__e248903f-bcc3-4129-b762-7c645c1beba1-1668442722ed5427bf-1",
+        "template--16133106041098__e248903f-bcc3-4129-b762-7c645c1beba1-1668442722ed5427bf-0"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "1642433051e2042999",
+    "subcollections",
+    "main",
+    "16515824545765535e",
+    "hero",
+    "65f3add1-702f-4109-a763-2dbe5d63b0a6",
+    "ce233e08-007e-4044-9acb-7661b92bfcc2",
+    "e248903f-bcc3-4129-b762-7c645c1beba1"
+  ]
+}
